@@ -1,0 +1,17 @@
+.I 2782
+.T
+A Reply to Gentleman and Marovich
+.B
+CACM March, 1975
+.A
+Karp, R. A.
+.K
+high-level languages, philosophy of language design
+.C
+4.22 5.19
+.N
+CA750306 JB January 9, 1978  4:38 PM
+.X
+2782	5	2782
+2782	5	2782
+2782	5	2782

@@ -1,0 +1,17 @@
+.I 245
+.T
+A Set of Associate Legendre Polynomials of the Second Kind (Algorithm 62)
+.B
+CACM December, 1961
+.A
+Herndon, J. R.
+.N
+CA611205 JB March 15, 1978  10:25 PM
+.X
+1222	5	245
+245	5	245
+245	5	245
+245	5	245
+1130	6	245
+245	6	245
+310	6	245

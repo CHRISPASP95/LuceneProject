@@ -1,0 +1,14 @@
+.I 432
+.T
+Triangular Regression (Algorithm 142)
+.B
+CACM December, 1962
+.A
+Hafley, W. L.
+Lewis, J. S.
+.N
+CA621207 JB March 17,1978  5:09 PM
+.X
+432	5	432
+432	5	432
+432	5	432

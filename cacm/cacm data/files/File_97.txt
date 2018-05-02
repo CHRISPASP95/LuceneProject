@@ -1,0 +1,15 @@
+.I 97
+.T
+Signal Corps Research and Development on
+Automatic Programming of Digital Computers
+.B
+CACM February, 1959
+.A
+Luebbert, Capt. W. F.
+Collom Jr., Capt. P. W.
+.N
+CA590204 JB March 22, 1978  8:19 PM
+.X
+97	5	97
+97	5	97
+97	5	97

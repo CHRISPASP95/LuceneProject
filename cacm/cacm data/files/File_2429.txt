@@ -1,0 +1,22 @@
+.I 2429
+.T
+Calculation of Optimum Parameters for Alternating
+Direction Implicit Procedures [D3] (Algorithm 
+A460)
+.B
+CACM October, 1973
+.A
+Saylor, P. E.
+Sebastian, J. D.
+.K
+elliptic difference equations, Peaceman-Rachford,
+Douglas-Rachford, W. B. Jordan, optimum parameters, 
+alternating-direction-implicit, ADI
+.C
+5.14 5.17
+.N
+CA731011 JB January 20, 1978  11:09 AM
+.X
+2429	5	2429
+2429	5	2429
+2429	5	2429

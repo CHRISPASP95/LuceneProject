@@ -1,0 +1,14 @@
+.I 1089
+.T
+Designing a Computer Center
+.B
+CACM April, 1964
+.A
+Denison, A.
+Popov, G.
+.N
+CA640420 JB March 10, 1978  12:29 AM
+.X
+1089	5	1089
+1089	5	1089
+1089	5	1089

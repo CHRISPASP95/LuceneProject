@@ -1,0 +1,34 @@
+.I 2185
+.T
+A Note on Compiling Fixed Point Binary Multiplications
+.W
+An algorithm is developed for compiling, as
+a sequence of shifts, additions,and subtractions, 
+many fixed point binary multiplications involving a
+constant.  The most significant characteristics of 
+the algorithm are the simplicity of the test which
+determines if the algorithm should be applied and 
+the degree to which it "suggests" efficient object code.
+.B
+CACM June, 1971
+.A
+Glaswin, H. T.
+.K
+compiling multiplications, fixed point arithmetic
+.C
+4.12
+.N
+CA710605 JB February 3, 1978  10:04 AM
+.X
+2185	5	2185
+2185	5	2185
+2185	5	2185
+2296	5	2185
+2952	5	2185
+142	6	2185
+162	6	2185
+163	6	2185
+192	6	2185
+2185	6	2185
+2185	6	2185
+2727	6	2185

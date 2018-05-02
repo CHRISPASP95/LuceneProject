@@ -1,0 +1,22 @@
+.I 1043
+.T
+Talk-A High-Level Source Language Debugging
+Technique With Real-Time Data Extraction
+.W
+TALK, meaning Take A Look, is a debugging technique
+which aids substantially in debugging complex 
+real-time programming systems by interrupting the users
+program at desired points to extract previously 
+specified data.  The extracted data is later edited,
+listing the associated data with its high-level 
+source language identification.
+.B
+CACM July, 1964
+.A
+verSteeg, R. L.
+.N
+CA640704 JB March 9, 1978  8:24 PM
+.X
+1043	5	1043
+1043	5	1043
+1043	5	1043

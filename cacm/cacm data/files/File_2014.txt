@@ -1,0 +1,17 @@
+.I 2014
+.T
+Function Minimization and Linear Search $E4) (Algorithm 387)
+.B
+CACM August, 1970
+.A
+Fielding, K.
+.K
+function minimization, relative minimum, quasi-Newton method
+.C
+5.15
+.N
+CA700807 JB February 10, 1978  3:30 PM
+.X
+2014	5	2014
+2014	5	2014
+2014	5	2014

@@ -1,0 +1,17 @@
+.I 674
+.T
+Application of IBM 1620 EDP Methods to the Calculation
+of the Formation Constants of Complex 
+Irons
+.B
+CACM November, 1963
+.A
+Andrews, A. C.
+Hassler, J.
+DeCou, F.
+.N
+CA631118 JB March 13, 1978  3:18 PM
+.X
+674	5	674
+674	5	674
+674	5	674

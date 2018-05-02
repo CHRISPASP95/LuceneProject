@@ -1,0 +1,15 @@
+.I 2617
+.T
+A Note on Subexpression Ordering in
+the Evaluation of Arithmetic Expressions
+.B
+CACM August, 1974
+.A
+Denning, P. J.
+Graham, G. S.
+.N
+CA740807 JB January 17, 1978  9:44 AM
+.X
+2617	5	2617
+2617	5	2617
+2617	5	2617

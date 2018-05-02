@@ -1,0 +1,13 @@
+.I 569
+.T
+Binomial Coefficients (Algorithm 19)
+.B
+CACM June, 1962
+.A
+Steck, B.
+.N
+CA620616 JB March 17, 1978  9:22 PM
+.X
+569	5	569
+569	5	569
+569	5	569

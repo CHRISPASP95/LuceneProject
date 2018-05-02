@@ -1,0 +1,18 @@
+.I 1993
+.T
+Regular Coulomb Wave Functions (Algorithm 292 $S22))
+.B
+CACM September, 1970
+.A
+ Cody, W. J.
+Paciorek, K. A.                                                         
+.K
+Coulomb wave functions, wave functions, regular Coulomb wave functions
+.C
+5.12
+.N
+CA700912 JB February 10, 1978  10:03 AM
+.X
+1993	5	1993
+1993	5	1993
+1993	5	1993

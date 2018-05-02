@@ -1,0 +1,13 @@
+.I 422
+.T
+COMBINATION (Algorithm 94)
+.B
+CACM December, 1962
+.A
+Grench, R. E.
+.N
+CA621217 JB March 17, 1978  4:56 PM
+.X
+422	5	422
+422	5	422
+422	5	422

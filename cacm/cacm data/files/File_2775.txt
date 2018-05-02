@@ -1,0 +1,18 @@
+.I 2775
+.T
+The Dilogarithm Function of a Real Argument [S22] (Algorithm 490)
+.B
+CACM April, 1975
+.A
+Ginsberg, E. S.
+Zaborowski, D.
+.K
+dilogarithm
+.C
+5.12
+.N
+CA750402 JB January 9, 1978  4:09 PM
+.X
+2775	5	2775
+2775	5	2775
+2775	5	2775

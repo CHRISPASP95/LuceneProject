@@ -1,0 +1,13 @@
+.I 936
+.T
+A Set of Test Matrices (Algorithm 52)
+.B
+CACM January, 1963
+.A
+Naur, P.
+.N
+CA630112 JB March 14, 1978  2:35 PM
+.X
+936	5	936
+936	5	936
+936	5	936

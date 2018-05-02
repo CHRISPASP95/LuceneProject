@@ -1,0 +1,13 @@
+.I 199
+.T
+Euclidian Algorithm (Algorithm 7)
+.B
+CACM April, 1960
+.A
+Claussen, R.
+.N
+CA600412 JB March 22, 1978  1:37 PM
+.X
+199	5	199
+199	5	199
+199	5	199

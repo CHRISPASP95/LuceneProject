@@ -1,0 +1,14 @@
+.I 1578
+.T
+Generalized Least Squares Fit By Orthogonal
+Polynomials (Algorithm 296 [E2])
+.B
+CACM June, 1967
+.A
+Makinson, G. J.
+.N
+CA670607f JB March 23, 1978  3:33 PM
+.X
+1578	5	1578
+1578	5	1578
+1578	5	1578

@@ -1,0 +1,13 @@
+.I 167
+.T
+Combining ALGOL Statement Analysis with Validity Checking
+.B
+CACM July, 1960
+.A
+McIsaac, P.
+.N
+CA600706 JB March 20, 1978  9:15 PM
+.X
+167	5	167
+167	5	167
+167	5	167

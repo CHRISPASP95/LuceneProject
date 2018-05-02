@@ -1,0 +1,13 @@
+.I 622
+.T
+Optimal Classification of Objects (Algorithm 83)
+.B
+CACM March, 1962
+.A
+Mayoh, B. H.
+.N
+CA620310 JB March 20, 1978  3:02 PM
+.X
+622	5	622
+622	5	622
+622	5	622

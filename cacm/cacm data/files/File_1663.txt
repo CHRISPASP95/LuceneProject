@@ -1,0 +1,26 @@
+.I 1663
+.T
+Generator of Random Numbers Satisfying the Poisson distribution [G5])
+.B
+CACM December, 1968
+.A
+Snow, R. H.
+.K
+Poisson distribution, random number generator, Monte Carlo
+.C
+5.12 5.5
+.N
+CA681203 JB February 21, 1978  1:45 PM
+.X
+1663	4	1663
+1663	4	1663
+2195	4	1663
+2349	4	1663
+2679	4	1663
+1190	5	1663
+1648	5	1663
+1663	5	1663
+1663	5	1663
+1663	5	1663
+2123	5	1663
+1663	6	1663

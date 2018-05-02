@@ -1,0 +1,19 @@
+.I 2293
+.T
+Comment on Average Binary Search Length
+.B
+CACM August, 1972
+.A
+Jones, P. R.
+.K
+searching, binary searching, record retrieval
+.C
+3.74
+.N
+CA720809 JB January 30, 1978  9:26 AM
+.X
+2293	4	2293
+2157	5	2293
+2293	5	2293
+2293	5	2293
+2293	5	2293

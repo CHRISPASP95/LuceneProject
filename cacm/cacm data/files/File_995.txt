@@ -1,0 +1,13 @@
+.I 995
+.T
+Steep1 (Algorithm 203 [E4])
+.B
+CACM October, 1964
+.A
+Wallack, P.
+.N
+CA641007 JB March 9, 1978  4:48 PM
+.X
+995	5	995
+995	5	995
+995	5	995

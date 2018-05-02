@@ -1,0 +1,25 @@
+.I 2932
+.T
+Complexity of Computations
+.W
+The framework for research in the theory of complexity
+of computations is described, emphasizing 
+the in terrelation between seemingly diverse problems
+and methods.  Illustrative examples of practical 
+and theoretical significance are given.  Directions
+for new research are discussed.
+.B
+CACM September, 1977
+.A
+Rabin, M. O.
+.K
+complexity of computations, algebraic complexity,
+in tractable problems, probabilistic algorithms
+.C
+5.25
+.N
+CA770901 JB December 28, 1977  6:54 AM
+.X
+2932	5	2932
+2932	5	2932
+2932	5	2932

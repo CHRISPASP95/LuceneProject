@@ -1,0 +1,17 @@
+.I 1337
+.T
+EULER: A Generalization of ALGOL, and its Formal Definition
+.B
+CACM December, 1966
+.A
+Wirth, N.
+Weber, H.
+.N
+CA661212 JB March 30, 1978  9:11 AM
+.X
+1337	5	1337
+1337	5	1337
+1337	5	1337
+2423	5	1337
+1337	6	1337
+2015	6	1337

@@ -1,0 +1,11 @@
+.I 2007
+.T
+Algorithms Policy/Revised August 1970
+.B
+CACM August, 1970
+.N
+CA700814 JB February 10, 1978  3:12 PM
+.X
+2007	5	2007
+2007	5	2007
+2007	5	2007

@@ -1,0 +1,14 @@
+.I 897
+.T
+Note on the Proof of the Non-existence
+of a Phrase Structure Grammar for ALGOL 60
+.B
+CACM March, 1963
+.A
+Brown, P. J.
+.N
+CA630323 JB March 14, 1978  1:00 PM
+.X
+897	5	897
+897	5	897
+897	5	897

@@ -1,0 +1,20 @@
+.I 2278
+.T
+On Foster's Information Storage and Retrieval Using AVL Trees
+.B
+CACM September, 1972
+.A
+Tan, K. C.
+.K
+binary trees, search trees, information storage, information retrieval
+.C
+3.70 3.73 3.74
+.N
+CA720912 JB January 27, 1978  4:10 PM
+.X
+2278	5	2278
+2278	5	2278
+2278	5	2278
+2455	5	2278
+2278	6	2278
+2388	6	2278

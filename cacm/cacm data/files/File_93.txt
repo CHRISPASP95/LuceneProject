@@ -1,0 +1,24 @@
+.I 93
+.T
+From Formulas to Computer Oriented Language
+.W
+A technique is shown for enabling a computer
+to translate simple algebraic formulas into a 
+three address computer code.
+.B
+CACM March, 1959
+.A
+Wegstein, J. H.
+.N
+CA590303 JB March 22, 1978  8:03 PM
+.X
+405	5	93
+54	5	93
+93	5	93
+93	5	93
+93	5	93
+224	6	93
+55	6	93
+77	6	93
+93	6	93
+93	6	93

@@ -1,0 +1,13 @@
+.I 484
+.T
+Hankel Function (Algorithm 124)
+.B
+CACM September, 1962
+.A
+Schaefer, L. J.
+.N
+CA620908 JB March 17, 1978  7:34 PM
+.X
+484	5	484
+484	5	484
+484	5	484

@@ -1,0 +1,17 @@
+.I 1881
+.T
+Transpose Vector Stored Array (Algorithm 302 [K2])
+.B
+CACM June, 1969
+.A
+MacLeod, I. D. G.
+.K
+matrix transposition, array transposition, vector stored array
+.C
+5.39
+.N
+CA690612 JB February 17, 1978  9:51 AM
+.X
+1881	5	1881
+1881	5	1881
+1881	5	1881

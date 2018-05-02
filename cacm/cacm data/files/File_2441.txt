@@ -1,0 +1,13 @@
+.I 2441
+.T
+Hidden-Line Plotting Program (Algorithm R420)
+.B
+CACM September, 1973
+.A
+Williamson, H.
+.N
+CA730914 JB January 23, 1978  8:36 AM
+.X
+2441	5	2441
+2441	5	2441
+2441	5	2441

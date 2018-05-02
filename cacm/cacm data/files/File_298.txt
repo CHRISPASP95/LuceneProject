@@ -1,0 +1,25 @@
+.I 298
+.T
+A 48-Bit Pseudo-Random Number Generator
+.W
+A new 48-bit pseudo-random number generator, suitable
+for several computers, was tested statistically 
+for randomness to determine its adequacy for use in Monte
+Carlo programs.  Frequency tests, distributions 
+of certain low-order moments, runs up and down, and runs
+above and below the mean were applied to one-half 
+million generated numbers lying within the interval
+(0,1) and to three sets of integers obtained from 
+specified bits within the generated numbers.  These
+tests substantiated the randomness of all numbers 
+except for the set of integers coming from the least significant bits.
+.B
+CACM August, 1961
+.A
+Kuehn, H. G.
+.N
+CA610806 JB March 16, 1978  10:09 PM
+.X
+298	5	298
+298	5	298
+298	5	298

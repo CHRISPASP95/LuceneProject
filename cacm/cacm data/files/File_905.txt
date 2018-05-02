@@ -1,0 +1,13 @@
+.I 905
+.T
+Algebra of Sets (Algorithm 156)
+.B
+CACM March, 1963
+.A
+Mifsud, C. J.
+.N
+CA630315 JB March 14, 1978  1:32 PM
+.X
+905	5	905
+905	5	905
+905	5	905

@@ -1,0 +1,23 @@
+.I 2076
+.T
+Cubic Splines on Uniform Meshes
+.W
+A very simple procedure is presented for constructing cubic splines,
+periodic or nonperiodic, on uniform meshes.  Arcs of two cubics suffice
+to construct a basis of cardinal splines.  An algorithm is given which 
+requires only minimal storage and computation and permits easy trade-off 
+of one against the other.
+.B
+CACM April, 1970
+.A
+Nilson, E. N.
+.K
+simple spline representation, cardinal splines, uniform mesh splines
+.C
+5.13
+.N
+CA700408 JB February 13, 1978  2:51 PM
+.X
+2076	5	2076
+2076	5	2076
+2076	5	2076

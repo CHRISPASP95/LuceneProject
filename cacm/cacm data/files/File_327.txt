@@ -1,0 +1,18 @@
+.I 327
+.T
+Zeros of a Real Polynomial by Resultant Procedure (Algorithm 59)
+.B
+CACM May, 1961
+.A
+Bareiss, E. H.
+Fisherkeller, M. A.
+.N
+CA610507 JB March 16, 1978  11:01 PM
+.X
+1667	5	327
+327	5	327
+327	5	327
+327	5	327
+178	6	327
+1242	6	327
+327	6	327

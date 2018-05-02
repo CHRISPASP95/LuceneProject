@@ -1,0 +1,14 @@
+.I 258
+.T
+Composition Generator (Algorithm 72)
+.B
+CACM November, 1961
+.A
+Hellerman, O.
+Ogden, S.
+.N
+CA611110 JB March 15, 1978  10:48 PM
+.X
+258	5	258
+258	5	258
+258	5	258

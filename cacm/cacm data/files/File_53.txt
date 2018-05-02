@@ -1,0 +1,15 @@
+.I 53
+.T
+Recommendations of the SHARE ALGOL Committee
+.B
+CACM October, 1959
+.N
+CA591006 JB March 22, 1978  4:13 PM
+.X
+214	5	53
+53	5	53
+53	5	53
+53	5	53
+1	6	53
+53	6	53
+91	6	53

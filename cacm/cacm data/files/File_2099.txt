@@ -1,0 +1,29 @@
+.I 2099
+.T
+Eigenvalues and Eigen vectors of a
+Real General Matrix (Algorithm 343 $F))
+.B
+CACM February, 1970
+.A
+Knoble, H. D.
+.K
+norm, characteristic equation, degenerate eigen-system,
+diagonalizable matrix, defective matrix  
+.C
+5.14
+.N
+CA700216 JB February 14, 1978  9:43 AM
+.X
+1876	4	2099
+1968	4	2099
+2099	4	2099
+2099	4	2099
+2335	4	2099
+1662	5	2099
+1707	5	2099
+1968	5	2099
+2099	5	2099
+2099	5	2099
+2099	5	2099
+1662	6	2099
+2099	6	2099

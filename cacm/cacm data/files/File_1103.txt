@@ -1,0 +1,13 @@
+.I 1103
+.T
+Logic for the Computer Sciences 
+.B
+CACM April, 1964
+.A
+Korfhage, R. R.
+.N
+CA640405 JB March 10, 1978  1:50 AM
+.X
+1103	5	1103
+1103	5	1103
+1103	5	1103

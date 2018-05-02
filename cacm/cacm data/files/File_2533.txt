@@ -1,0 +1,21 @@
+.I 2533
+.T
+Gray Code and the +- Sign Sequence when
++-f (+-f(+-f(...+-f(x)...))) Is Ordered
+.B
+CACM March, 1973
+.A
+Salzer, H. E.
+.K
+Gray code, sign sequences, ordering, positive
+monotonic functions, binary system, Galois sum
+.C
+5.10
+.N
+CA730306 JB January 24, 1978  10:35 AM
+.X
+2533	4	2533
+2394	5	2533
+2533	5	2533
+2533	5	2533
+2533	5	2533

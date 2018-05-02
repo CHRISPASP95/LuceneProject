@@ -1,0 +1,13 @@
+.I 1513
+.T
+PERMUTATION (Algorithm 317 [G6])
+.B
+CACM November, 1967
+.A
+Robinson, C. L.
+.N
+CA671107d JB March 23, 1978  2:21 PM
+.X
+1513	5	1513
+1513	5	1513
+1513	5	1513

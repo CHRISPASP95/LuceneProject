@@ -1,0 +1,14 @@
+.I 553
+.T
+Complex Number to a Real Power (Algorithm 106)
+.B
+CACM July, 1962
+.A
+Johnson, M. L.
+Sangren, W.
+.N
+CA620708 JB March 17, 1978  8:34 PM
+.X
+553	5	553
+553	5	553
+553	5	553

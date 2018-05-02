@@ -1,0 +1,22 @@
+.I 2642
+.T
+Solution of an Overdetermined System of Equations
+in the L1 Norm [F4] (Algorithm A478)
+.B
+CACM June, 1974
+.A
+Barrodale, I.
+Roberts, F. D. K.
+.K
+L1 approximation, L1 norm, overdetermined system
+of equations, linear programming, simplex method 
+.C
+5.13 5.41
+.N
+CA740604 JB January 17, 1978  3:25 PM
+.X
+2642	5	2642
+2642	5	2642
+2642	5	2642
+2759	5	2642
+2642	6	2642

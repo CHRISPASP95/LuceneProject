@@ -1,0 +1,13 @@
+.I 801
+.T
+Least Squares Solution with Constraints (Algorithm 177)
+.B
+CACM July, 1963
+.A
+Synge, M. J.
+.N
+CA630723 JB March 14, 1978  8:14 AM
+.X
+801	5	801
+801	5	801
+801	5	801

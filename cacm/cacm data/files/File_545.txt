@@ -1,0 +1,13 @@
+.I 545
+.T
+Adjust Inverse of a Matrix when an Element is Perturbed (Algorithm 51)
+.B
+CACM July, 1962
+.A
+George, R.
+.N
+CA620716 JB March 17, 1978  8:22 PM
+.X
+545	5	545
+545	5	545
+545	5	545

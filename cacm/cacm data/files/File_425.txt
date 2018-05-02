@@ -1,0 +1,13 @@
+.I 425
+.T
+Complete Elliptic Integral (Algorithm 149)
+.B
+CACM December, 1962
+.A
+Merner, J. N.
+.N
+CA621214 JB March 17,1978  4:59 PM
+.X
+425	5	425
+425	5	425
+425	5	425

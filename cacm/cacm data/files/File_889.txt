@@ -1,0 +1,11 @@
+.I 889
+.T
+Official Actions and Responses to ALGOL As a Programming Language
+.B
+CACM April, 1963
+.N
+CA630402 JB March 14, 1978  12:30 PM
+.X
+889	5	889
+889	5	889
+889	5	889

@@ -1,0 +1,20 @@
+.I 726
+.T
+A General Program for the Analysis of
+Square and Rectangular Lattice Designs
+.W
+This paper describes a general-purpose program
+that will handle those incomplete block designs 
+known as square and rectangular lattices.  Flow diagrams
+are given so that the method of calculation 
+may be programmed for any digital computer.
+.B
+CACM September, 1963
+.A
+Smillie, K. W.
+.N
+CA630932 JB March 13, 1978  6:53 PM
+.X
+726	5	726
+726	5	726
+726	5	726

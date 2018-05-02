@@ -1,0 +1,13 @@
+.I 564
+.T
+CRAM (Algorithm 67)
+.B
+CACM June, 1962
+.A
+Relph, A. P.
+.N
+CA620621 JB March 17, 1978  9:17 PM
+.X
+564	5	564
+564	5	564
+564	5	564

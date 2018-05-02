@@ -1,0 +1,13 @@
+.I 170
+.T
+Some Thoughts on Reconciling Various Character Set Proposals
+.B
+CACM July, 1960
+.A
+Voorhees, E. A.
+.N
+CA600703 JB March 20, 1978  9:18 PM
+.X
+170	5	170
+170	5	170
+170	5	170

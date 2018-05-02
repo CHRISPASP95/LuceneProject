@@ -1,0 +1,13 @@
+.I 2611
+.T
+The Complex Method for Constrained Optimization (Algorithm R454)
+.B
+CACM August, 1974
+.A
+Shere, K. D.
+.N
+CA740813 JB January 17, 1978  9:28 AM
+.X
+2611	5	2611
+2611	5	2611
+2611	5	2611

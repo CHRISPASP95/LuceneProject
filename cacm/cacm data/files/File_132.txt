@@ -1,0 +1,13 @@
+.I 132
+.T
+Math Sort (Algorithm 23)
+.B
+CACM November, 1960
+.A
+Feurzeig, W.
+.N
+CA601103 JB March 20, 1978  8:03 PM
+.X
+132	5	132
+132	5	132
+132	5	132

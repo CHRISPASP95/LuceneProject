@@ -1,0 +1,12 @@
+.I 1063
+.T
+One-Inch Perforated Paper Tape for Information
+Interchange (Proposed American Standard)
+.B
+CACM June, 1964
+.N
+CA640604 JB March 9, 1978  9:44 PM
+.X
+1063	5	1063
+1063	5	1063
+1063	5	1063

@@ -1,0 +1,19 @@
+.I 2013
+.T
+Rademacher Function $S22) (Algorithm 388)
+.B
+CACM August, 1970
+.A
+Hubner, H.
+.K
+Rademacher function
+.C
+5.12 5.13
+.N
+CA700808 JB February 10, 1978  3:23 PM
+.X
+2012	5	2013
+2013	5	2013
+2013	5	2013
+2013	5	2013
+2013	6	2013

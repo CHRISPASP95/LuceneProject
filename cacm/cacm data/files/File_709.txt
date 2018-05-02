@@ -1,0 +1,13 @@
+.I 709
+.T
+Assignment (Algorithm 27)
+.B
+CACM October, 1963
+.A
+Newhouse, A.
+.N
+CA631016 JB March 13, 1978  5:46 PM
+.X
+709	5	709
+709	5	709
+709	5	709

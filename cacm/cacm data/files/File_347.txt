@@ -1,0 +1,13 @@
+.I 347
+.T
+Gamma Function for Range 1 to 2 (Algorithm 54)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610421 JB March 16, 1978  11:45 PM
+.X
+347	5	347
+347	5	347
+347	5	347

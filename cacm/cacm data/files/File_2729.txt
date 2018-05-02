@@ -1,0 +1,23 @@
+.I 2729
+.T
+Comments on a Paper by T. C. Chen and I. T. Ho
+.B
+CACM August, 1975
+.A
+Smith, A. J.
+.K
+binary coded decimal digits, decimal data storage,
+data compression, Huffman codes, variable length 
+codes
+.C
+6.32 6.34
+.N
+CA750806 JB January 6, 1978  4:37 PM
+.X
+2729	4	2729
+2729	4	2729
+2288	5	2729
+2729	5	2729
+2729	5	2729
+2729	5	2729
+2801	5	2729

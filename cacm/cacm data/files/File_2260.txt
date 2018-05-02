@@ -1,0 +1,17 @@
+.I 2260
+.T
+Exact Probabilities for R x C Contingency Tables [G2] (Algorithm A434)
+.B
+CACM November, 1972
+.A
+March, D. L.
+.K
+probability, contingency table, test of significance
+.C
+3.5 5.5
+.N
+CA721109 JB January 27, 1978  1:42 PM
+.X
+2260	5	2260
+2260	5	2260
+2260	5	2260

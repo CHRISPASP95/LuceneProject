@@ -1,0 +1,13 @@
+.I 490
+.T
+Programmed Methods for Printer Graphical Output
+.B
+CACM September, 1962
+.A
+Garfinkel, D.
+.N
+CA620902 JB March 17, 1978  8:56 PM
+.X
+490	5	490
+490	5	490
+490	5	490

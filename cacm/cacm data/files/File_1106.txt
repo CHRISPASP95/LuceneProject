@@ -1,0 +1,13 @@
+.I 1106
+.T
+Programming of Digital Computers
+.B
+CACM April, 1964
+.A
+Perlis, A. J.
+.N
+CA640402 JB March 10, 1978  1:54 AM
+.X
+1106	5	1106
+1106	5	1106
+1106	5	1106

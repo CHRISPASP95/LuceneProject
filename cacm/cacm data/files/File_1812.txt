@@ -1,0 +1,17 @@
+.I 1812
+.T
+More on Fortran Random Number Generators
+.B
+CACM November, 1969
+.A
+Grosenbaugh, L. R.
+.K
+random number generation, Monte Carlo, simulation
+.C
+5.5
+.N
+CA691118 JB February 15, 1978  11:57 AM
+.X
+1812	5	1812
+1812	5	1812
+1812	5	1812

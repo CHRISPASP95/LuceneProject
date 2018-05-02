@@ -1,0 +1,13 @@
+.I 115
+.T
+Optimizers: Their Structure
+.B
+CACM December, 1960
+.A
+Wheeling, R. F.
+.N
+CA601201 JB March 20, 1978  6:46 PM
+.X
+115	5	115
+115	5	115
+115	5	115

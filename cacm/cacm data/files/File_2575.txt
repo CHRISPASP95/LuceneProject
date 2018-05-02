@@ -1,0 +1,23 @@
+.I 2575
+.T
+The Best-Match Problem in Document Retrieval
+.B
+CACM November, 1974
+.A
+Van Rijsbergen, C. J.
+.K
+document retrieval, best match, clustering, file
+searching, matching, dissimilarity, hierarchy, 
+classification
+.C
+3.73 3.74 3.79 5.30
+.N
+CA741109 JB January 16, 1978  10:09 AM
+.X
+2575	4	2575
+2966	4	2575
+3134	4	2575
+2524	5	2575
+2575	5	2575
+2575	5	2575
+2575	5	2575

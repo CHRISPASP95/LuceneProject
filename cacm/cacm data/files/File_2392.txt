@@ -1,0 +1,25 @@
+.I 2392
+.T
+In-Situ Transposition of a Rectangular Matrix [F1] (Algorithm C380)
+.B
+CACM January, 1972
+.A
+Macleod, I. D. G.
+.K
+rectangular matrix, transpose
+.C
+5.14
+.N
+CA720111 JB February 1, 1978  8:57 AM
+.X
+2057	4	2392
+2057	4	2392
+2058	4	2392
+2392	4	2392
+2392	4	2392
+2416	4	2392
+1600	5	2392
+2055	5	2392
+2392	5	2392
+2392	5	2392
+2392	5	2392

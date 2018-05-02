@@ -1,0 +1,14 @@
+.I 818
+.T
+Realizing Boolean Connectives on The IBM 1620
+.B
+CACM July, 1963
+.A
+Hellerman, H.
+Senzig, D. N.
+.N
+CA630706 JB March 14, 1978  8:44 AM
+.X
+818	5	818
+818	5	818
+818	5	818

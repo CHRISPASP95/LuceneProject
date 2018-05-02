@@ -1,0 +1,13 @@
+.I 624
+.T
+Economising a Sequence 1 (Algorithm 81)
+.B
+CACM March, 1962
+.A
+Mayoh, B. H.
+.N
+CA620308 JB March 20, 1978  3:04 PM
+.X
+624	5	624
+624	5	624
+624	5	624

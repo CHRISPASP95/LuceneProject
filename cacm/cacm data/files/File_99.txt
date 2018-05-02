@@ -1,0 +1,13 @@
+.I 99
+.T
+Possible Modifications to the International Algebraic Language
+.B
+CACM February, 1959
+.A
+Green, J.
+.N
+CA590202 JB March 22, 1978  8:22 PM
+.X
+99	5	99
+99	5	99
+99	5	99

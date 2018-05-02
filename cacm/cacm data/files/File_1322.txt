@@ -1,0 +1,15 @@
+.I 1322
+.T
+Netflow (Algorithm 248 [H])
+.B
+CACM February, 1965
+.A
+Briggs, W. A.
+.N
+CA650202 JB March 7, 1978  11:18 PM
+.X
+1322	5	1322
+1322	5	1322
+1322	5	1322
+1690	5	1322
+1322	6	1322

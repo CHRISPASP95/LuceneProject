@@ -1,0 +1,19 @@
+.I 1330
+.T
+Automated Plotting Flow-Charts on a Small Computer
+.B
+CACM January, 1965
+.A
+Anderson, H. E.
+.N
+CA650107 JB March 8, 1978  2:39 PM
+.X
+1330	4	1330
+1330	4	1330
+1348	4	1330
+2315	4	1330
+1330	5	1330
+1330	5	1330
+1330	5	1330
+528	5	1330
+728	5	1330

@@ -1,0 +1,13 @@
+.I 498
+.T
+Magic Square (Algorithm 117 & 118)
+.B
+CACM August, 1962
+.A
+Collison, D. M.
+.N
+CA620830 JB March 17, 1978  9:20 PM
+.X
+498	5	498
+498	5	498
+498	5	498

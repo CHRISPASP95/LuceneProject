@@ -1,0 +1,13 @@
+.I 478
+.T
+Implementing a Stack
+.B
+CACM October, 1962
+.A
+Baecker, H.D.
+.N
+CA621002 JB March 17, 1978  7:25 PM
+.X
+478	5	478
+478	5	478
+478	5	478

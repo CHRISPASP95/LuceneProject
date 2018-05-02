@@ -1,0 +1,14 @@
+.I 253
+.T
+On a Program for Ray-Chaudhuri's Algorithm
+for a Minimum Cover of an Abstract Complex
+.B
+CACM November, 1961
+.A
+Foata, D. C.
+.N
+CA611115 JB March 15, 1978  10:41 PM
+.X
+253	5	253
+253	5	253
+253	5	253

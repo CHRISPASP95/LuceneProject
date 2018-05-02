@@ -1,0 +1,13 @@
+.I 139
+.T
+Binomial Coefficients (Algorithm 19)
+.B
+CACM October, 1960
+.A
+Kenyon, R. R.
+.N
+CA601009 JB March 20, 1978  8:14 PM
+.X
+139	5	139
+139	5	139
+139	5	139

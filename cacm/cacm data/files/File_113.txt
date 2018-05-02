@@ -1,0 +1,13 @@
+.I 113
+.T
+Survey of Coded Character Representation
+.B
+CACM December, 1960
+.A
+Bemer, R. W.
+.N
+CA601203 JB March 20, 1978 6:44 PM
+.X
+113	5	113
+113	5	113
+113	5	113

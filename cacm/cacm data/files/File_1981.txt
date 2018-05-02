@@ -1,0 +1,17 @@
+.I 1981
+.T
+Normal Curve Integral (Algorithm 304 $S15))
+.B
+CACM October, 1970
+.A
+Holmgren, B.
+.K
+normal curve integral, probability, special functions
+.C
+5.12 5.5
+.N
+CA701009 JB February 10, 1978  9:20 AM
+.X
+1981	5	1981
+1981	5	1981
+1981	5	1981

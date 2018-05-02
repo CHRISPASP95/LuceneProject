@@ -1,0 +1,13 @@
+.I 802
+.T
+SYMINV2 (Algorithm 150)
+.B
+CACM July, 1963
+.A
+Rutishauser, H.
+.N
+CA630722JB March 14, 1978  8:15 AM
+.X
+802	5	802
+802	5	802
+802	5	802

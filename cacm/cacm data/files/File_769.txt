@@ -1,0 +1,13 @@
+.I 769
+.T
+Algebra of Sets (Algorithm 156)
+.B
+CACM August, 1963
+.A
+Bosworth, K. M.
+.N
+CA630829 JB March 13, 1978  8:15 PM
+.X
+769	5	769
+769	5	769
+769	5	769

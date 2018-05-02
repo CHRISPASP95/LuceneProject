@@ -1,0 +1,13 @@
+.I 334
+.T
+Division and Square Root in the Quater-Imaginary Number System
+.B
+CACM April, 1961
+.A
+Nadler, M.
+.N
+CA610334 JB March 16, 1978  11:16 PM
+.X
+334	5	334
+334	5	334
+334	5	334

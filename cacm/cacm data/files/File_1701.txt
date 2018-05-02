@@ -1,0 +1,12 @@
+.I 1701
+.T
+Synchronous Signaling Rates for Data
+Transmission* (Proposed USA STandard)
+.B
+CACM August, 1968
+.N
+CA680813 JB February 22, 1978  9:41 AM
+.X
+1701	5	1701
+1701	5	1701
+1701	5	1701

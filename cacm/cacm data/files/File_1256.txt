@@ -1,0 +1,13 @@
+.I 1256
+.T
+Dynamic Variable Formatting
+.B
+CACM May, 1965
+.A
+King, D. R.
+.N
+CA650515 JB March 7, 1978  12:53 PM
+.X
+1256	5	1256
+1256	5	1256
+1256	5	1256

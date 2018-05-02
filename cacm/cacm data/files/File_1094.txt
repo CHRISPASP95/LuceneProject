@@ -1,0 +1,13 @@
+.I 1094
+.T
+Prime Twins (Algorithm 223)
+.B
+CACM April, 1964
+.A
+Shimrat, M.
+.N
+CA640414 JB March 10, 1978  1:13 AM
+.X
+1094	5	1094
+1094	5	1094
+1094	5	1094

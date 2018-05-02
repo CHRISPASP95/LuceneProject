@@ -1,0 +1,13 @@
+.I 1249
+.T
+ Recorded Magnetic Tape for Information Interchange
+(200 CPI, NRZI) (On the Revised Proposed 
+American Standard)
+.B
+CACM June, 1965
+.N
+CA650606 JB March 6, 1978  10:26 PM
+.X
+1249	5	1249
+1249	5	1249
+1249	5	1249

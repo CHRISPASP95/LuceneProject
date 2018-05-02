@@ -1,0 +1,13 @@
+.I 965
+.T
+Greatest Common Divisor (Algorithm 237 [A1])
+.B
+CACM December, 1964
+.A
+Bray, T. A.
+.N
+CA641206 JB March 9, 1978  3:40 PM
+.X
+965	5	965
+965	5	965
+965	5	965

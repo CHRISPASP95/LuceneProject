@@ -1,0 +1,13 @@
+.I 118
+.T
+Character Scanning on the IBM 7070
+.B
+CACM November, 1960
+.A
+Speckhard, A. E.
+.N
+CA601117 JB March 20, 1978  6:52 PM
+.X
+118	5	118
+118	5	118
+118	5	118

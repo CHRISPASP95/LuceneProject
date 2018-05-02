@@ -1,0 +1,13 @@
+.I 1296
+.T
+Ative (Algorithm 205 [E4])
+.B
+CACM March, 1965
+.A
+Wasscher, E. J.
+.N
+CA650311 JB March 7, 1978  6:01 PM
+.X
+1296	5	1296
+1296	5	1296
+1296	5	1296

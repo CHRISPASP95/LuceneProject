@@ -1,0 +1,13 @@
+.I 1318
+.T
+Arccossin (Algorithm 206 [B1])
+.B
+CACM February, 1965
+.A
+Bowlden, H. J.
+.N
+CA650206 JB March 7, 1978  11:14 PM
+.X
+1318	5	1318
+1318	5	1318
+1318	5	1318

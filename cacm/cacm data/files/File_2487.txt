@@ -1,0 +1,25 @@
+.I 2487
+.T
+Cubic Spline solutions to Fourth-order Boundary Value Problems
+.W
+The cubic spline approximation to the fourth-order
+differential equation y''''+p(x)y''+q(x)y'+r(x)y=t(x) 
+is shown to reduce to the solution of a five-term recurrence
+relationship.  For some special cases the 
+approximation is shown to be simply related to a finite
+difference representation with a local truncation 
+error of order (y/720)delta^8.
+.B
+CACM June, 1973
+.A
+Hoskins, W. D.
+.K
+cubic spline, differential equations, boundary value problem
+.C
+5.13 5.17
+.N
+CA730613 JB January 23, 1978  1:44 PM
+.X
+2487	5	2487
+2487	5	2487
+2487	5	2487

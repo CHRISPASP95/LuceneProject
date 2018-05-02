@@ -1,0 +1,17 @@
+.I 1704
+.T
+Minimum Excess Cost Curve (ALgorithm 217 [H])
+.B
+CACM August, 1968
+.A
+Muth, J. F.
+.K
+critical path scheduling, PERT, cost/time tradeoffs, network flows
+.C
+3.59 5.41
+.N
+CA680810 JB February 22, 1978  9:52 AM
+.X
+1704	5	1704
+1704	5	1704
+1704	5	1704

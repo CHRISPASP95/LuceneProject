@@ -1,0 +1,13 @@
+.I 290
+.T
+Chain Tracing (Algorithm 69)
+.B
+CACM September, 1961
+.A
+Mayoh, B. H.
+.N
+CA610904 JB March 16, 1978  9:45 PM
+.X
+290	5	290
+290	5	290
+290	5	290

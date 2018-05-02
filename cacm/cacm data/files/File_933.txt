@@ -1,0 +1,13 @@
+.I 933
+.T
+Magic Squares (Algorithm 117 & 118)
+.B
+CACM January, 1963
+.A
+Naur, P.
+.N
+CA630115 JB March 14, 1978  2:31 PM
+.X
+933	5	933
+933	5	933
+933	5	933

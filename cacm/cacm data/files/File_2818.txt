@@ -1,0 +1,15 @@
+.I 2818
+.T
+Interference in Multiprocessor Computer
+Systems with Interleaved Memory (Corrigendum)
+.B
+CACM November, 1976
+.A
+Baskett, F.
+Smith, A. J.
+.N
+CA761105 JB January 3, 1978  3:18 PM
+.X
+2818	5	2818
+2818	5	2818
+2818	5	2818

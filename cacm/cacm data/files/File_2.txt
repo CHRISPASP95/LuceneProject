@@ -1,0 +1,13 @@
+.I 2
+.T
+Extraction of Roots by Repeated Subtractions for Digital Computers
+.B
+CACM December, 1958
+.A
+Sugai, I.
+.N
+CA581202 JB March 22, 1978  8:29 PM
+.X
+2	5	2
+2	5	2
+2	5	2

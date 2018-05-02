@@ -1,0 +1,13 @@
+.I 934
+.T
+Gauss's Method (Algorithm 107)
+.B
+CACM January, 1963
+.A
+Naur, P.
+.N
+CA630114 JB March 14, 1978  2:32 PM
+.X
+934	5	934
+934	5	934
+934	5	934

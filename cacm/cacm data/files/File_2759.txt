@@ -1,0 +1,17 @@
+.I 2759
+.T
+Solution of an Overdetermined System of
+Equations in the L1 Norm (Algorithm R478)
+.B
+CACM May, 1975
+.A
+Fritsch, F. N.
+Hindmarsh, A. C.
+.N
+CA750508 JB January 9, 1978  2:32 PM
+.X
+2759	4	2759
+2642	5	2759
+2759	5	2759
+2759	5	2759
+2759	5	2759

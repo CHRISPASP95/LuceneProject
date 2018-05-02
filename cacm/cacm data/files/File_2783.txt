@@ -1,0 +1,36 @@
+.I 2783
+.T
+The Algorithm SELECT-for Finding the ith
+Smallest of n Elements [M1] (Algorithm 489)
+.B
+CACM March, 1975
+.A
+Floyd, R. W.
+Rivest, R. L.
+.K
+selection, medians, quantiles
+.C
+5.30 5.39
+.N
+CA750305 JB January 9, 1978  4:43 PM
+.X
+1919	4	2783
+2191	4	2783
+2227	4	2783
+2388	4	2783
+2783	4	2783
+2783	4	2783
+2784	4	2783
+3054	4	2783
+3054	4	2783
+3121	4	2783
+864	4	2783
+307	5	2783
+309	5	2783
+2783	5	2783
+2783	5	2783
+2783	5	2783
+2784	5	2783
+1729	6	2783
+309	6	2783
+2783	6	2783

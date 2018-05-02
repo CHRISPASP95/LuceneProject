@@ -1,0 +1,18 @@
+.I 537
+.T
+A Machine Program for Theorem-Proving
+.W
+The program of a proof procedure is discussed in
+connection with trial runs and possible improvements.
+.B
+CACM July, 1962
+.A
+Davis, M.
+Logemann, G.
+Loveland, D.
+.N
+CA620724 JB March 17, 1978  8:11 PM
+.X
+537	5	537
+537	5	537
+537	5	537

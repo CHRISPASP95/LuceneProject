@@ -1,0 +1,17 @@
+.I 1797
+.T
+Solution of Linear programs in 0-1 (Algorithm 341 [H])
+.B
+CACM December, 1969
+.A
+Proll, L. G.
+.K
+linear programming, zero-one variables, partial enumeration
+.C
+5.41
+.N
+CA691215 JB February 15, 1978  2:06 PM
+.X
+1797	5	1797
+1797	5	1797
+1797	5	1797

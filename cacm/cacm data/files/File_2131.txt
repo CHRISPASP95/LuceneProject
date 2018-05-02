@@ -1,0 +1,23 @@
+.I 2131
+.T
+Rapid Computation of Weights of Interpolatory
+Quadrature Rules [D1] (Algorithm 417)
+.B
+CACM December, 1971
+.A
+Gustafson, S.
+.K
+divided differences
+.C
+5.16
+.N
+CA711212 JB February 2, 1978  9:33 AM
+.X
+2131	4	2131
+2132	4	2131
+2131	5	2131
+2131	5	2131
+2131	5	2131
+2135	5	2131
+2131	6	2131
+2132	6	2131

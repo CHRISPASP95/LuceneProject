@@ -1,0 +1,13 @@
+.I 921
+.T
+Incomplete Elliptic Integrals (Algorithm 73)
+.B
+CACM February, 1963
+.A
+Meyer, N. A.
+.N
+CA630212 JB March 14, 1978  2:03 PM
+.X
+921	5	921
+921	5	921
+921	5	921

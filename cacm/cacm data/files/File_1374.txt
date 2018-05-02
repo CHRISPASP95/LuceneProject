@@ -1,0 +1,14 @@
+.I 1374
+.T
+Evaluation of Determinant; Determinant
+Evaluation (Algorithms 41[F3]; 269[F3])
+.B
+CACM September, 1966
+.A
+Bergson, A.
+.N
+CA660909e JB March 23, 1978  4:29 PM
+.X
+1374	5	1374
+1374	5	1374
+1374	5	1374

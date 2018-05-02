@@ -1,0 +1,30 @@
+.I 2019
+.T
+Normalization Techniques for Hand printed Numerals
+.W
+Family of pattern standardization
+techniques based on geometrical projection is applied to a file of
+digitized hand printed numerals obtained from sales clerks. The
+principle involves transforming a quadrilateral specified in terms
+of the convex hull of each pattern into a square. The amount of
+overlap within each class of characters versus the amount between classes
+is used to evaluate the degree of normalization achieved with respect to other 
+published methods including size and shear normalization through moments.
+.B
+CACM August, 1970
+.A
+Nagy, G.
+Tuong, N.
+.K
+pattern recognition, character recognition, normalization,
+projective transformation, central projection, hand
+printed characters, handwriting, linear transformation,
+size normalization, mapping, pattern preprocessor
+.C
+3.63 5.14
+.N
+CA700802 JB February 10, 1978  4:03 PM
+.X
+2019	5	2019
+2019	5	2019
+2019	5	2019

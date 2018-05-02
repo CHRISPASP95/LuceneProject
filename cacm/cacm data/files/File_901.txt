@@ -1,0 +1,13 @@
+.I 901
+.T
+Difference Expression Coefficients (Algorithm 79)
+.B
+CACM March, 1963
+.A
+Clark, E. S.
+.N
+CA630319 JB March 14, 1978  1:24 PM
+.X
+901	5	901
+901	5	901
+901	5	901

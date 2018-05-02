@@ -1,0 +1,19 @@
+.I 2428
+.T
+Cubic Spline Solutions to a Class of Functional
+Differential Equations [D2] (Algorithm A461)
+.B
+CACM October, 1973
+.A
+Burkowski, F. J.
+Hoskins, W. D.
+.K
+differential equation, spline approximation
+.C
+5.17
+.N
+CA731012 JB January 20, 1978  11:06 AM
+.X
+2428	5	2428
+2428	5	2428
+2428	5	2428

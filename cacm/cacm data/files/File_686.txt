@@ -1,0 +1,13 @@
+.I 686
+.T
+Smooth (Algorithm 216)
+.B
+CACM November, 1963
+.A
+George, R.
+.N
+CA631106 JB March 13, 1978  3:47 PM
+.X
+686	5	686
+686	5	686
+686	5	686

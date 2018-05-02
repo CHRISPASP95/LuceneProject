@@ -1,0 +1,15 @@
+.I 1189
+.T
+Random Normal Deviate (Algorithm 267 [G5])
+.B
+CACM October, 1965
+.A
+Pike, M. C.
+.N
+CA651006 JB March 6, 1978  6:49 PM
+.X
+1189	5	1189
+1189	5	1189
+1189	5	1189
+1716	5	1189
+1189	6	1189

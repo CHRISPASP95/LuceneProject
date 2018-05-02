@@ -1,0 +1,11 @@
+.I 1289
+.T
+Proposed Revised American Standard Code for Information Interchange
+.B
+CACM April, 1965
+.N
+CA650402 JB March 7, 1978  4:03 PM
+.X
+1289	5	1289
+1289	5	1289
+1289	5	1289

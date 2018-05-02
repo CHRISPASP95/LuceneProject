@@ -1,0 +1,13 @@
+.I 369
+.T
+Crout with Pivoting (Algorithm 16)
+.B
+CACM March, 1961
+.A
+Thacher Jr., H. C.
+.N
+CA610313 JB March 17, 1978  12:32 AM
+.X
+369	5	369
+369	5	369
+369	5	369

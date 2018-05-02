@@ -1,0 +1,14 @@
+.I 1243
+.T
+Testing the Understanding of the Difference Between
+Call by Name and Call by Value in ALGOL 60
+.B
+CACM June, 1965
+.A
+Weil, R. L.
+.N
+CA650612 JB March 6, 1978  10:11 PM
+.X
+1243	5	1243
+1243	5	1243
+1243	5	1243

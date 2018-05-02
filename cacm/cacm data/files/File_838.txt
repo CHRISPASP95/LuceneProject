@@ -1,0 +1,13 @@
+.I 838
+.T
+Direct Search (Algorithm 178)
+.B
+CACM June, 1963
+.A
+Kaupe Jr., A. F.
+.N
+CA630611 JB March 14, 1978  10:16 AM
+.X
+838	5	838
+838	5	838
+838	5	838

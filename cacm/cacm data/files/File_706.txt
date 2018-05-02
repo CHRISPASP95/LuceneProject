@@ -1,0 +1,13 @@
+.I 706
+.T
+Fourier Series Approximation (Algorithm 157)
+.B
+CACM October, 1963
+.A
+Schubert, G. R.
+.N
+CA631019 JB March 13, 1978  5:37 PM
+.X
+706	5	706
+706	5	706
+706	5	706

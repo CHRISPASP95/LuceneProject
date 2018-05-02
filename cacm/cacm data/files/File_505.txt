@@ -1,0 +1,13 @@
+.I 505
+.T
+Composition Generator (Algorithm 72)
+.B
+CACM August, 1962
+.A
+Collison, D. M.
+.N
+CA620823 JB March 17, 1978  9:29 PM
+.X
+505	5	505
+505	5	505
+505	5	505

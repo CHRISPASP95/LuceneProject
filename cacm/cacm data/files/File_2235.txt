@@ -1,0 +1,17 @@
+.I 2235
+.T
+Decision Table Translation (Algorithm R394)
+.B
+CACM December, 1972
+.A
+Marshall, D. R. T.
+.K
+decision table, decision table translation
+.C
+4.19
+.N
+CA721220 JB January 27, 1978  8:53 AM
+.X
+2235	5	2235
+2235	5	2235
+2235	5	2235

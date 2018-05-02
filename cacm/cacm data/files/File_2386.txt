@@ -1,0 +1,14 @@
+.I 2386
+.T
+Dynamic Microprogramming: Processor Organization
+and Programming (Corrigendum)
+.B
+CACM February, 1972
+.A
+Tucker, A. B.
+.N
+CA720205 JB January 31, 1978  4:21 PM
+.X
+2386	5	2386
+2386	5	2386
+2386	5	2386

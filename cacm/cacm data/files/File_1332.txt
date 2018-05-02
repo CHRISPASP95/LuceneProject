@@ -1,0 +1,19 @@
+.I 1332
+.T
+Subroutine Assembly
+.W
+A description is given of an assembly system,
+which requires only one pass and does not maintain 
+a table of information about the subroutine library.
+.B
+CACM January, 1965
+.A
+Samet, P. A.
+.N
+CA650105 JB March 8, 1978  2:51 PM
+.X
+1332	4	1332
+1044	5	1332
+1332	5	1332
+1332	5	1332
+1332	5	1332

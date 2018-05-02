@@ -1,0 +1,15 @@
+.I 477
+.T
+Further Remarks on Sampling a Tape File-I
+.B
+CACM October, 1962
+.A
+Muller, M. E.
+.N
+CA621003 JB March 17, 1978  7:23 PM
+.X
+477	4	477
+6	5	477
+477	5	477
+477	5	477
+477	5	477

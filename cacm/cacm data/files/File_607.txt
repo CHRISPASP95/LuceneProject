@@ -1,0 +1,13 @@
+.I 607
+.T
+The Calculation of Easter...
+.B
+CACM April, 1962
+.A
+Knuth, D.
+.N
+CA620410 JB March 20, 1978  2:17 PM
+.X
+607	5	607
+607	5	607
+607	5	607

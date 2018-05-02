@@ -1,0 +1,14 @@
+.I 1201
+.T
+Generation of Permutations in Lexico-Graphical
+Order (Algorithm 202 [G6])
+.B
+CACM September, 1965
+.A
+Elliott, R. W.
+.N
+CA650905 JB March 6, 1978  7:35 PM
+.X
+1201	5	1201
+1201	5	1201
+1201	5	1201

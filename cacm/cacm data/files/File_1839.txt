@@ -1,0 +1,20 @@
+.I 1839
+.T
+Singular Value Decomposition of a Complex
+Matrix (Algorithm 358 [F1, 4,5])
+.B
+CACM October, 1969
+.A
+Businger, P. A.
+Goulub, G. H.
+.K
+singular values, matrix decomposition,
+least squares solution, pseudoinverse
+.C
+5.14
+.N
+CA691007 JB February 15, 1978  3:22 PM
+.X
+1839	5	1839
+1839	5	1839
+1839	5	1839

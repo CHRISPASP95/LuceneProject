@@ -1,0 +1,13 @@
+.I 343
+.T
+On Frequently Occurring Errors in ALGOL 60 Programs (Algorithm 25)
+.B
+CACM April, 1961
+.A
+Herndon, J.
+.N
+CA610425 JB March 16, 1978  11:40 PM
+.X
+343	5	343
+343	5	343
+343	5	343

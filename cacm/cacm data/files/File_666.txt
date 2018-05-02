@@ -1,0 +1,16 @@
+.I 666
+.T
+Topological Ordering for Pert Networks (Algorithm 219)
+.B
+CACM December, 1963
+.A
+Kase, R. H.
+.N
+CA631208 JB March 13, 1978  2:56 PM
+.X
+1916	5	666
+666	5	666
+666	5	666
+666	5	666
+1533	6	666
+666	6	666

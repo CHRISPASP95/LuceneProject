@@ -1,0 +1,13 @@
+.I 952
+.T
+Another use of FORTRAN II Chaining
+.B
+CACM December, 1964
+.A
+Drath, D. G.
+.N
+CA641219 JB March 9, 1978  3:13 PM
+.X
+952	5	952
+952	5	952
+952	5	952

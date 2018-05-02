@@ -1,0 +1,17 @@
+.I 1950
+.T
+Efficient Handling of Binary Data
+.B
+CACM December, 1970
+.A
+Raduchel, W. J.
+.K
+binary variables, dummy variables, bit strings, cross-tabulations
+.C
+4.9
+.N
+CA701214 JB February 9, 1978  2:40 PM
+.X
+1950	5	1950
+1950	5	1950
+1950	5	1950

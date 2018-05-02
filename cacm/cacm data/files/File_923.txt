@@ -1,0 +1,13 @@
+.I 923
+.T
+Gomory (Algorithm 153)
+.B
+CACM February, 1963
+.A
+Bauer, F. L.
+.N
+CA630210 JB March 14, 1978  2:12 PM
+.X
+923	5	923
+923	5	923
+923	5	923

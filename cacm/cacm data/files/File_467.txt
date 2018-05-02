@@ -1,0 +1,14 @@
+.I 467
+.T
+Permutation Generator (Algorithm 87)
+.B
+CACM October, 1962
+.A
+Schrack, G. F.
+Shimrat, M.
+.N
+CA621013 JB March 17, 1978  7:14 PM
+.X
+467	5	467
+467	5	467
+467	5	467

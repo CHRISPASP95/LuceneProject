@@ -1,0 +1,13 @@
+.I 359
+.T
+INVERT (Algorithm 42)
+.B
+CACM April, 1961
+.A
+Wood, T. C.
+.N
+CA610409 JB March 17, 1978  12:03 AM
+.X
+359	5	359
+359	5	359
+359	5	359

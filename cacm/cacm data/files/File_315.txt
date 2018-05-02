@@ -1,0 +1,13 @@
+.I 315
+.T
+Solution of Tridiagonal Matrices
+.B
+CACM July, 1961
+.A
+Wenrick, R. C.
+.N
+CA610702 JB March 16, 1978  10:28 PM
+.X
+315	5	315
+315	5	315
+315	5	315

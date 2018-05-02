@@ -1,0 +1,13 @@
+.I 318
+.T
+Combat Vehicle Firing Stability (Active Suspension)
+.B
+CACM June, 1961
+.A
+Fischer, C. M.
+.N
+CA610607 JB March 16, 1978  10:32 PM
+.X
+318	5	318
+318	5	318
+318	5	318

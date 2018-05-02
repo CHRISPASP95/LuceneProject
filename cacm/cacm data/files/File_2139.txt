@@ -1,0 +1,40 @@
+.I 2139
+.T
+Implementation of the Substring Test by Hashing
+.W
+A technique is described for implementing the
+test which determines if one string is a substring 
+of another.  When there is low probability that the test
+will be satisfied, it is shown how the operation 
+can be speeded up considerably if it is preceded by
+a test on appropriately chosen hash codes of the 
+strings.
+.B
+CACM December, 1971
+.A
+Harrison, M. C.
+.K
+substring, hashing, subset, signature, information
+compression, information retrieval, searching
+.C
+3.74 5.30 5.6
+.N
+CA711204 JB February 2, 1978  10:14 AM
+.X
+2139	5	2139
+2139	5	2139
+2139	5	2139
+2532	5	2139
+2631	5	2139
+2746	5	2139
+3001	5	2139
+1665	6	2139
+1739	6	2139
+2033	6	2139
+2139	6	2139
+2139	6	2139
+2139	6	2139
+2139	6	2139
+2532	6	2139
+2545	6	2139
+2786	6	2139

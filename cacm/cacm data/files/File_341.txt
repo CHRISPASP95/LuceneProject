@@ -1,0 +1,13 @@
+.I 341
+.T
+Chebyschev Polynomial (Algorithm 10)
+.B
+CACM April, 1961 
+.A
+Herndon, J.
+.N
+CA610427 JB March 16, 1978  11:38 PM
+.X
+341	5	341
+341	5	341
+341	5	341

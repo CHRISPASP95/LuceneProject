@@ -1,0 +1,13 @@
+.I 1217
+.T
+Map of Partitions into Integers (Algorithm 264 [A1])
+.B
+CACM August, 1965
+.A
+McKay, J. K. S.
+.N
+CA650807 JB March 6, 1978  8:19 PM
+.X
+1217	5	1217
+1217	5	1217
+1217	5	1217

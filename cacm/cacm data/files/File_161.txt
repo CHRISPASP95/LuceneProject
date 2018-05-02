@@ -1,0 +1,14 @@
+.I 161
+.T
+Abbreviating Words Systematically (Corrigendum)
+.B
+CACM August, 1960
+.A
+Barrett, J. A.
+Grems, M.
+.N
+CA600805 JB March 20, 1978  8:58 PM
+.X
+161	5	161
+161	5	161
+161	5	161

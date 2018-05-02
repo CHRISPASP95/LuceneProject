@@ -1,0 +1,26 @@
+.I 2930
+.T
+The GRE Advanced Test in Computer Science
+.W
+This report describes the Advanced Test in
+Computer Science which was recently in troduced in 
+the Graduate Record Examination Program.  The GRE program
+is described in general, and, the events leading 
+to the establishment of the Advanced Computer Science
+Test are discussed.  Content specifications and 
+their rationale are given.  A set of sample questions is included.
+.B
+CACM September, 1977
+.A
+Austing, R. H.
+.K
+education, computer science, graduate school
+admissions, test development examinations
+.C
+1.5
+.N
+CA770903 JB December 27, 1977  1:32 PM
+.X
+2930	5	2930
+2930	5	2930
+2930	5	2930

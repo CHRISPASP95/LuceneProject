@@ -1,0 +1,13 @@
+.I 840
+.T
+Least Squares Surface Fit (Algorithm 176)
+.B
+CACM June, 1963
+.A
+Arthurs, T. D.
+.N
+CA630609 JB March 14, 1978  10:18 AM
+.X
+840	5	840
+840	5	840
+840	5	840

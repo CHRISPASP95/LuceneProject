@@ -1,0 +1,25 @@
+.I 2285
+.T
+Computer Routine for Quadratic and Linear
+Programming Problems [H] (Algorithm A431)
+.W
+A computer program based on Lemke's complementary
+pivot algorithm is presented.  This can be 
+used to solve linear and quadratic programming problems.
+ The program has been extensively tested on
+a wide range of problems and the results have been extremely satisfactory.
+.B
+CACM September, 1972
+.A
+Ravindran, A. 
+.K
+linear program, quadratic program, complementary
+problem, Lemke's algorithm, simplex method
+.C
+5.41
+.N
+CA720905 JB January 27, 1978  4:34 PM
+.X
+2285	5	2285
+2285	5	2285
+2285	5	2285

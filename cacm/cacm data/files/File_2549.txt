@@ -1,0 +1,19 @@
+.I 2549
+.T
+Random Deviates from the Dipole Distribution [G5] (Algorithm A441)
+.B
+CACM January, 1973
+.A
+Knop, R. E.
+.K
+random number, probability density, probability distribution,
+Dipole distribution, Cauchy distribution, 
+simulation, Monte Carlo
+.C
+3.17 5.5
+.N
+CA730112 JB January 24, 1978  3:42 PM
+.X
+2549	5	2549
+2549	5	2549
+2549	5	2549

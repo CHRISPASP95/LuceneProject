@@ -1,0 +1,19 @@
+.I 1996
+.T
+Systems of Hyperbolic PDE $D3) (Algorithm 392)
+.B
+CACM September, 1970
+.A
+Smith, R. R.
+McCall, D.
+.K
+hyperbolic p.d.e., characteristic, extrapolation,
+second order p.d.e., quasilinear p. d. e.
+.C
+5.17
+.N
+CA700909 JB February 10, 1978  10:08 AM
+.X
+1996	5	1996
+1996	5	1996
+1996	5	1996

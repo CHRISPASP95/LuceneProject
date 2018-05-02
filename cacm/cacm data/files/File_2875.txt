@@ -1,0 +1,19 @@
+.I 2875
+.T
+Development of an International System
+for Legal Protection of Computer Programs
+.B
+CACM April, 1976
+.A
+Smoot, O. R.
+.K
+copyright of software, patenting of
+software, legal protection of software
+.C
+2.3 4.5
+.N
+CA760401 JB January 4, 1978  4:42 PM
+.X
+2875	5	2875
+2875	5	2875
+2875	5	2875

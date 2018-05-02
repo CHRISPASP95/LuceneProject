@@ -1,0 +1,13 @@
+.I 509
+.T
+Matrix Inversion (Algorithm 58)
+.B
+CACM August, 1962
+.A
+Struble, G.
+.N
+CA620819 JB March 17, 1978  9:33 PM
+.X
+509	5	509
+509	5	509
+509	5	509

@@ -1,0 +1,17 @@
+.I 2121
+.T
+Partitions in Natural Order (Algorithm 371 $A1))
+.B
+CACM January, 1970
+.A
+McKay, J. K. S.
+.K
+partitions,number theory
+.C
+5.39
+.N
+CA700110 JB February 14, 1978  1:48 PM
+.X
+2121	5	2121
+2121	5	2121
+2121	5	2121

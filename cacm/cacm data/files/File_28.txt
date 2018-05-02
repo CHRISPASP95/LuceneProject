@@ -1,0 +1,13 @@
+.I 28
+.T
+Request for Methods or Programs
+.B
+CACM April, 1958
+.A
+Corley, H. P. T.
+.N
+CA580402 JB March 22, 1978  9:18 PM
+.X
+28	5	28
+28	5	28
+28	5	28

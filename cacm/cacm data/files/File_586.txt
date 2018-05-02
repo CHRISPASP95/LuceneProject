@@ -1,0 +1,17 @@
+.I 586
+.T
+Simultaneous System of Equations and
+Matrix Inversion Routine (Algorithm 92)
+.B
+CACM May, 1962
+.A
+Roek, D. J.
+.N
+CA620519 JB March 20, 1978  1:31 PM
+.X
+454	5	586
+586	5	586
+586	5	586
+586	5	586
+152	6	586
+586	6	586

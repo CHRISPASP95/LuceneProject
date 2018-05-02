@@ -1,0 +1,16 @@
+.I 149
+.T
+A Decision Rule for Improved Efficiency in Solving
+Linear Programming Problems with the Simplex 
+Algorithm
+.B
+CACM September, 1960
+.A
+Dickson, J. C.
+Frederick, F. P.
+.N
+CA600908 JB March 20, 1978  8:43 PM
+.X
+149	5	149
+149	5	149
+149	5	149

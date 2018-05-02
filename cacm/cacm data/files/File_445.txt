@@ -1,0 +1,13 @@
+.I 445
+.T
+COMBINATION (Algorithm 94)
+.B
+CACM November, 1962
+.A
+May, R. W.
+.N
+CA621116 JB March 17, 1978  6:03 PM
+.X
+445	5	445
+445	5	445
+445	5	445

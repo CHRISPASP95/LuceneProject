@@ -1,0 +1,16 @@
+.I 888
+.T
+Algorithm 160 Combinatorial of M Things Taken N at A Time
+.B
+CACM April, 1963
+.A
+Wolfson, M. L.
+Wright, H. V.
+.N
+CA630403 JB March 14, 1978  12:29 PM
+.X
+2590	5	888
+888	5	888
+888	5	888
+888	5	888
+888	6	888

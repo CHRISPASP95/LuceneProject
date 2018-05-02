@@ -1,0 +1,12 @@
+.I 1335
+.T
+Character Set for Optical Character
+Recognition (Proposed American Stand ard)
+.B
+CACM January, 1965
+.N
+CA650102 JB March 8, 1978  3:00 PM
+.X
+1335	5	1335
+1335	5	1335
+1335	5	1335

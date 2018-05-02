@@ -1,0 +1,13 @@
+.I 935
+.T
+Calculating Primes by Means of GPS (Algorithm)
+.B
+CACM January, 1963
+.A
+Naur, P.
+.N
+CA630113 JB March 14, 1978  2:33 PM
+.X
+935	5	935
+935	5	935
+935	5	935

@@ -1,0 +1,13 @@
+.I 552
+.T
+Gauss's Method (Algorithm 107)
+.B
+CACM July, 1962
+.A
+Counts, J. W.
+.N
+CA620709 JB March 17, 1978  8:33 PM
+.X
+552	5	552
+552	5	552
+552	5	552

@@ -1,0 +1,13 @@
+.I 133
+.T
+Riccati-Bessel Functions of First And Second Kind (Algorithm 22)
+.B
+CACM November, 1960
+.A
+Oser, H.
+.N
+CA601102 JB March 20, 1978  8:04 PM
+.X
+133	5	133
+133	5	133
+133	5	133

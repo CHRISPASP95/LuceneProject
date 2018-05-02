@@ -1,0 +1,21 @@
+.I 2803
+.T
+Pseudoinverses and Conjugate Gradients
+.W
+This paper is devoted to the study of connections
+between pseudoinverses of matrices and conjugate 
+gradients and conjugate direction routines.
+.B
+CACM January, 1975
+.A
+Hestenes, M. R.
+.K
+pseudoinverse, conjugate gradients, hermitian matrix, minimization
+.C
+5.14
+.N
+CA750108 JB January 12, 1978  10:08 AM
+.X
+2803	5	2803
+2803	5	2803
+2803	5	2803

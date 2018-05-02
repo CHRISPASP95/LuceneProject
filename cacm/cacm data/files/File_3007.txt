@@ -1,0 +1,13 @@
+.I 3007
+.T
+Complexity of Computations (Corrigendum)
+.B
+CACM March, 1978
+.A
+Rabin, M.O.
+.N
+CA780306 JB March 28, 1978  1:02 PM
+.X
+3007	5	3007
+3007	5	3007
+3007	5	3007

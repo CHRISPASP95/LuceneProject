@@ -1,0 +1,41 @@
+.I 1720
+.T
+Master's Level Computer Science Curricula
+.W
+The results of a survey of the course work done
+by master's degree candidates at 25 US universities 
+are presented, and some general comments concerning
+the emphasis of these programs are given.  
+.B
+CACM July, 1968
+.A
+Elliott, R. W.
+.K
+surveys, education, computer science curricula
+.C
+1.52
+.N
+CA680709 JB February 22, 1978  11:44 AM
+.X
+1720	4	1720
+1720	4	1720
+1771	4	1720
+1927	4	1720
+2147	4	1720
+2163	4	1720
+2345	4	1720
+2478	4	1720
+2594	4	1720
+2852	4	1720
+2899	4	1720
+3130	4	1720
+1654	5	1720
+1720	5	1720
+1720	5	1720
+1720	5	1720
+1771	5	1720
+2163	5	1720
+1720	6	1720
+1771	6	1720
+1927	6	1720
+2181	6	1720

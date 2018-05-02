@@ -1,0 +1,14 @@
+.I 1275
+.T
+Code Structures for Protection and Manipulation
+of Variable Length Items (Corrigendum)
+.B
+CACM April, 1965
+.A
+Ramamoorthy, C. V.
+.N
+CA650416 JB March 7, 1978  3:31 PM
+.X
+1275	5	1275
+1275	5	1275
+1275	5	1275

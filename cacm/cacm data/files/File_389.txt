@@ -1,0 +1,13 @@
+.I 389
+.T
+Real Exponential Integral (Algorithm 20)
+.B
+CACM February, 1961
+.A
+Peavy, S.
+.N
+CA610209 JB March 17, 1978  12:55 AM
+.X
+389	5	389
+389	5	389
+389	5	389

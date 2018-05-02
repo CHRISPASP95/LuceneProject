@@ -1,0 +1,26 @@
+.I 2058
+.T
+In-Situ Transposition of a Rectangular Matrix (Algorithm 380 $F1))
+.B
+CACM May, 1970
+.A
+Laflin, S.
+Brebner, M. A.
+.K
+rectangular matrix, transpose
+.C
+5.14
+.N
+CA700508 JB February 13, 1978  1:21 PM
+.X
+2057	4	2058
+2058	4	2058
+2392	4	2058
+2416	4	2058
+1600	5	2058
+2058	5	2058
+2058	5	2058
+2058	5	2058
+2416	5	2058
+1600	6	2058
+2058	6	2058

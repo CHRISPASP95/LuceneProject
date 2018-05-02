@@ -1,0 +1,18 @@
+.I 2089
+.T
+Prime Number (Algorithm 310 $A1))
+.B
+CACM March, 1970
+.A
+Rapp, D. G.
+Scott, L. D.
+.K
+prime numbers, generator
+.C
+5.0
+.N
+CA700309 JB February 13, 1978  3:45 PM
+.X
+2089	5	2089
+2089	5	2089
+2089	5	2089

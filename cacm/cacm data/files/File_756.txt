@@ -1,0 +1,14 @@
+.I 756
+.T
+A Computer Program for Editing the News
+.B
+CACM August, 1963
+.A
+Danielson, W. A.
+Briggs, B.
+.N
+CA630842 JB March 13, 1978  7:53 PM
+.X
+756	5	756
+756	5	756
+756	5	756

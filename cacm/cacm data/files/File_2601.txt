@@ -1,0 +1,20 @@
+.I 2601
+.T
+Evaluation of the Modified Bessel Functions K0(Z)
+and K1(Z) for Complex Arguments [S17] (Algorithm 
+A484)
+.B
+CACM September, 1974
+.A
+Burrell, K. H.
+.K
+Bessel functions, Hankel functions, modified
+Bessel functions, Gauss-Hermite quadrature
+.C
+5.12
+.N
+CA740907 JB January 17, 1978  8:47 AM
+.X
+2601	5	2601
+2601	5	2601
+2601	5	2601

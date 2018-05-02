@@ -1,0 +1,14 @@
+.I 608
+.T
+Permutation (Algorithm 71)
+.B
+CACM April, 1962
+.A
+Peck, J. E. L.
+Schrack, G. F.
+.N
+CA620409 JB March 20, 1978  2:18 PM
+.X
+608	5	608
+608	5	608
+608	5	608

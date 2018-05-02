@@ -1,0 +1,13 @@
+.I 365
+.T
+Bessel Functions of Integral Order and Complex Argument
+.B
+CACM April, 1961
+.A
+Gray, M. C.
+.N
+CA610403 JB March 17, 1978  12:13 AM
+.X
+365	5	365
+365	5	365
+365	5	365

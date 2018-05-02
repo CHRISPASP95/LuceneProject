@@ -1,0 +1,15 @@
+.I 2831
+.T
+Analysis of the PFF Replacement Algorithm
+via a Semi-Markov Model (Corrigendum)
+.B
+CACM September, 1976
+.A
+Chu, W. W.
+Opderbeck, H.
+.N
+CA760908 DMM February 1, 1978  9:54 AM
+.X
+2831	5	2831
+2831	5	2831
+2831	5	2831

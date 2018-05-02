@@ -1,0 +1,13 @@
+.I 752
+.T
+Closing Out a Print Tape
+.B
+CACM September, 1963
+.A
+Moore, D. P.
+.N
+CA630906 JB March 13, 1978  7:39 PM
+.X
+752	5	752
+752	5	752
+752	5	752

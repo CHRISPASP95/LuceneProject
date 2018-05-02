@@ -1,0 +1,19 @@
+.I 2069
+.T
+Comments on a Paper by Wallace and Mason
+.B
+CACM April, 1970
+.A
+Heess Jr., W. F.
+.K
+page-on-demand, demand paging, time-sharing multiprogramming,
+Markovian computer models, scheduling strategies,
+operating systems, memory management
+.C
+2.44 4.32 4.39 6.20 6.21
+.N
+CA700415 JB February 13, 1978  2:36 PM
+.X
+2069	5	2069
+2069	5	2069
+2069	5	2069

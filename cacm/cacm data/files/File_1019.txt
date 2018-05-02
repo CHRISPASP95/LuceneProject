@@ -1,0 +1,13 @@
+.I 1019
+.T
+XY move Plotting (Algorithm 162 [J6])
+.B
+CACM August, 1964
+.A
+Cavin, D. K.
+.N
+CA640811 JB March 9, 1978  6:55 PM
+.X
+1019	5	1019
+1019	5	1019
+1019	5	1019

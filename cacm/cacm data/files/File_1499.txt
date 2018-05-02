@@ -1,0 +1,13 @@
+.I 1499
+.T
+Chebyschev Curve-Fit (revised) (Algorithm 318 [E2])
+.B
+CACM December, 1967
+.A
+Boothroyd, J.
+.N
+CA671208a JB February 26, 1978  2:20 PM
+.X
+1499	5	1499
+1499	5	1499
+1499	5	1499

@@ -1,0 +1,13 @@
+.I 471
+.T
+ORTHO (Algorithm 127)
+.B
+CACM October, 1962
+.A
+Walsh, P. J.
+.N
+CA621009 JB March 17, 1978  7:17 PM
+.X
+471	5	471
+471	5	471
+471	5	471

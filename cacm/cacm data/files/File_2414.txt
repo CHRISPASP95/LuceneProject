@@ -1,0 +1,18 @@
+.I 2414
+.T
+Arithmetic Overa Finite Field [A1] (Algorithm A469)
+.B
+CACM November, 1973
+.A
+Lam, C.
+McKay, J.
+.K
+algebra
+.C
+5.19
+.N
+CA731112 JB January 20, 1978  9:25 AM
+.X
+2414	5	2414
+2414	5	2414
+2414	5	2414

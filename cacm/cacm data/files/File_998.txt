@@ -1,0 +1,13 @@
+.I 998
+.T
+Computer Programs are Patentable
+.B
+CACM October, 1964
+.A
+Hamlin, K. B.
+.N
+CA641004 JB March 9, 1978  4:53 PM
+.X
+998	5	998
+998	5	998
+998	5	998

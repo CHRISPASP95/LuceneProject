@@ -1,0 +1,26 @@
+.I 698
+.T
+DATA-DIAL: Two-Way Communication with
+Computers From Ordinary dial Telephones
+.W
+An operating system is described which allows
+users to call up a remotely located computer 
+from ordinary dial telephones.  No special hardware or
+connections are required at the users' telephones. 
+ Input to the computer is through the telephone dial;output
+from the computer is in spoken form.  Results 
+of a test with telephones in the Boston area are reported.
+.B
+CACM October, 1963
+.A
+Marill, T.
+Edwards, D.
+Feurzeig, W.
+.N
+CA631027 JB March 13, 1978  5:23 PM
+.X
+1181	5	698
+698	5	698
+698	5	698
+698	5	698
+698	6	698

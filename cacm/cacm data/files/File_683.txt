@@ -1,0 +1,13 @@
+.I 683
+.T
+A Serial Technique to Determine Minimum Paths
+.B
+CACM November, 1963
+.A
+Weimer, D. L.
+.N
+CA631109 JB March 13, 1978  3:44 PM
+.X
+683	5	683
+683	5	683
+683	5	683

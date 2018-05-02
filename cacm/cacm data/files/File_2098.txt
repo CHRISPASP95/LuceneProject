@@ -1,0 +1,19 @@
+.I 2098
+.T
+t-Test Probabilities (Algorithm 321);
+Student's t-Distribution (Algorithm 344)
+.B
+CACM February, 1970
+.A
+Hill, G. W.
+Loughhead, M.
+.K
+t-test, Student's t-statistic, distribution function, approximation
+.C
+5.12 5.5
+.N
+CA700217 JB February 14, 1978  8:45 AM
+.X
+2098	5	2098
+2098	5	2098
+2098	5	2098

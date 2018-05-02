@@ -1,0 +1,20 @@
+.I 1778
+.T
+F-Distribution (Algorithm 322 [S14])
+.B
+CACM February, 1968
+.A
+Dorrer, E.
+.K
+Fisher's  F-distribution, Student's t-distribution
+.C
+5.5
+.N
+CA680204 JB February 23, 1978  12:06 PM
+.X
+1778	5	1778
+1778	5	1778
+1778	5	1778
+1920	5	1778
+1778	6	1778
+714	6	1778

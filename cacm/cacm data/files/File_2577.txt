@@ -1,0 +1,19 @@
+.I 2577
+.T
+An On-Site Data Management System Application in Field Archaeology
+.B
+CACM November, 1974
+.A
+Brown, J. A.
+Werner, B.
+.K
+APL-PLUS, archaeology, Koster prehistoric
+site data management, retrieval systems
+.C
+3.36 3.70 3.73 3.89
+.N
+CA741107 JB January 16, 1978  10:15 AM
+.X
+2577	5	2577
+2577	5	2577
+2577	5	2577

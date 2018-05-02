@@ -1,0 +1,13 @@
+.I 418
+.T
+RANDOM (Algorithm 133)
+.B
+CACM December, 1962
+.A
+Behrenz, P. G.
+.N
+CA621221 JB March 17, 1978  4:38 PM
+.X
+418	5	418
+418	5	418
+418	5	418

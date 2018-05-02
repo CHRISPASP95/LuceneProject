@@ -1,0 +1,13 @@
+.I 805
+.T
+Newton Maehly (Algorithm 105)
+.B
+CACM July, 1963
+.A
+Kondo, J.
+.N
+CA630719 JB March 14, 1978  8:20 AM
+.X
+805	5	805
+805	5	805
+805	5	805

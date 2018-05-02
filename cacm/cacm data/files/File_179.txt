@@ -1,0 +1,13 @@
+.I 179
+.T
+Evaluation of the Legendre Polynomial Pn(X) by Recursion (Algorithm)
+.B
+CACM June, 1960
+.A
+Galler, G. M.
+.N
+CA600611 JB March 20, 1978  9:35 PM
+.X
+179	5	179
+179	5	179
+179	5	179

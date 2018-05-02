@@ -1,0 +1,13 @@
+.I 580
+.T
+General Order Arithmetic (Algorithm 93)
+.B
+CACM June, 1962
+.A
+Perstein, M. H.
+.N
+CA620605 JB March 17, 1978  9:34 PM
+.X
+580	5	580
+580	5	580
+580	5	580

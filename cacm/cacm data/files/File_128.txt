@@ -1,0 +1,13 @@
+.I 128
+.T
+ROOTFINDER III (Algorithm 26)
+.B
+CACM November, 1960 
+.A
+Herroit, J. G.
+.N
+CA601107 JB March 20, 1978  7:57 PM
+.X
+128	5	128
+128	5	128
+128	5	128

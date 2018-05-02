@@ -1,0 +1,17 @@
+.I 1896
+.T
+Regular Coulomb Wave Functions (Algorithm 292 S22])
+.B
+CACM May, 1969
+.A
+Gautschi, W.
+.K
+Coulomb wave functions, wave functions, regular Coulomb wave functions
+.C
+5.12
+.N
+CA690513 JB February 17, 1978  3:15 PM
+.X
+1896	5	1896
+1896	5	1896
+1896	5	1896

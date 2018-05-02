@@ -1,0 +1,17 @@
+.I 947
+.T
+Supplement to the ALGOL 60 Report
+.B
+CACM January, 1963
+.A
+Woodger, M.
+.N
+CA630101 JB March 14, 1978  3:05 PM
+.X
+947	5	947
+947	5	947
+947	5	947
+761	5	947
+196	6	947
+947	6	947
+3184	6	947

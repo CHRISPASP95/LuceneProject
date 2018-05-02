@@ -1,0 +1,20 @@
+.I 826
+.T
+Remarks on Fortran Subroutines for Time Series Analysis
+.B
+CACM June, 1963
+.A
+Bennett, C. M.
+.N
+CA630623 JB March 14, 1978  10:00 AM
+.X
+1118	4	826
+826	4	826
+948	4	826
+942	5	826
+1118	5	826
+826	5	826
+826	5	826
+826	5	826
+826	6	826
+942	6	826

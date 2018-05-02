@@ -1,0 +1,13 @@
+.I 526
+.T
+Character Manipulation in Fortran
+.B
+CACM August, 1962
+.A
+Pyle, I. C.
+.N
+CA620802 JB March 17, 1978  7:33 PM
+.X
+526	5	526
+526	5	526
+526	5	526

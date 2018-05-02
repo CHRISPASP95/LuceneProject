@@ -1,0 +1,13 @@
+.I 733
+.T
+Newton Interpolation with Forward Divided Differences (Algorithm 169)
+.B
+CACM September, 1963
+.A
+Thacher Jr., H. C.
+.N
+CA630925 JB March 13, 1978  7:13 PM
+.X
+733	5	733
+733	5	733
+733	5	733

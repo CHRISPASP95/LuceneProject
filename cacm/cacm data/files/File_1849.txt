@@ -1,0 +1,21 @@
+.I 1849
+.T
+Function Minimization (Algorithm 251 [E4])
+.B
+CACM September, 1969
+.A
+Hamilton, P. A.
+Boothroyd, J.
+.K
+function minimization
+.C
+5.19
+.N
+CA690906 JB February 15, 1978  4:38 PM
+.X
+1849	5	1849
+1849	5	1849
+1849	5	1849
+2190	5	1849
+1372	6	1849
+1849	6	1849

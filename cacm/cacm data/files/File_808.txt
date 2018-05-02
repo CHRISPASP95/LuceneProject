@@ -1,0 +1,13 @@
+.I 808
+.T
+Confluent Hypergeometric (Algorithm 192)
+.B
+CACM July, 1963
+.A
+Relph, A. P.
+.N
+CA630716 JB March 14, 1978  8:29 AM
+.X
+808	5	808
+808	5	808
+808	5	808

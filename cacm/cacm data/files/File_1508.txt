@@ -1,0 +1,11 @@
+.I 1508
+.T
+Magnetic Tape Labels for Information Interchange (Proposed USA Standard)
+.B
+CACM November, 1967
+.N
+CA671109 JB February 26, 1978  2:49 PM
+.X
+1508	5	1508
+1508	5	1508
+1508	5	1508

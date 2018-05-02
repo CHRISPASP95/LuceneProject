@@ -1,0 +1,14 @@
+.I 2070
+.T
+A Formal System for Information Retrieval from Files
+.B
+CACM April, 1970
+.A
+Hsiao, D.
+Harary, F.
+.N
+CA700414 JB February 13, 1978  2:37 PM
+.X
+2070	5	2070
+2070	5	2070
+2070	5	2070

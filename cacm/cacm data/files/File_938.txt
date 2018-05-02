@@ -1,0 +1,13 @@
+.I 938
+.T
+Invert (Algorithm 42)
+.B
+CACM January, 1963
+.A
+Naur, P.
+.N
+CA630110 JB March 14,1978  2:36 PM
+.X
+938	5	938
+938	5	938
+938	5	938

@@ -1,0 +1,14 @@
+.I 2675
+.T
+A Computer Routine for Quadratic and Linear
+Programming Problems (Algorithm R431)
+.B
+CACM March, 1974
+.A
+Ravindran, A.
+.N
+CA740308 JB January 18, 1978  11:10 AM
+.X
+2675	5	2675
+2675	5	2675
+2675	5	2675

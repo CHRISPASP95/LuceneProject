@@ -1,0 +1,11 @@
+.I 1276
+.T
+Still Another Use for FORTRAN II Chaining
+.B
+CACM April, 1965
+.N
+CA650415 JB March 7, 1978  3:32 PM
+.X
+1276	5	1276
+1276	5	1276
+1276	5	1276

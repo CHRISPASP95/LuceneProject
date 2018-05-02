@@ -1,0 +1,18 @@
+.I 2964
+.T
+An Approach to Optimal Design of Storage Parameters in Databases
+.B
+CACM May, 1977
+.A
+Milman, Y.
+.K
+database organization, storage parameter
+optimization, resident, overflow storage
+.C
+3.73 3.74
+.N
+CA770508 JB December 29, 1977  1:48 AM
+.X
+2964	5	2964
+2964	5	2964
+2964	5	2964

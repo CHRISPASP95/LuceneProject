@@ -1,0 +1,13 @@
+.I 565
+.T
+INVRS (Algorithm 66)
+.B
+CACM June, 1962
+.A
+Caffrey, J.
+.N
+CA620620 JB March 17, 1978  9:18 PM
+.X
+565	5	565
+565	5	565
+565	5	565

@@ -1,0 +1,21 @@
+.I 1832
+.T
+Minimax Logarithmic Error
+.B
+CACM October, 1969
+.A
+Dunham, C. B.
+.K
+logarithmic error, transformed rational approximation, square root
+.C
+5.10
+.N
+CA691014 JB February 15, 1978  1:38 PM
+.X
+1832	4	1832
+1999	4	1832
+2159	4	1832
+1832	5	1832
+1832	5	1832
+1832	5	1832
+1932	5	1832

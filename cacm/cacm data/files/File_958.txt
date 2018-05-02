@@ -1,0 +1,13 @@
+.I 958
+.T
+A Case of too Much Precision
+.B
+CACM December, 1964
+.A
+Synge, M. J.
+.N
+CA641213 JB March 9, 1978  3:23 PM
+.X
+958	5	958
+958	5	958
+958	5	958

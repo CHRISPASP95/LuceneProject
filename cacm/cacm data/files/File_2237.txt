@@ -1,0 +1,13 @@
+.I 2237
+.T
+BANDSOLVE (Algorithm R195)
+.B
+CACM December, 1972
+.A
+Schuegraf, E.
+.N
+CA721218 DMM February 2, 1978  1:39 PM
+.X
+2237	5	2237
+2237	5	2237
+2237	5	2237

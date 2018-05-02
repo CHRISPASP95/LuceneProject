@@ -1,0 +1,18 @@
+.I 2024
+.T
+Comments on a Paper by Lowe
+.B
+CACM July, 1970
+.A
+Sattley, K.
+Millstein, R.
+.K
+automatic segmentation, program connectivity
+.C
+5.24 5.32
+.N
+CA700713 JB February 10, 1978  4:20 PM
+.X
+2024	5	2024
+2024	5	2024
+2024	5	2024

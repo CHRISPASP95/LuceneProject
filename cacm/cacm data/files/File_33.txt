@@ -1,0 +1,14 @@
+.I 33
+.T
+A Programmed Binary Counter For The IBM Type 650 Calculator
+.B
+CACM January, 1958
+.A
+Kenny, B. C.
+Hunter, J. A.
+.N
+CA580103 JB March 22, 1978  9:25 PM
+.X
+33	5	33
+33	5	33
+33	5	33

@@ -1,0 +1,13 @@
+.I 1091
+.T
+Hypergeometric and Confluent Hypergeometric (Algorithm 191 & 192)
+.B
+CACM April, 1964
+.A
+Thacher Jr., H. C.
+.N
+CA640417 JB March 10, 1978  12:33 AM
+.X
+1091	5	1091
+1091	5	1091
+1091	5	1091

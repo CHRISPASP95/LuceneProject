@@ -1,0 +1,17 @@
+.I 1941
+.T
+F-Distribution (Algorithm 322 [S14])
+.B
+CACM January, 1969
+.A
+Field, J. B. F.
+.K
+Fisher's F-distribution, Students's t-distribution
+.C
+5.5
+.N
+CA690108 JB February 20, 1978  11:48 AM
+.X
+1941	5	1941
+1941	5	1941
+1941	5	1941

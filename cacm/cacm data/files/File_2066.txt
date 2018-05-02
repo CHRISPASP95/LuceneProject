@@ -1,0 +1,21 @@
+.I 2066
+.T
+An Algol Construction for Procedures as Parameters of Procedures
+.B
+CACM April, 1970
+.A
+Knight, K. R.
+.K
+Algol, procedures, parameters, side effects
+.C
+4.22
+.N
+CA700418 JB February 13, 1978  2:30 PM
+.X
+2066	4	2066
+2066	4	2066
+1833	5	2066
+1842	5	2066
+2066	5	2066
+2066	5	2066
+2066	5	2066

@@ -1,0 +1,25 @@
+.I 2748
+.T
+Indirect Threaded Code
+.W
+An efficient arrangement for interpretive code
+is described.  It is related to Bell's notion 
+of threaded code but requires less space and is more
+amenable to machine independent implementations.
+.B
+CACM June, 1975
+.A
+Dewar, R. B. K.
+.K
+threaded code, SNOBOL4, interpretors, code generation
+.C
+4.12 4.13
+.N
+CA750605 JB January 9, 1978  1:11 PM
+.X
+2748	4	2748
+3144	4	2748
+2491	5	2748
+2748	5	2748
+2748	5	2748
+2748	5	2748

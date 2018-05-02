@@ -1,0 +1,13 @@
+.I 1598
+.T
+Least Squares Fit By Orthogonal Polynomials (Algorithm 28 [E2])
+.B
+CACM May, 1967
+.A
+Makinson, G. J.
+.N
+CA670506c JB March 23, 1978  4:02 PM
+.X
+1598	5	1598
+1598	5	1598
+1598	5	1598

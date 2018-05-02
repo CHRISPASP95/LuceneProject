@@ -1,0 +1,19 @@
+.I 70
+.T
+Construction of a Set of Test Matrices
+.W
+This paper develops the equations and properties
+of a set of test matrices which are useful 
+in the determination of the accuracy of routines for
+finding the inverse, determinant and/or eigenvalues 
+of a matrix.
+.B
+CACM August, 1959
+.A
+Aegerter, M. J.
+.N
+CA590803 JB March 22, 1978  6:09 PM
+.X
+70	5	70
+70	5	70
+70	5	70

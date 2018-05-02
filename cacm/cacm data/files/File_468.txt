@@ -1,0 +1,13 @@
+.I 468
+.T
+Incomplete Elliptic Integrals (Algorithm 73)
+.B
+CACM October, 1962
+.A
+Jefferson, D. K.
+.N
+CA621012 JB March 17, 1978  7:14 PM
+.X
+468	5	468
+468	5	468
+468	5	468

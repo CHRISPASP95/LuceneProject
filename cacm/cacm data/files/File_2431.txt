@@ -1,0 +1,19 @@
+.I 2431
+.T
+Discrete Linear L1 Approximation by interval
+Linear Programming [E2] (Algorithm A458)
+.B
+CACM October, 1973
+.A
+Robers, P. D.
+Robers, S. S.
+.K
+discrete approximation, L1 approximation
+.C
+5.13 5.41
+.N
+CA731009 JB January 20, 1978  11:13 AM
+.X
+2431	5	2431
+2431	5	2431
+2431	5	2431

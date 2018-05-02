@@ -1,0 +1,13 @@
+.I 1005
+.T
+Coordinates on an Ellipsoid (Algorithm 240 [Z])
+.B
+CACM September, 1964
+.A
+Dorrer, E.
+.N
+CA640906 JB March 9, 1978  6:09 PM
+.X
+1005	5	1005
+1005	5	1005
+1005	5	1005

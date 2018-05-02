@@ -1,0 +1,12 @@
+.I 1266
+.T
+Considerations Relating to Purpose of FORTRAN Standardization
+(Appendixes to ASA FORTRAN Standard)
+.B
+CACM May, 1965
+.N
+CA650505 JB March 7, 1978  2:40 PM
+.X
+1266	5	1266
+1266	5	1266
+1266	5	1266

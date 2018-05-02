@@ -1,0 +1,13 @@
+.I 578
+.T
+Generation of Partitions in Part-Count Form (Algorithm 95)
+.B
+CACM June, 1962
+.A
+Stockmal, F.
+.N
+CA620607 JB March 17, 1978  9:32 PM
+.X
+578	5	578
+578	5	578
+578	5	578

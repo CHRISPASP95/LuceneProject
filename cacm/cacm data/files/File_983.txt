@@ -1,0 +1,12 @@
+.I 983
+.T
+Take-up reels for One-Inch Perforated Tape for
+Information Interchange (Proposed American Standard)
+.B
+CACM October, 1964
+.N
+CA641019 JB March 9, 1978  4:30 PM
+.X
+983	5	983
+983	5	983
+983	5	983

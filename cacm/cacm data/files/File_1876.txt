@@ -1,0 +1,26 @@
+.I 1876
+.T
+Generation of Test Matrices Having Certain
+Sign Patterns and Prescribed Positive Spectra
+.W
+A class of orthogonal transformations is presented
+whose members transform a given positive 
+diagonal matrix into a matrix having one of four special sign patterns.
+.B
+CACM July, 1969
+.A
+Schneider, A. J.
+.K
+test matrices, positive matrices, sign patterns,
+orthogonal transformations, positive eigenvalues
+.C
+5.1 5.14
+.N
+CA690704 JB February 17, 1978  9:26 AM
+.X
+1876	4	1876
+2099	4	1876
+1707	5	1876
+1876	5	1876
+1876	5	1876
+1876	5	1876

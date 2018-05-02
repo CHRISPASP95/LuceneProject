@@ -1,0 +1,14 @@
+.I 2540
+.T
+Properties of the Working Set Model (Corrigendum)
+.B
+CACM February, 1973
+.A
+Denning, P. J.
+Schwartz, S. C.
+.N
+CA730208 JB January 24, 1978  1:28 PM
+.X
+2540	5	2540
+2540	5	2540
+2540	5	2540

@@ -1,0 +1,13 @@
+.I 305
+.T
+CRAM (Algorithm 67)
+.B
+CACM July, 1961
+.A
+Caffrey, J.
+.N
+CA610712 JB March 16, 1978  10:18 PM
+.X
+305	5	305
+305	5	305
+305	5	305

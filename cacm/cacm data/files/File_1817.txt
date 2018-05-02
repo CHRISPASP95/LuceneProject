@@ -1,0 +1,18 @@
+.I 1817
+.T
+Computation of Fourier Coefficients (Algorithm 255 [C6])
+.B
+CACM November, 1969
+.A
+Hall, G.
+Ray, V. A.
+.K
+numerical integration, Fourier coefficients, Filon's method
+.C
+5.16
+.N
+CA691113 JB February 15, 1978  12:08 PM
+.X
+1817	5	1817
+1817	5	1817
+1817	5	1817

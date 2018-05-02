@@ -1,0 +1,13 @@
+.I 1737
+.T
+A Global Parser for Context-Free Phrase Structure Grammars
+.B
+CACM June, 1968
+.A
+Unger, S. H.
+.N
+CA680608 JB February 22, 1978  4:08 PM
+.X
+1737	5	1737
+1737	5	1737
+1737	5	1737

@@ -1,0 +1,13 @@
+.I 647
+.T
+Numerical Solution of the Polynomial Equation (Algorithm 30)
+.B
+CACM January, 1962
+.A
+Cohen, K. J.
+.N
+CA620112 JB March 20, 1978  4:32 PM
+.X
+647	5	647
+647	5	647
+647	5	647

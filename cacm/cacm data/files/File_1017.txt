@@ -1,0 +1,15 @@
+.I 1017
+.T
+Comments on Bit-Sequencing of the ASCII
+in Serial-by-Bit Data Transmission
+.B
+CACM August, 1964
+.A
+Bemer, R. W.
+Booth, J.
+.N
+CA640813 JB March 9, 1978  6:45 PM
+.X
+1017	5	1017
+1017	5	1017
+1017	5	1017

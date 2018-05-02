@@ -1,0 +1,20 @@
+.I 2658
+.T
+An Alternative Approach to Mutual Recursion
+in Algol 60 Using Restricted Compilers
+.B
+CACM April, 1974
+.A
+Balfour, A.
+.K
+Algol 60, mutual recursion, compiler restrictions
+.C
+4.12 4.22
+.N
+CA740412 JB February 1, 1978  10:32 AM
+.X
+2658	4	2658
+2551	5	2658
+2658	5	2658
+2658	5	2658
+2658	5	2658

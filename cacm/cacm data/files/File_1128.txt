@@ -1,0 +1,16 @@
+.I 1128
+.T
+Evaluation of Determinant (Algorithm 41)
+.B
+CACM March, 1964
+.A
+Rotenberg, L. J.
+.N
+CA640303 JB March 10, 1978  3:40 AM
+.X
+1128	5	1128
+1128	5	1128
+1128	5	1128
+1319	5	1128
+152	6	1128
+1128	6	1128

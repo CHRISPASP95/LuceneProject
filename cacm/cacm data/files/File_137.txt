@@ -1,0 +1,13 @@
+.I 137
+.T
+Evaluating Numbers Expressed as Strings of English Words
+.B
+CACM October, 1960
+.A
+Swift, C. J.
+.N
+CA601011 JB March 20, 1978  8:11 PM
+.X
+137	5	137
+137	5	137
+137	5	137

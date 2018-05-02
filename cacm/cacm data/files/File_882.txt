@@ -1,0 +1,13 @@
+.I 882
+.T
+Monte Carlo (Algorithm 166)
+.B
+CACM April, 1963
+.A
+Rodman, R. D.
+.N
+CA630409 JB March 14, 1978  12:22 PM
+.X
+882	5	882
+882	5	882
+882	5	882

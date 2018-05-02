@@ -1,0 +1,13 @@
+.I 420
+.T
+PERM (Algorithm 115)
+.B
+CACM December, 1962
+.A
+Phillips, E. S.
+.N
+CA621219 JB March 17, 1978  4:53 PM
+.X
+420	5	420
+420	5	420
+420	5	420

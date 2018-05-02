@@ -1,0 +1,16 @@
+.I 450
+.T
+Solution of the Diophantine Equation (Algorithm 139)
+.B
+CACM November, 1962
+.A
+Peck, J. E. L.
+.N
+CA621111 JB March 17, 1978  6:13 PM
+.X
+2031	5	450
+450	5	450
+450	5	450
+450	5	450
+1022	6	450
+450	6	450

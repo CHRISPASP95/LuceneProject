@@ -1,0 +1,18 @@
+.I 2661
+.T
+Ideal Teaching Machines-A Solution to the Pedagogic Language Problem
+.B
+CACM April, 1974
+.A
+Sterling, T. D.
+Pollack, S. V.
+.K
+education, programming languages, simulators
+.C
+1.52 4.2
+.N
+CA740409 JB February 1, 1978  10:38 AM
+.X
+2661	5	2661
+2661	5	2661
+2661	5	2661

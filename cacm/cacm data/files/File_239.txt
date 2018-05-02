@@ -1,0 +1,16 @@
+.I 239
+.T
+Inefficiency of the Use of Boolean Functions
+for Information Retrieval Systems
+.B
+CACM December, 1961
+.A
+Verhoeff, J.
+Goffman, W.
+Belzer, J.
+.N
+CA611211 JB March 15, 1978  10:10 PM
+.X
+239	5	239
+239	5	239
+239	5	239

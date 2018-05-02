@@ -1,0 +1,14 @@
+.I 413
+.T
+A Basic Compiler for Arithmetic Expressions
+.B
+CACM January, 1961
+.A
+Huskey, H. D.
+Wattenburg, W. H.
+.N
+CA610101 JB March 17, 1978  1:30 AM
+.X
+413	5	413
+413	5	413
+413	5	413

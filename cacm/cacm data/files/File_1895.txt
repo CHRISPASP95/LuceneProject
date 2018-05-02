@@ -1,0 +1,18 @@
+.I 1895
+.T
+Gaussian Quadrature Formulas (Algorithm 331 [D1])
+.B
+CACM May, 1969
+.A
+Hill, I. D.
+.K
+quadrature, Gaussian quadrature, numerical integration,
+weight function, orthogonal polynomials
+.C
+5.16
+.N
+CA690514 JB February 17, 1978  3:13 PM
+.X
+1895	5	1895
+1895	5	1895
+1895	5	1895

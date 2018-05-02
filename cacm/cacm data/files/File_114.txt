@@ -1,0 +1,14 @@
+.I 114
+.T
+Survey of Punched Card Codes
+.B
+CACM December, 1960
+.A
+Smith, H. J.
+Williams, F. A.
+.N
+CA601202 JB March 20, 1978  6:45 PM
+.X
+114	5	114
+114	5	114
+114	5	114

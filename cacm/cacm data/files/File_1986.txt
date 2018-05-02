@@ -1,0 +1,20 @@
+.I 1986
+.T
+Student's t-Quantiles $S14) (Algorithm 396)
+.B
+CACM October, 1970
+.A
+Hill, G. W.
+.K
+Student's t-statistic, quantile, asymptotic approximation
+.C
+5.12 5.5
+.N
+CA701004 JB February 10, 1978  9:29 AM
+.X
+1986	4	1986
+2315	4	1986
+1986	5	1986
+1986	5	1986
+1986	5	1986
+1987	5	1986

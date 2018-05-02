@@ -1,0 +1,13 @@
+.I 943
+.T
+Terms Frequently Combined in Problem Description
+.B
+CACM January, 1963
+.A
+Grems, M.
+.N
+CA630105 JB March 14, 1978  2:56 PM
+.X
+943	5	943
+943	5	943
+943	5	943

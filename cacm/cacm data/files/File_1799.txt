@@ -1,0 +1,17 @@
+.I 1799
+.T
+Elementary Functions by Continued Fractions (Algorithm 229 [B1])
+.B
+CACM December, 1969
+.A
+Bray, T. A.
+.K
+continued factions, Pade table
+.C
+5.19
+.N
+CA691213 JB February 15, 1978  2:09 PM
+.X
+1799	5	1799
+1799	5	1799
+1799	5	1799

@@ -1,0 +1,13 @@
+.I 876
+.T
+Complete Elliptic Integral (Algorithm 149)
+.B
+CACM April, 1963
+.A
+Thacher, H. C.
+.N
+CA630415 JB March 14, 1978  12:14 PM
+.X
+876	5	876
+876	5	876
+876	5	876

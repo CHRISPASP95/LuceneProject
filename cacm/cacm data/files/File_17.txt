@@ -1,0 +1,19 @@
+.I 17
+.T
+On Programming of Arithmetic Operations
+.B
+CACM August, 1958
+.A
+Ershov, A. P.
+.N
+CA580801 JB March 22, 1978  9:04 PM
+.X
+1134	5	17
+17	5	17
+17	5	17
+17	5	17
+83	5	17
+17	6	17
+17	6	17
+77	6	17
+408	6	17

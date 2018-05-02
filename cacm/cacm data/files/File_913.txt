@@ -1,0 +1,13 @@
+.I 913
+.T
+Neliac
+.B
+CACM March, 1963
+.A
+Halstead, M. H. 
+.N
+CA630308 JB March 14, 1978  1:45 PM
+.X
+913	5	913
+913	5	913
+913	5	913

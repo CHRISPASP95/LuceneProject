@@ -1,0 +1,14 @@
+.I 779
+.T
+CROUT II (Algorithm 43)
+.B
+CACM August, 1963
+.A
+Domingo, C.
+Rodriguez-Gil, F.
+.N
+CA630819 JB March 13, 1978  8:27 PM
+.X
+779	5	779
+779	5	779
+779	5	779

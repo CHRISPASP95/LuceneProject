@@ -1,0 +1,13 @@
+.I 2872
+.T
+A Counterintuitive Example of Computer Paging (Corrigendum)
+.B
+CACM April, 1976
+.A
+Fagin, R.
+.N
+CA760404 JB January 4, 1978  4:19 PM
+.X
+2872	5	2872
+2872	5	2872
+2872	5	2872

@@ -1,0 +1,13 @@
+.I 289
+.T
+Critical Path Scheduling (Algorithm 40)
+.B
+CACM September, 1961
+.A
+Alexander, N. P.
+.N
+CA610905 JB March 16, 1978  9:44 PM
+.X
+289	5	289
+289	5	289
+289	5	289

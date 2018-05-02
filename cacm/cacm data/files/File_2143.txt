@@ -1,0 +1,21 @@
+.I 2143
+.T
+Chebyshev Approximation of Continuous Functions
+by a Chebyshev System of Functions [E2] (Algorithm 414)
+.B
+CACM November, 1971
+.A
+Bolub, G. H.
+Smith, L. B.
+.K
+approximation, Chebyshev approximation, Remex algorithm
+.C
+5.13
+.N
+CA711106 JB February 2, 1978  10:35 AM
+.X
+2143	4	2143
+1734	5	2143
+2143	5	2143
+2143	5	2143
+2143	5	2143

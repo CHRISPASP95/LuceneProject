@@ -1,0 +1,13 @@
+.I 228
+.T
+QUADI (Algorithm 1)
+.B
+CACM February, 1960
+.A
+Herbold, R. J.
+.N
+CA600204 JB March 22, 1978  2:21 PM
+.X
+228	5	228
+228	5	228
+228	5	228

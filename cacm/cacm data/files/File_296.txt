@@ -1,0 +1,18 @@
+.I 296
+.T
+A Note on Multiple Precision Arithmetic
+.B
+CACM August, 1961
+.A
+Cox, A. G.
+Luther, H. A.
+.N
+CA610808 JB March 16, 1978  10:04 PM
+.X
+1393	5	296
+296	5	296
+296	5	296
+296	5	296
+106	6	296
+296	6	296
+731	6	296

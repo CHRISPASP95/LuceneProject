@@ -1,0 +1,22 @@
+.I 2224
+.T
+Complex Gamma Function [S14] (Algorithm 404)
+.B
+CACM January, 1971
+.A
+Lucas Jr., C. W.
+Terrill, C. W.
+.K
+gamma function, poles of gamma function, Stirling's
+asymptotic series, recursion formula, reflection 
+formula
+.C
+5.12
+.N
+CA710110 JB February 8, 1978  10:25 AM
+.X
+2224	4	2224
+1547	5	2224
+2224	5	2224
+2224	5	2224
+2224	5	2224

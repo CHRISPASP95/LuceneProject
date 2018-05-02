@@ -1,0 +1,18 @@
+.I 879
+.T
+Newton Interpolation with Forward Divided Differences (Algorithm 169)
+.B
+CACM April, 1963
+.A
+Kahan, W.
+Farkas, I.
+.N
+CA630412 JB March 14, 1978  12:18 PM
+.X
+1524	5	879
+879	5	879
+879	5	879
+879	5	879
+879	6	879
+1197	6	879
+311	6	879

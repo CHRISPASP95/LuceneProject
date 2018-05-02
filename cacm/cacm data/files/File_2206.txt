@@ -1,0 +1,22 @@
+.I 2206
+.T
+Exact Solution of Linear Equations Using
+Residue Arithmetic [F4] (Algorithm 406)
+.B
+CACM March, 1971
+.A
+Howell, J.
+.K
+residue arithmetic, symmetric residue, modulus,
+mixed-radix representation, symmetric mixed-radix 
+representation, mixed-radix conversion, prime number,
+linear equations, Gaussian elimination, matrix 
+inversion, determinant, adjoint matrix, ill-condition
+.C
+3.15 5.14
+.N
+CA710306 JB February 3, 1978  4:23 PM
+.X
+2206	5	2206
+2206	5	2206
+2206	5	2206

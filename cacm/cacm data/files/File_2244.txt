@@ -1,0 +1,17 @@
+.I 2244
+.T
+Product Type Trapezoidal Integration (Algorithm A436)
+.B
+CACM December, 1972
+.A
+Boland, W. R.
+.K
+numerical integration, product type quadrature, trapezoidal integration
+.C
+5.16
+.N
+CA721211 JB January 27, 1978  9:11 AM
+.X
+2244	5	2244
+2244	5	2244
+2244	5	2244

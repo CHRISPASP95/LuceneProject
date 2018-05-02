@@ -1,0 +1,15 @@
+.I 1016
+.T
+Interchangcable Perforated Tape Variable Block
+Formats for Positioning and Straight Cut (RS-273) 
+and Contouring and Contouring/Positioning (RS-274) Numerically
+Controlled Machine Tools (Proposed American 
+Standards)
+.B
+CACM August, 1964
+.N
+CA640814 JB March 9, 1978  6:43 PM
+.X
+1016	5	1016
+1016	5	1016
+1016	5	1016

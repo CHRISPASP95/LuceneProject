@@ -1,0 +1,20 @@
+.I 2599
+.T
+ First Order Approximation to the Optimum Checkpoint Interval
+.B
+CACM September, 1974
+.A
+Young, J. W.
+.K
+checkpoint, job failure, operations, programming
+checkpoint, random failure, operations, programming
+.C
+2.43 4.0
+.N
+CA740909 JB January 17, 1978  8:42 AM
+.X
+2599	5	2599
+2599	5	2599
+2599	5	2599
+3089	5	2599
+2599	6	2599

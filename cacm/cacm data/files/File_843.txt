@@ -1,0 +1,13 @@
+.I 843
+.T
+Assign (Algorithm 173)
+.B
+CACM June, 1963
+.A
+Hajek, O.
+.N
+CA630606 JB March 14, 1978  10:22 AM
+.X
+843	5	843
+843	5	843
+843	5	843

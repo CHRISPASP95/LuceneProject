@@ -1,0 +1,13 @@
+.I 294
+.T
+An Imaginary Number System
+.B
+CACM August, 1961
+.A
+Knuth, D.
+.N
+CA610810 JB March 16, 1978  10:02 PM
+.X
+294	5	294
+294	5	294
+294	5	294

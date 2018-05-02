@@ -1,0 +1,13 @@
+.I 937
+.T
+Inverse of a Finite Segment of the Hilbert Matrix (Algorithm 50)
+.B
+CACM January, 1963
+.A
+Naur, P.
+.N
+CA630111 JB March 14, 1978  2:36 PM
+.X
+937	5	937
+937	5	937
+937	5	937

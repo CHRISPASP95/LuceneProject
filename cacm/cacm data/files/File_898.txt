@@ -1,0 +1,13 @@
+.I 898
+.T
+Random (Algorithm 133)
+.B
+CACM March, 1963
+.A
+Laughlin, D. L.
+.N
+CA630322 JB March 14, 1978  1:01 PM
+.X
+898	5	898
+898	5	898
+898	5	898

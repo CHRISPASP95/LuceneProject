@@ -1,0 +1,15 @@
+.I 496
+.T
+A Set of Matrices for Testing Computer Programs
+.B
+CACM August, 1962
+.A
+Brenner, J. L.
+.N
+CA620832 JB March 17, 1978  9:10 PM
+.X
+1047	5	496
+496	5	496
+496	5	496
+496	5	496
+496	6	496

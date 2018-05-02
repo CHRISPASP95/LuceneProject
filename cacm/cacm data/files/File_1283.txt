@@ -1,0 +1,13 @@
+.I 1283
+.T
+Matrix Inversion (Algorithm 231 [F1])
+.B
+CACM April, 1965
+.A
+Ferring, M.
+.N
+CA650408 JB March 7, 1978  3:53 PM
+.X
+1283	5	1283
+1283	5	1283
+1283	5	1283

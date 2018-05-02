@@ -1,0 +1,19 @@
+.I 2347
+.T
+Fourier Cosine Integral [D1] (Algorithm A427)
+.B
+CACM May, 1972
+.A
+Linz, P.
+.K
+numerical integration, quadrature, adaptive quadrature,
+Filon quadrature, Fourier coefficients, 
+Fourier integrals
+.C
+5.16
+.N
+CA720513 JB January 31, 1978  9:32 AM
+.X
+2347	5	2347
+2347	5	2347
+2347	5	2347

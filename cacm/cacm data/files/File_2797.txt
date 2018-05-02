@@ -1,0 +1,14 @@
+.I 2797
+.T
+A First Order Approximation to the Optimal
+Checkpoint Interval (Corrigendum)
+.B
+CACM February, 1975
+.A
+Young, J. W.
+.N
+CA750202 JB January 12, 1978  8:47 AM
+.X
+2797	5	2797
+2797	5	2797
+2797	5	2797

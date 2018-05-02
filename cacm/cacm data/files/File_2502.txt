@@ -1,0 +1,18 @@
+.I 2502
+.T
+A Comment on the Practical Aspects of Computer Science Education
+.B
+CACM May, 1973
+.A
+Estell, R. G.
+.K
+education, computer engineering, computer
+sciences curriculum, systems design
+.C
+1.52 6.0
+.N
+CA730518 JB January 23, 1978  4:23 PM
+.X
+2502	5	2502
+2502	5	2502
+2502	5	2502

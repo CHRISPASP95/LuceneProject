@@ -1,0 +1,16 @@
+.I 697
+.T
+A Numerical Method for the Determination of Moving
+Field Isodose Curves for Treatment Planning 
+in Radiotherapy
+.B
+CACM October, 1963
+.A
+Dalrymple, G. V.
+Perez-Tamayo, R.
+.N
+CA631028 JB March 13, 1978  5:19 PM
+.X
+697	5	697
+697	5	697
+697	5	697

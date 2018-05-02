@@ -1,0 +1,28 @@
+.I 1053
+.T
+Design and Implementation of a General-Purpose Input Routine
+.W
+A general-purpose input routine is discussed
+and advocated for FORTRAN.  The philosophy of 
+such programs is examined and exemplified.
+.B
+CACM June, 1964
+.A
+Hassitt, A.
+.N
+CA640614 JB March 9, 1978  9:27 PM
+.X
+1053	4	1053
+1053	4	1053
+1053	4	1053
+1053	4	1053
+720	4	1053
+1053	5	1053
+1053	5	1053
+1053	5	1053
+1649	5	1053
+435	5	1053
+474	5	1053
+718	5	1053
+720	5	1053
+1053	6	1053

@@ -1,0 +1,15 @@
+.I 215
+.T
+The Execute Operations-A Fourth Mode of Instruction Sequencing
+.B
+CACM March, 1960
+.A
+Brooks, F. P.
+.N
+CA600303 JB March 22, 1978  2:02 PM
+.X
+215	4	215
+215	5	215
+215	5	215
+215	5	215
+58	5	215

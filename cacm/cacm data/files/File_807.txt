@@ -1,0 +1,13 @@
+.I 807
+.T
+Reversion of Series (Algorithm 193)
+.B
+CACM July, 1963
+.A
+Fettis, H. E.
+.N
+CA630717 JB March 14, 1978  8:22 AM
+.X
+807	5	807
+807	5	807
+807	5	807

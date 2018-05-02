@@ -1,0 +1,16 @@
+.I 997
+.T
+Patent Protection of Computer Programs
+.B
+CACM October, 1964
+.A
+Jacobs, M. C.
+.N
+CA641005 JB March 9, 1978  4:50 PM
+.X
+997	5	997
+997	5	997
+997	5	997
+1711	5	997
+997	6	997
+1001	6	997

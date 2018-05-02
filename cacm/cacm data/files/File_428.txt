@@ -1,0 +1,13 @@
+.I 428
+.T
+Multiple Integration (Algorithm 146)
+.B
+CACM December, 1962
+.A
+McKeeman, W. M.
+.N
+CA621211 JB March 17, 1978  5:04 PM
+.X
+428	5	428
+428	5	428
+428	5	428

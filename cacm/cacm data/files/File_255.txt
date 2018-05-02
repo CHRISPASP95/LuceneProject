@@ -1,0 +1,13 @@
+.I 255
+.T
+Augmentation (Algorithm 68)
+.B
+CACM November, 1961
+.A
+Breed, L. M.
+.N
+CA611113 JB March 15, 1978  10:45 PM
+.X
+255	5	255
+255	5	255
+255	5	255

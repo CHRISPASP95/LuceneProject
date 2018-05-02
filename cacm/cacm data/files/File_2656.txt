@@ -1,0 +1,32 @@
+.I 2656
+.T
+Scalar- and Planar- Valued Curve Fitting Using Splines Under Tension
+.W
+The spline under tension was introduced by
+Schweikert in an attempt to imitate cubic splines 
+but avoid the spurious critical points they induce. 
+The defining equations are presented here, together 
+with an efficient method for determining the necessary
+parameters and computing the resultant spline. 
+ The standard scalar-valued curve fitting problem is discussed,
+as well as the fitting of open and closed 
+curves in the plane.  The use of these curves and the
+importance of the tension in the fitting of contour 
+lines are mentioned as application.
+.B
+CACM April, 1974
+.A
+Cline, A. K.
+.K
+interpolation, splines, contouring, curve fitting
+.C
+5.13 8.2
+.N
+CA740414 JB January 18, 1978  9:23 AM
+.X
+2656	4	2656
+2655	5	2656
+2656	5	2656
+2656	5	2656
+2656	5	2656
+2656	6	2656

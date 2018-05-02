@@ -1,0 +1,13 @@
+.I 1018
+.T
+Gauss (Algorithm 209 [S15])
+.B
+CACM August, 1964
+.A
+Pike, M. C.
+.N
+CA640812 JB March 9, 1978  6:54 PM
+.X
+1018	5	1018
+1018	5	1018
+1018	5	1018

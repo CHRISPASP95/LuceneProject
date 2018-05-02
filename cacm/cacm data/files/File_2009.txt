@@ -1,0 +1,17 @@
+.I 2009
+.T
+Simpson's Rule for Multiple Integration (Algorithm 233 $D1))
+.B
+CACM August, 1970
+.A
+Proll, L. G.
+.K
+numerical integration, multiple integration, Simpson's rule
+.C
+5.16
+.N
+CA700812 JB February 10, 1978  3:17 PM
+.X
+2009	5	2009
+2009	5	2009
+2009	5	2009

@@ -1,0 +1,16 @@
+.I 2459
+.T
+Hu-Tucker Minimum Redundancy Alphabetic Coding Method (Algorithm R428)
+.B
+CACM August, 1973
+.A
+Byrne, J. G.
+.N
+CA730815 JB January 23, 1978  10:27 AM
+.X
+2346	4	2459
+2459	4	2459
+1114	5	2459
+2459	5	2459
+2459	5	2459
+2459	5	2459

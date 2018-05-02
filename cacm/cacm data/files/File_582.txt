@@ -1,0 +1,13 @@
+.I 582
+.T
+One Lost Bit
+.B
+CACM June, 1962
+.A
+Oster, C. A.
+.N
+CA620603 JB March 17, 1978  9:36 PM
+.X
+582	5	582
+582	5	582
+582	5	582

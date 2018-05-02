@@ -1,0 +1,29 @@
+.I 2983
+.T
+A Comparison of Next-fit, First-fit, and Best-fit
+.B
+CACM March, 1977
+.A
+Bays, C.
+.K
+memory allocation, first-fit, best-fit, next-fit
+.C
+4.32 4.35
+.N
+CA770309 JB December 29, 1977  6:36 AM
+.X
+2902	4	2983
+2911	4	2983
+2983	4	2983
+2734	5	2983
+2911	5	2983
+2983	5	2983
+2983	5	2983
+2983	5	2983
+1879	6	2983
+273	6	2983
+2435	6	2983
+2498	6	2983
+2734	6	2983
+2773	6	2983
+2983	6	2983

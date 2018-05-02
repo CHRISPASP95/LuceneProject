@@ -1,0 +1,13 @@
+.I 325
+.T
+Numerical Solution of the Polynomial Equation (Algorithm 30)
+.B
+CACM May, 1961
+.A
+Alexander, W. J.
+.N
+CA610509 JB March 16, 1978  10:58 PM
+.X
+325	5	325
+325	5	325
+325	5	325

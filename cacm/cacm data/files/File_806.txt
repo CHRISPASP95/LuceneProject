@@ -1,0 +1,18 @@
+.I 806
+.T
+Remark on Certification of Matrix Inversion Procedures
+.B
+CACM July, 1963
+.A
+Moler, C.
+.N
+CA630718 JB March 14, 1978  8:21 AM
+.X
+1177	4	806
+806	4	806
+806	4	806
+932	5	806
+454	5	806
+806	5	806
+806	5	806
+806	5	806

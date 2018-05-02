@@ -1,0 +1,13 @@
+.I 1021
+.T
+Conjugate Gradient Method (Algorithm 238 [F4])
+.B
+CACM August, 1964
+.A
+Reeves, C. M.
+.N
+CA640809 JB March 9, 1978  6:59 PM
+.X
+1021	5	1021
+1021	5	1021
+1021	5	1021

@@ -1,0 +1,18 @@
+.I 2553
+.T
+The Practical Aspect of Computer Science Education-Discussion
+.B
+CACM January, 1973
+.A
+Blount, S. E.
+.K
+education, computer engineering, computer
+science curriculum, systems design
+.C
+1.52 6.0
+.N
+CA730108 JB January 24, 1978  4:09 PM
+.X
+2553	5	2553
+2553	5	2553
+2553	5	2553

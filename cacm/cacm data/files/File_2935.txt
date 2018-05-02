@@ -1,0 +1,15 @@
+.I 2935
+.T
+Production and Employment of Ph.D.'s
+in Computer Science-1976 (Corrigendum)
+.B
+CACM August, 1977
+.A
+Taulbee, O. E.
+Conte, S. D.
+.N
+CA770808 JB December 28, 1977  7:04 AM
+.X
+2935	5	2935
+2935	5	2935
+2935	5	2935

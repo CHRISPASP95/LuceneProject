@@ -1,0 +1,13 @@
+.I 3
+.T
+Techniques Department on Matrix Program Schemes
+.B
+CACM December, 1958
+.A
+Friedman, M. D.
+.N
+CA581201 JB March 22, 1978  8:30 PM
+.X
+3	5	3
+3	5	3
+3	5	3

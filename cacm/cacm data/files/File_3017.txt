@@ -1,0 +1,35 @@
+.I 3017
+.T
+B-trees Re-examined
+.W
+The B-tree and its variants have, with increasing
+frequency, been proposed as a basic storage 
+structure for multiuser database applications.  Here,
+three potential problems which must be dealt with 
+in such a structure that do not arise in more traditional
+static directory structures are indicated. 
+ One problem is a possible performance penalty.
+.B
+CACM February, 1978
+.A
+Held, G.
+Stonebraker, M.
+.K
+B-tree, directory, static directory, dynamic
+directory, index sequential access method
+.C
+3.70 3.73 3.74 4.33 4.34
+.N
+CA780206 JB March 28, 1978  3:46 PM
+.X
+2626	4	3017
+2786	4	3017
+2840	4	3017
+2919	4	3017
+3017	4	3017
+3110	4	3017
+3174	4	3017
+2629	5	3017
+3017	5	3017
+3017	5	3017
+3017	5	3017

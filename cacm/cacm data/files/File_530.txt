@@ -1,0 +1,14 @@
+.I 530
+.T
+A Computer Method for Radiation Treatment Planning
+.B
+CACM July, 1962
+.A
+Siler, W.
+Laughlin, J. S.
+.N
+CA620731 JB March 17, 1978  7:43 PM
+.X
+530	5	530
+530	5	530
+530	5	530

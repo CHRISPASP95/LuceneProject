@@ -1,0 +1,13 @@
+.I 745
+.T
+STEEP2 (Algorithm 204)
+.B
+CACM September, 1963
+.A
+Wasscher, E. J.
+.N
+CA630913 JB March 13, 1978  7:29 PM
+.X
+745	5	745
+745	5	745
+745	5	745

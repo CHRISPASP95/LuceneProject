@@ -1,0 +1,26 @@
+.I 2607
+.T
+A Problem-List of Issues Concerning Computers and Public Policy
+.B
+CACM September, 1974
+.A
+ACM Committee
+.K
+economic and sociological effects, the public and computers
+.C
+2.11 2.12
+.N
+CA740901 JB January 17, 1978  9:08 AM
+.X
+2607	5	2607
+2607	5	2607
+2607	5	2607
+2756	5	2607
+3076	5	2607
+3179	5	2607
+2572	6	2607
+2607	6	2607
+2607	6	2607
+2607	6	2607
+2840	6	2607
+3076	6	2607

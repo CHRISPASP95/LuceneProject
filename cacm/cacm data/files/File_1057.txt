@@ -1,0 +1,13 @@
+.I 1057
+.T
+Critical Path Scheduling (Algorithm 40)
+.B
+CACM June, 1964
+.A
+Hoffman, I. A.
+.N
+CA640610 JB March 9, 1978  9:32 PM
+.X
+1057	5	1057
+1057	5	1057
+1057	5	1057

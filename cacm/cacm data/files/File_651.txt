@@ -1,0 +1,13 @@
+.I 651
+.T
+A Survey of Languages and Systems for Information Retrieval
+.B
+CACM January, 1962
+.A
+Grems, M.
+.N
+CA620108 JB March 20, 1978  4:36 PM
+.X
+651	5	651
+651	5	651
+651	5	651

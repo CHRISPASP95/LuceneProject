@@ -1,0 +1,13 @@
+.I 371
+.T
+Remarks on Algorithms 2 and 3, Algorithm 15 and Algorithms 25 and 26
+.B
+CACM March, 1961
+.A
+Wilkinson, J. H.
+.N
+CA610311 JB March 17, 1978  12:35 AM
+.X
+371	5	371
+371	5	371
+371	5	371

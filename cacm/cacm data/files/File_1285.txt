@@ -1,0 +1,14 @@
+.I 1285
+.T
+Eigenvalues and Eigenvectors of a Real Symmetric
+Matrix by the QR Method (Algorithm 254 [F2])
+.B
+CACM April, 1965
+.A
+Businger, P. A.
+.N
+CA650406 JB March 7, 1978  3:55 PM
+.X
+1285	5	1285
+1285	5	1285
+1285	5	1285

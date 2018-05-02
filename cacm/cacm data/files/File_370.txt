@@ -1,0 +1,13 @@
+.I 370
+.T
+Bisection Routine (Algorithm 4)
+.B
+CACM March, 1961
+.A
+Rader, P. J.
+.N
+CA610312 JB March 17, 1978  12:33 AM
+.X
+370	5	370
+370	5	370
+370	5	370

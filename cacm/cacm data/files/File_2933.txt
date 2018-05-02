@@ -1,0 +1,25 @@
+.I 2933
+.T
+Another Advantage of Keyword Notation for
+Parameter Communication with Subprograms
+.B
+CACM August, 1977
+.A
+Francez, N.
+.K
+Keyword notation, positional notation, parameters,
+transmission, subprograms, readability, call 
+by value, call by reference, call by name, compile-time errors
+.C
+4.2 4.20 4.22
+.N
+CA770810 JB December 28, 1977  6:57 AM
+.X
+2757	4	2933
+2933	4	2933
+2933	4	2933
+2630	5	2933
+2757	5	2933
+2933	5	2933
+2933	5	2933
+2933	5	2933

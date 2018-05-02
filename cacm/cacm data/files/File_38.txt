@@ -1,0 +1,14 @@
+.I 38
+.T
+A Proposed Interpretation in ALGOL
+.B
+CACM December, 1959
+.A
+Irons, E. T.
+Acton, F. S.
+.N
+CA591204 JB March 22, 1978  3:37 PM
+.X
+38	5	38
+38	5	38
+38	5	38

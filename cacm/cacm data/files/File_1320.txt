@@ -1,0 +1,13 @@
+.I 1320
+.T
+Inverse Permutation (Algorithm 250 [G6])
+.B
+CACM February, 1965
+.A
+Boonstra, B. H.
+.N
+CA650204 JB March 7, 1978  11:16 PM
+.X
+1320	5	1320
+1320	5	1320
+1320	5	1320

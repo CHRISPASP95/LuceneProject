@@ -1,0 +1,13 @@
+.I 482
+.T
+TALL-A List Processor for the Philco 200 Computer
+.B
+CACM September, 1962
+.A
+Feldman, J.
+.N
+CA620910 JB March 17, 1978  7:31 PM
+.X
+482	5	482
+482	5	482
+482	5	482

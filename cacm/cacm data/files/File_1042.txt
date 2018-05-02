@@ -1,0 +1,13 @@
+.I 1042
+.T
+Poisson-Charlier Polynomials (Algorithm 234 [S23])
+.B
+CACM July, 1964
+.A
+Simoes Pereira, J. M. S.
+.N
+CA640705 JB March 9, 1978  8:19 PM
+.X
+1042	5	1042
+1042	5	1042
+1042	5	1042

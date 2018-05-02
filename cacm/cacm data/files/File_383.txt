@@ -1,0 +1,13 @@
+.I 383
+.T
+On Finding Minimum Routes in a Network With Turn Penalties
+.B
+CACM February, 1961
+.A
+Caldwell, T.
+.N
+CA610215 JB March 17, 1978  12:49 AM
+.X
+383	5	383
+383	5	383
+383	5	383

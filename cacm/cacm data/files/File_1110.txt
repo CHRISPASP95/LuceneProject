@@ -1,0 +1,22 @@
+.I 1110
+.T
+A Fourier Series Method for the Numerical Solution
+of a Class of Parabolic Partial Differential 
+Equations*
+.W
+A Fourier series method is described which, when
+applied to a certain class of parabolic partial 
+differential equations, reduces the problem to a system
+of ordinary differential equations.  An application 
+is given for which the method shows a considerable advantage
+over conventional finite difference methods.
+.B
+CACM March, 1964
+.A
+Forrington, C. V. D.
+.N
+CA640322 JB March 10, 1978  2:08 AM
+.X
+1110	5	1110
+1110	5	1110
+1110	5	1110

@@ -1,0 +1,17 @@
+.I 1995
+.T
+Special Series Summation with Arbitrary Precision $C6) (Algorithm 393)
+.B
+CACM September, 1970
+.A
+Abdali, S. K.
+.K
+function evaluation, series summation, approximation
+.C
+5.12 5.13
+.N
+CA700910 JB February 10, 1978  10:06 AM
+.X
+1995	5	1995
+1995	5	1995
+1995	5	1995

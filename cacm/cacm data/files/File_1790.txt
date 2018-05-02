@@ -1,0 +1,18 @@
+.I 1790
+.T
+Muller's Method for Finding roots of an
+Arbitrary Function  (Algorithm 196 [C5])
+.B
+CACM January, 1968
+.A
+Whitley, V. W.
+.K
+equation roots, function zeros 
+.C
+5.15
+.N
+CA680103 JB February 23, 1978  2:47 PM
+.X
+1790	5	1790
+1790	5	1790
+1790	5	1790

@@ -1,0 +1,20 @@
+.I 2158
+.T
+A Stopping Criterion for the Newton-Raphson Method
+in Implicit Multistep Integration Algorithms 
+for Nonlinear Systems of Ordinary Differential Equations
+.B
+CACM September, 1971
+.A
+Liniger, W.
+.K
+ordinary differential equations, linear multistep
+formulas, Newton-Raphson method, stopping criterion
+.C
+5.11 5.15 5.17
+.N
+CA710906 JB February 2, 1978  2:13 PM
+.X
+2158	5	2158
+2158	5	2158
+2158	5	2158

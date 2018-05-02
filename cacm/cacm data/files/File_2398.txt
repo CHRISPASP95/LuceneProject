@@ -1,0 +1,36 @@
+.I 2398
+.T
+Teacher/Student Authored CAI Using the NEWBASIC System
+.W
+The pedagogical advantages of a general purpose
+interactive system called NEWBASIC/CATALYST 
+are discussed.  NEWBASIC/CATALYSTincorporates an advanced
+implementation of BASIC, system-level interactive 
+features, and a general capability for extension through
+user oriented function attachment,  Application 
+of this last feature to provide a flexible CAI scan capability
+is illustrated.  An example of interaction 
+at the system level shows how students can mix the advantages
+of independent or "solo" mode computing 
+with those of guided or "dual" mode interaction.  Preliminary
+experience with the system in an urban 
+secondary school setting is discussed.
+.B
+CACM January, 1972
+.A
+Dwyer, T. A.
+.K
+CAI, BASIC, CATALYST, NEWBASIC, education, computers
+in education, extended languages, interactive 
+systems
+.C
+1.50 1.51 3.32 4.22
+.N
+CA720105 JB February 1, 1978  9:28 AM
+.X
+2309	5	2398
+2398	5	2398
+2398	5	2398
+2398	5	2398
+1856	6	2398
+2398	6	2398

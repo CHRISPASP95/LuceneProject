@@ -1,0 +1,13 @@
+.I 1239
+.T
+Graycode (Algorithm 246 [Z])
+.B
+CACM June, 1965
+.A
+Allen, W. D.
+.N
+CA650616 JB March 6, 1978  9:50 PM
+.X
+1239	5	1239
+1239	5	1239
+1239	5	1239

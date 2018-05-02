@@ -1,0 +1,13 @@
+.I 2789
+.T
+A Minimal Spanning Tree Clustering Method (Algorithm R479)
+.B
+CACM February, 1975
+.A
+Magnuski, H. S.
+.N
+CA750210 JB January 12, 1978  2:52 PM
+.X
+2789	5	2789
+2789	5	2789
+2789	5	2789

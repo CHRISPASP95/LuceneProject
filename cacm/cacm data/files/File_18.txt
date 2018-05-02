@@ -1,0 +1,14 @@
+.I 18
+.T
+Simple Automatic Coding Systems
+.B
+CACM July, 1958
+.A
+Adams, E. S.
+Schlesinger, S. I.
+.N
+CA580701 JB March 22, 1978  9:06 PM
+.X
+18	5	18
+18	5	18
+18	5	18

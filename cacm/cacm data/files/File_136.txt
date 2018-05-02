@@ -1,0 +1,13 @@
+.I 136
+.T
+A Note on the Calculation of Interest
+.B
+CACM October, 1960
+.A
+Ingerman, P. Z.
+.N
+CA601012 JB March 20, 1978  8:09 PM
+.X
+136	5	136
+136	5	136
+136	5	136

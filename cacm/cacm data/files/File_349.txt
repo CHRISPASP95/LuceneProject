@@ -1,0 +1,13 @@
+.I 349
+.T
+A Set of Test Matrices
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610419 JB March 16, 1978  11:47 PM
+.X
+349	5	349
+349	5	349
+349	5	349

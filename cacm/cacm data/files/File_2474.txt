@@ -1,0 +1,23 @@
+.I 2474
+.T
+DIFSUB for Solution of Ordinary Differential Equations (Algorithm C407)
+.B
+CACM July, 1973
+.A
+Nikolai, P. J.
+.K
+differential equations, stiff differential
+equations, boundary value problems
+.C
+5.17
+.N
+CA730712 JB January 23, 1978  11:16 AM
+.X
+2205	4	2474
+2474	4	2474
+2474	4	2474
+2205	5	2474
+2207	5	2474
+2474	5	2474
+2474	5	2474
+2474	5	2474

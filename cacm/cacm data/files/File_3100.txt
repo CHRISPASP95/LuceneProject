@@ -1,0 +1,33 @@
+.I 3100
+.T
+An Interference Matching Technique for Inducing Abstractions
+.W
+A method for inducing knowledge by abstraction
+from a sequence of training examples is described. 
+ The proposed method, interference matching, induces abstractions
+by finding relational properties common 
+to two or more exemplars.  Three tasks solved by a program
+that uses an interference-matching algorithm 
+are presented.  Several problems concerning the description
+of the training examples and the adequacy 
+of interference matching are discussed, and directions
+for future research are considered.
+.B
+CACM May, 1978
+.A
+Hayes-Roth, F.
+McDermott, J.
+.K
+Rule induction, knowledge acquisition, partial
+matching, interference, graph matching, learning, 
+induction, knowledge representation, informal retrieval,
+abstraction, generalization, language learning, 
+complexity, predicate discovery.
+.C
+3.36 3.61 3.62 3.66 3.70 5.32
+.N
+CA780507 DH February 26, 1979  1:26 PM
+.X
+3100	5	3100
+3100	5	3100
+3100	5	3100

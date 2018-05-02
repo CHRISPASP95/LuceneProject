@@ -1,0 +1,13 @@
+.I 275
+.T
+Dynamic Storage Allocation for an Information Retrieval System
+.B
+CACM October, 1961
+.A
+Sams, B. H.
+.N
+CA611006 JB March 16, 1978  12:58 PM
+.X
+275	5	275
+275	5	275
+275	5	275

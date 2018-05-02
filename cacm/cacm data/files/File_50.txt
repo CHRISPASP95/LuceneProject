@@ -1,0 +1,13 @@
+.I 50
+.T
+Statistical Programs for the IBM 650-Part II
+.B
+CACM October, 1959
+.A
+Hamblen, J. W.
+.N
+CA591009 JB March 22, 1978  4:09 PM
+.X
+50	5	50
+50	5	50
+50	5	50

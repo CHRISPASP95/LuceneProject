@@ -1,0 +1,13 @@
+.I 2458
+.T
+Localization of the Roots of a Polynomial (Algorithm R429)
+.B
+CACM August, 1973
+.A
+Williams, E. J.
+.N
+CA730816 JB January 23, 1978  10:26 AM
+.X
+2458	5	2458
+2458	5	2458
+2458	5	2458

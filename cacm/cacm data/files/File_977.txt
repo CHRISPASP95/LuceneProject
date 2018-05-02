@@ -1,0 +1,14 @@
+.I 977
+.T
+Conversions Between Calendar Date and
+Julian Day Number (Algorithm 199 [Z])
+.B
+CACM November, 1964
+.A
+Oppenheim, D. K.
+.N
+CA641106 JB March 9, 1978  4:08 PM
+.X
+977	5	977
+977	5	977
+977	5	977

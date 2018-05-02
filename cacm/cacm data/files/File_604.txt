@@ -1,0 +1,13 @@
+.I 604
+.T
+Why COBOL?
+.B
+CACM May, 1962
+.A
+Cunningham, J. F.
+.N
+CA620501 JB March 20, 1978  1:55 PM
+.X
+604	5	604
+604	5	604
+604	5	604

@@ -1,0 +1,19 @@
+.I 1558
+.T
+Generation of Permutations in Pseudo-Lexicographic
+Order (Algorithm  [G6])
+.B
+CACM July, 1967
+.A
+Ord-Smith, R. J.
+.N
+CA670711d JB March 23, 1978  3:16 PM
+.X
+1558	5	1558
+1558	5	1558
+1558	5	1558
+2044	5	1558
+996	6	1558
+1558	6	1558
+2230	6	1558
+521	6	1558

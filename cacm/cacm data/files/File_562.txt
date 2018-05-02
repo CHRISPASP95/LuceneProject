@@ -1,0 +1,13 @@
+.I 562
+.T
+AVINT (Algorithm 77)
+.B
+CACM June, 1962
+.A
+Whittier, V. E.
+.N
+CA620623 JB March 17, 1978  9:14 PM
+.X
+562	5	562
+562	5	562
+562	5	562

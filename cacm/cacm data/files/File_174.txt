@@ -1,0 +1,14 @@
+.I 174
+.T
+Interval Estimation of the Time in One State
+to Total Time Ratio in a DoubleExponential Process
+.B
+CACM June, 1960
+.A
+Neal, W. R.
+.N
+CA600616 JB March 20, 1978  9:24 PM
+.X
+174	5	174
+174	5	174
+174	5	174

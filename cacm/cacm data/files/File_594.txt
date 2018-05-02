@@ -1,0 +1,13 @@
+.I 594
+.T
+An Advanced Input-Output System for a COBOL Compiler
+.B
+CACM May, 1962
+.A
+Bouman, C. A.
+.N
+CA620511 JB March 20, 1978  1:40 PM
+.X
+594	5	594
+594	5	594
+594	5	594

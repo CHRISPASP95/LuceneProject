@@ -1,0 +1,14 @@
+.I 176
+.T
+Symbol Manipulation by Threaded Lists (Corrigendum)
+.B
+CACM June, 1960
+.A
+Perlis, A. J.
+Thornton, C.
+.N
+CA600614 JB March 20, 1978  9:26 PM
+.X
+176	5	176
+176	5	176
+176	5	176

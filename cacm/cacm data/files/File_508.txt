@@ -1,0 +1,13 @@
+.I 508
+.T
+Matrix Inversion (Algorithm 58)
+.B
+CACM August, 1962
+.A
+George, R.
+.N
+CA620820 JB March 17, 1978  9:32 PM
+.X
+508	5	508
+508	5	508
+508	5	508

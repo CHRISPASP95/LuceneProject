@@ -1,0 +1,13 @@
+.I 736
+.T
+Modified Hankel Functions (Algorithm 163)
+.B
+CACM September, 1963
+.A
+Thacher Jr.,H. C.
+.N
+CA630922 JB March 13, 1978  7:18 PM
+.X
+736	5	736
+736	5	736
+736	5	736

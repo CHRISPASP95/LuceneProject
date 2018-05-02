@@ -1,0 +1,15 @@
+.I 89
+.T
+A Routine to Find the Solution of Simultaneous
+Linear Equations with Polynomial Coefficients
+.B
+CACM April, 1959
+.A
+Larson, E. H.
+Marshall, D. P.
+.N
+CA590403 JB March 22, 1978  7:12 PM
+.X
+89	5	89
+89	5	89
+89	5	89

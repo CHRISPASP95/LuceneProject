@@ -1,0 +1,13 @@
+.I 1027
+.T
+An Alternate Checksum Method
+.B
+CACM August, 1964
+.A
+Newhall, N. S.
+.N
+CA640803 JB March 9, 1978  7:28 PM
+.X
+1027	5	1027
+1027	5	1027
+1027	5	1027

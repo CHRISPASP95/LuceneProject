@@ -1,0 +1,14 @@
+.I 2725
+.T
+A Comparison of Simulation Event List Algorithms (Corrigendum)
+.B
+CACM August, 1975
+.A
+Vaucher, J. C.
+Duval, P.
+.N
+CA750810 JB January 6, 1978  3:43 PM
+.X
+2725	5	2725
+2725	5	2725
+2725	5	2725

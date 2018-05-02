@@ -1,0 +1,15 @@
+.I 439
+.T
+On-Line Digital Computer for Measurement of a Neurological Control System
+.B
+CACM November, 1962
+.A
+Stark, L.
+Payne, R.
+Okabe, Y.
+.N
+CA621122 JB March 17, 1978 5:20 PM
+.X
+439	5	439
+439	5	439
+439	5	439

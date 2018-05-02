@@ -1,0 +1,13 @@
+.I 197
+.T
+An Imaginary Number System
+.B
+CACM April, 1960
+.A
+Knuth, D. E.
+.N
+CA600414 JB March 22, 1978  1:35 PM
+.X
+197	5	197
+197	5	197
+197	5	197

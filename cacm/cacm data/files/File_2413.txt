@@ -1,0 +1,27 @@
+.I 2413
+.T
+A Note on Subexpression Ordering in
+the Execution of Arithmetic Expressions
+.W
+A counterexample to the supposed optimality
+of an algorithm for generating schedules for trees 
+of tasks with unequal execution times is presented.
+ A comparison with the "critical path" heuristic 
+is discussed.
+.B
+CACM November, 1973
+.A
+Denning, P. J.
+Graham, G. S.
+.K
+scheduling, tree scheduling, task scheduling, multiprocessor scheduling
+.C
+4.32 8.3 8.1
+.N
+CA731113 JB January 25, 1978  4:24 PM
+.X
+2413	4	2413
+2175	5	2413
+2413	5	2413
+2413	5	2413
+2413	5	2413

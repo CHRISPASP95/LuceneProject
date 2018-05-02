@@ -1,0 +1,13 @@
+.I 1522
+.T
+Chebyschev Quadrature (Algorithm 279 [D1])
+.B
+CACM October, 1967
+.A
+Hillstrom, K.
+.N
+CA671012c JB March 23, 1978  2:31 PM
+.X
+1522	5	1522
+1522	5	1522
+1522	5	1522

@@ -1,0 +1,26 @@
+.I 1920
+.T
+F-Test Probabilities (Algorithm 346 [S14])
+.B
+CACM March, 1969
+.A
+Morris, J.
+.K
+F-test, Snedecor F-statistic, Fisher Test, distribution function
+.C
+5.5
+.N
+CA690307 JB February 20, 1978  8:50 AM
+.X
+1157	4	1920
+1779	4	1920
+1920	4	1920
+1920	4	1920
+1944	4	1920
+1987	4	1920
+2548	4	1920
+1778	5	1920
+1920	5	1920
+1920	5	1920
+1920	5	1920
+714	5	1920

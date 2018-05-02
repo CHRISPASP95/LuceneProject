@@ -1,0 +1,18 @@
+.I 2284
+.T
+Solution of the Matrix Equation AX+XB=C [F4] (Algorithm A432)
+.B
+CACM September, 1972
+.A
+Bartels, R. H.
+Stewart, G. W.
+.K
+linear algebra, matrices, linear equations
+.C
+5.14
+.N
+CA720906 JB January 27, 1978  4:31 PM
+.X
+2284	5	2284
+2284	5	2284
+2284	5	2284

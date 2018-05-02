@@ -1,0 +1,17 @@
+.I 1031
+.T
+A Note on Starting the Newton-Raphson Method
+.W
+Determination of a suitable initial estimate
+for a root of an equation f(x) = 0 by means of 
+computing the roots of a sequence of related equations is described.
+.B
+CACM July, 1964
+.A
+Beyer, W. A.
+.N
+CA640716 JB March 9, 1978  7:44 PM
+.X
+1031	5	1031
+1031	5	1031
+1031	5	1031

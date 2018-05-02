@@ -1,0 +1,14 @@
+.I 880
+.T
+Newton Interpolation with Backward Divided Differences
+.B
+CACM April, 1963
+.A
+Kahan, W.
+Farkas, I.
+.N
+CA630411 JB March 14, 1978  12:20 PM
+.X
+880	5	880
+880	5	880
+880	5	880

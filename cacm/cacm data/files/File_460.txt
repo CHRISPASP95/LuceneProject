@@ -1,0 +1,13 @@
+.I 460
+.T
+MINIFUN (Algorithm 129)
+.B
+CACM November, 1962
+.A
+Whitley, V. W.
+.N
+CA621101 JB March 17, 1978  6:58 PM
+.X
+460	5	460
+460	5	460
+460	5	460

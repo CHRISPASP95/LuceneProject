@@ -1,0 +1,17 @@
+.I 2608
+.T
+Recurrence Relations for the Fresnel Integral and Similar Integrals
+.B
+CACM August,1974
+.A
+Acton, F. S.
+.K
+recurrence relations, Fresnel integral, exponential integral
+.C
+5.12
+.N
+CA740816 JB January 17, 1978  9:14 AM
+.X
+2608	5	2608
+2608	5	2608
+2608	5	2608

@@ -1,0 +1,13 @@
+.I 712
+.T
+Hermite Interpolation (Algorithm 211)
+.B
+CACM October, 1963
+.A
+Schubert, G. R.
+.N
+CA631013 JB March 13, 1978  5:51 PM
+.X
+712	5	712
+712	5	712
+712	5	712

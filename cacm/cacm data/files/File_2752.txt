@@ -1,0 +1,18 @@
+.I 2752
+.T
+Generation of All the Cycles of a Graph from
+a Set of Basic Cycles [H] (Algorithm 492) 
+.B
+CACM June 1975
+.A
+Gibbs, N. E.
+.K
+basic cycle, cycle, graph
+.C
+5.32 3.24
+.N
+CA750601 JB January 9, 1978  1:55 PM
+.X
+2752	5	2752
+2752	5	2752
+2752	5	2752

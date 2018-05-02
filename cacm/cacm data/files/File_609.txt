@@ -1,0 +1,13 @@
+.I 609
+.T
+Permutation (Algorithm 71)
+.B
+CACM April, 1962
+.A
+Brown, P. J.
+.N
+CA620408 JB March 20, 1978  2:19 PM
+.X
+609	5	609
+609	5	609
+609	5	609

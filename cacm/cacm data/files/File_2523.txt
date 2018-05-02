@@ -1,0 +1,33 @@
+.I 2523
+.T
+A Region Coloring Technique for Scene Analysis
+.W
+A method of converting a picture into a "cartoon"
+or "map" whose regions correspond to differently 
+textured regions is described.  Texture edges in the
+picture are detected, and solid regions surrounded 
+by these (usually broken) edges are "colored in" using
+a propagation process.  The resulting map is cleaned 
+by comparing the region colors with the textures of
+the corresponding regions in the picture, and also 
+by merging some regions with others according to criteria
+based on topology and size.  The method has 
+been applied to the construction of cloud cover maps
+from cloud cover pictures obtained by satellites.
+.B
+CACM April, 1973
+.A
+Strong III, J. P.
+Rosenfeld, A.
+.K
+picture processing, scene analysis, edge detection
+.C
+3.63 8.2
+.N
+CA730405 JB January 24, 1978  9:48 AM
+.X
+2523	5	2523
+2523	5	2523
+2523	5	2523
+2980	5	2523
+2523	6	2523

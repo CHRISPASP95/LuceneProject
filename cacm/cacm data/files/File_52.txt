@@ -1,0 +1,15 @@
+.I 52
+.T
+An Efficient Method for Generating Uniformly Distributed
+Points on the Surface on an n-Dimensional 
+Sphere (Corrigendum)
+.B
+CACM October, 1959
+.A
+Cook, J. M.
+.N
+CA591007 JB March 22, 1978  4:12 PM
+.X
+52	5	52
+52	5	52
+52	5	52

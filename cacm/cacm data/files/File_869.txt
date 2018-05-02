@@ -1,0 +1,13 @@
+.I 869
+.T
+Term of Magic Square (Algorithm 148)
+.B
+CACM April, 1963
+.A
+Thoro, D.
+.N
+CA630422 JB March 14, 1978  11:46 AM
+.X
+869	5	869
+869	5	869
+869	5	869

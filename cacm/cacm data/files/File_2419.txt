@@ -1,0 +1,20 @@
+.I 2419
+.T
+Eigenvalues of a Real, Symmetric, Tridiagonal
+Matrix [F2] (Algorithm A464)
+.B
+CACM November, 1973
+.A
+Reinsch, C. H.
+.K
+eigenvalues, QR Algorithm
+.C
+5.14
+.N
+CA731107 JB January 20, 1978  10:03 AM
+.X
+2419	5	2419
+2419	5	2419
+2419	5	2419
+2825	5	2419
+2419	6	2419

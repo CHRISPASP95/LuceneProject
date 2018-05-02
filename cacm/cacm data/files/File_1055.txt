@@ -1,0 +1,13 @@
+.I 1055
+.T
+q-Bessel Functions In(t) (Algorithm 214)
+.B
+CACM June,1964
+.A
+Simoes Pereira, J. M. S.
+.N
+CA640612 JB March 9, 1978  9:29 PM
+.X
+1055	5	1055
+1055	5	1055
+1055	5	1055

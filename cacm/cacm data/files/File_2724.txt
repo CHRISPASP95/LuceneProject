@@ -1,0 +1,13 @@
+.I 2724
+.T
+The Lemniscate Constants (Corrigendum)
+.B
+CACM August, 1975
+.A
+Todd, J.
+.N
+CA750811 JB January 6, 1978  3:44 PM
+.X
+2724	5	2724
+2724	5	2724
+2724	5	2724

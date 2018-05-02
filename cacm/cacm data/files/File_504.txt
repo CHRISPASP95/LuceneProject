@@ -1,0 +1,13 @@
+.I 504
+.T
+FACTORS (Algorithm 75)
+.B
+CACM August, 1962
+.A
+Hillmore, J. S.
+.N
+CA620824 JB March 17, 1978  9:28 PM
+.X
+504	5	504
+504	5	504
+504	5	504

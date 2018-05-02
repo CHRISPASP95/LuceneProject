@@ -1,0 +1,13 @@
+.I 502
+.T
+Simpson's Integration (Algorithm 84)
+.B
+CACM August, 1962
+.A
+George, R.
+.N
+CA620826 JB March 17, 1978  9:25 PM
+.X
+502	5	502
+502	5	502
+502	5	502

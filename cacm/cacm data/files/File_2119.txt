@@ -1,0 +1,26 @@
+.I 2119
+.T
+Derivatives (Algorithm 282 $S22))
+.B
+CACM January, 1970
+.A
+Gautschi, W.
+Klein, B. J.
+.K
+recursive computation, successive derivatives, error control
+.C
+5.11 5.12
+.N
+CA700112 JB February 14, 1978  1:45 PM
+.X
+1909	4	2119
+2119	4	2119
+2119	4	2119
+2149	4	2119
+1023	5	2119
+2119	5	2119
+2119	5	2119
+2119	5	2119
+2129	5	2119
+2404	5	2119
+2119	6	2119

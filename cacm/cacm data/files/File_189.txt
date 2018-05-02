@@ -1,0 +1,13 @@
+.I 189
+.T
+The Future of Automatic Digital Computers
+.B
+CACM June, 1960
+.A
+Booth, A. D.
+.N
+CA600601 JB March 20, 1978  9:57PM
+.X
+189	5	189
+189	5	189
+189	5	189

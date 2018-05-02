@@ -1,0 +1,13 @@
+.I 588
+.T
+Chebyshev Curve-Fit (Algorithm 91)
+.B
+CACM May, 1962
+.A
+Newhouse, A.
+.N
+CA620517 JB March 20, 1978  1:34 PM
+.X
+588	5	588
+588	5	588
+588	5	588

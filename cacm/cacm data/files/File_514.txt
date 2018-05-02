@@ -1,0 +1,13 @@
+.I 514
+.T
+Binomial Coefficients (Algorithm 19)
+.B
+CACM August, 1962
+.A
+George, R.
+.N
+CA620814 JB March 17, 1978  9:40 PM
+.X
+514	5	514
+514	5	514
+514	5	514

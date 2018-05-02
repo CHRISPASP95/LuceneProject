@@ -1,0 +1,13 @@
+.I 293
+.T
+The Applied Mathematics Laboratory of the David W. Taylor Model Basin
+.B
+CACM September, 1961
+.A
+Richstone, M.
+.N
+CA610901 JB March 16, 1978  10:01 PM
+.X
+293	5	293
+293	5	293
+293	5	293

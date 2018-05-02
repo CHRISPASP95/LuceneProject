@@ -1,0 +1,13 @@
+.I 234
+.T
+A SAP-Like Assembly Program for the IBM 650
+.B
+CACM January, 1960
+.A
+Speckhard, A. E.
+.N
+CA600102JB March 22, 1978  2:30 PM
+.X
+234	5	234
+234	5	234
+234	5	234

@@ -1,0 +1,17 @@
+.I 2472
+.T
+Minimal spanning Tree (Algorithm R422)
+.B
+CACM July,1973
+.A
+Kernighan, B. W.
+.K
+spanning tree, minimal spanning tree, Prim algorithm
+.C
+5.32
+.N
+CA730714 JB January 23, 1978  11:12 AM
+.X
+2472	5	2472
+2472	5	2472
+2472	5	2472

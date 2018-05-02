@@ -1,0 +1,13 @@
+.I 1301
+.T
+On ALGOL I/O Conventions
+.B
+CACM March, 1965
+.A
+Zaremba, W. A.
+.N
+CA650306 JB March 7, 1978  6:06 PM
+.X
+1301	5	1301
+1301	5	1301
+1301	5	1301

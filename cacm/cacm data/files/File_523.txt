@@ -1,0 +1,13 @@
+.I 523
+.T
+TREESORT (Algorithm 113)
+.B
+CACM August, 1962
+.A
+Floyd,R. W.
+.N
+CA620805 JB March 17, 1978  7:29 PM
+.X
+523	5	523
+523	5	523
+523	5	523

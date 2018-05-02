@@ -1,0 +1,13 @@
+.I 31
+.T
+IBM 704 Code-Nundrums
+.B
+CACM March, 1958
+.A
+Grumette, M.
+.N
+CA580301 JB March 22, 1978  9:21 PM
+.X
+31	5	31
+31	5	31
+31	5	31

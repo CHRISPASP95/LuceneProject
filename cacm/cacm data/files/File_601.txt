@@ -1,0 +1,14 @@
+.I 601
+.T
+Interim Report on Bureau of Ships COBOL Evaluation Program
+.B
+CACM May, 1962
+.A
+Siegel, M.
+Smith, A. E.
+.N
+CA620504 JB March 20, 1978  1:53 PM
+.X
+601	5	601
+601	5	601
+601	5	601

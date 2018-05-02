@@ -1,0 +1,20 @@
+.I 2183
+.T
+Binary Summation
+.B
+CACM July, 1971
+.A
+Walker, R. J.
+.K
+summation, binary summation, floating-point addition, round-off errors
+.C
+5.11
+.N
+CA710607 JB February 3, 1978  9:50 AM
+.X
+2183	4	2183
+2282	4	2183
+2049	5	2183
+2183	5	2183
+2183	5	2183
+2183	5	2183

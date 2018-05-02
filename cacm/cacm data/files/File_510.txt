@@ -1,0 +1,13 @@
+.I 510
+.T
+Ber or Bei Function (Algorithm 57)
+.B
+CACM August, 1962
+.A
+Thacher Jr., H. C.
+.N
+CA620818 JB March 17, 1978  9:34 PM
+.X
+510	5	510
+510	5	510
+510	5	510

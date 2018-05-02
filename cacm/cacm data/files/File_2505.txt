@@ -1,0 +1,34 @@
+.I 2505
+.T
+Reflection-Free Permutations, Rosary Permutations,
+and Adjacent Transposition Algorithms
+.B
+CACM May, 1973
+.A
+Roy, M. K.
+.K
+permutation, permutation generation, scheduling, combinatorial analysis
+.C
+5.39
+.N
+CA730515 JB January 23, 1978  4:29 PM
+.X
+2044	4	2505
+2189	4	2505
+2292	4	2505
+2417	4	2505
+2505	4	2505
+2505	4	2505
+2505	4	2505
+2874	4	2505
+2908	4	2505
+2189	5	2505
+2292	5	2505
+2505	5	2505
+2505	5	2505
+2505	5	2505
+2908	5	2505
+521	5	2505
+2505	6	2505
+2884	6	2505
+521	6	2505

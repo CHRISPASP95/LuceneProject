@@ -1,0 +1,13 @@
+.I 930
+.T
+Decimal-to-Binary Conversion of Short Fields
+.B
+CACM February, 1963
+.A
+Yarbrough, L. D.
+.N
+CA630203 JB March 14, 1978  2:22 PM
+.X
+930	5	930
+930	5	930
+930	5	930

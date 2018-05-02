@@ -1,0 +1,17 @@
+.I 1897
+.T
+Coulomb Wave Functions (Algorithm 300 [S22])
+.B
+CACM May, 1969
+.A
+Kolbig, K. S.
+.K
+Coulomb wave functions, wave functions
+.C
+5.12
+.N
+CA690512 JB February 17, 1978  3:17 PM
+.X
+1897	5	1897
+1897	5	1897
+1897	5	1897

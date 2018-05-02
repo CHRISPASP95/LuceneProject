@@ -1,0 +1,13 @@
+.I 835
+.T
+Complementary Error Function-Large X (Algorithm 181)
+.B
+CACM June, 1963
+.A
+Thacher Jr., H. C.
+.N
+CA630614 JB March 14, 1978 10:12 AM
+.X
+835	5	835
+835	5	835
+835	5	835

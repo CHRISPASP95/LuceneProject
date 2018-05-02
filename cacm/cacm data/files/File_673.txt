@@ -1,0 +1,13 @@
+.I 673
+.T
+Account Classification at Automating Banks
+.B
+CACM December, 1963
+.A
+Eckert, J. B.
+.N
+CA631201 JB March 13, 1978  3:15 PM
+.X
+673	5	673
+673	5	673
+673	5	673

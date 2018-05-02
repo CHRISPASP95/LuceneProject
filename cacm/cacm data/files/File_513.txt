@@ -1,0 +1,13 @@
+.I 513
+.T
+SIEVE (Algorithm 35)
+.B
+CACM August, 1962
+.A
+Hillmore, J. S.
+.N
+CA620815 JB March 17, 1978  9:37 PM
+.X
+513	5	513
+513	5	513
+513	5	513

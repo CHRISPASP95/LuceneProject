@@ -1,0 +1,13 @@
+.I 81
+.T
+NORC High-Speed Printer
+.B
+CACM June, 1959
+.A
+Gleissner, G. H.
+.N
+CA590603 JB March 22, 1978  6:36 PM
+.X
+81	5	81
+81	5	81
+81	5	81

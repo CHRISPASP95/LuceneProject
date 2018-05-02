@@ -1,0 +1,31 @@
+.I 3086
+.T
+On the Complexity of Computing the Measure of U[ai, bi]
+.W
+The decision tree complexity of computing the
+measure of the union of n (possibly overlapping) 
+intervals is shown to be  (n log n), even if comparisons
+between linear functions of the interval endpoints 
+are allowed.  The existence of an   (n log n) lower bound
+to determine whether any two of n real numbers 
+are within   of each other is also demonstrated.  These
+problems provide an excellent opportunity for 
+discussing the effects of the computational model on
+the ease of analysis and on the results produced.
+.B
+CACM July, 1978
+.A
+Fredman, M.L.
+Weide, B.
+.K
+Analysis of algorithms, combinatorial problems,
+computational complexity, computational models, 
+decision tree programs, lower bounds
+.C
+5.25 5.26 5.30 5.39
+.N
+CA780702 DH February 8, 1979  3:46 PM
+.X
+3086	5	3086
+3086	5	3086
+3086	5	3086

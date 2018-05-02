@@ -1,0 +1,14 @@
+.I 461
+.T
+Coding of Medical Case History Data for Computer Analysis
+.B
+CACM October, 1962
+.A
+Lipkin, M.
+Woodbury, M. A.
+.N
+CA621019 JB March 17, 1978  6:59 PM
+.X
+461	5	461
+461	5	461
+461	5	461

@@ -1,0 +1,13 @@
+.I 610
+.T
+SIEVE (Algorithm 35)
+.B
+CACM April, 1962
+.A
+Brown, P. J.
+.N
+CA620407 JB March 20, 1978  2:20 PM
+.X
+610	5	610
+610	5	610
+610	5	610

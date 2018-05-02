@@ -1,0 +1,13 @@
+.I 1038
+.T
+Crout with Equilibration and Iteration (Algorithm 135 [F4])
+.B
+CACM July, 1964
+.A
+McKeeman, W. M.
+.N
+CA640709 JB March 9, 1978  8:15 PM
+.X
+1038	5	1038
+1038	5	1038
+1038	5	1038

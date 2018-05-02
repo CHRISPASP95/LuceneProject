@@ -1,0 +1,18 @@
+.I 831
+.T
+Real Error Function, ERF (Algorithm 123)
+.B
+CACM June, 1963
+.A
+Thacher Jr., H. C.
+.N
+CA630618 JB March 14, 1978  10:07 AM
+.X
+1583	5	831
+831	5	831
+831	5	831
+831	5	831
+831	6	831
+967	6	831
+1126	6	831
+707	6	831

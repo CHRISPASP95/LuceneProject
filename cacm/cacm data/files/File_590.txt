@@ -1,0 +1,13 @@
+.I 590
+.T
+Evaluation of the Fresnel Sine Integral (Algorithm 89)
+.B
+CACM May, 1962
+.A
+Cundiff, J. L.
+.N
+CA620515 JB March 20, 1978  1:36 PM
+.X
+590	5	590
+590	5	590
+590	5	590

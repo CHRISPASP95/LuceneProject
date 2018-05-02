@@ -1,0 +1,13 @@
+.I 1520
+.T
+Absolute Value and Square Root of a Complex Number (Algorithm 312 [A2])
+.B
+CACM October, 1967
+.A
+Friedland, P.
+.N
+CA671012a JB February 27, 1978  1:49 PM
+.X
+1520	5	1520
+1520	5	1520
+1520	5	1520

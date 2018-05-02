@@ -1,0 +1,19 @@
+.I 2531
+.T
+Graduate Education: The Ph.D. Glut
+.B
+CACM March, 1973
+.A
+Payne, W. H.
+.K
+graduate education, Ph.D. production, accreditation
+.C
+1.5 2.2 2.3
+.N
+CA730308 JB January 24, 1978  10:28 AM
+.X
+2531	5	2531
+2531	5	2531
+2531	5	2531
+2662	5	2531
+2531	6	2531

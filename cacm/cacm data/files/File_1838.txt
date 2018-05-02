@@ -1,0 +1,19 @@
+.I 1838
+.T
+Normal Curve Integral (Algorithm 304 [S15])
+.B
+CACM October, 1969
+.A
+Adams, A. G.
+.K
+normal curve integral, probability, special functions
+.C
+5.5 5.12
+.N
+CA691008 JB February 15, 1978  3:19 PM
+.X
+1838	4	1838
+1760	5	1838
+1838	5	1838
+1838	5	1838
+1838	5	1838

@@ -1,0 +1,13 @@
+.I 2638
+.T
+Hidden-Line Plotting Program (Algorithm R420)
+.B
+CACM June, 1974
+.A
+Gaither, B.
+.N
+CA740608 JB January 17, 1978  3:00 PM
+.X
+2638	5	2638
+2638	5	2638
+2638	5	2638

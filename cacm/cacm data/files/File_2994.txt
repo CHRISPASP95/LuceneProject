@@ -1,0 +1,26 @@
+.I 2994
+.T
+A Linear Algorithm for Incremental Digital Display of Circular Arcs
+.W
+Circular arcs can be drawn on an incremental
+display device such as a cathode ray tube, digital 
+plotter, or matrix prin ter using only sign testing and
+elementary addition and subtraction.  This paper 
+describes methodology for producing dot or
+step patterns closet to the true circle.
+.B
+CACM February, 1977
+.A
+Bresenham, J.
+.K
+graphics, circle drawing, step generation, dot
+generation, incremental digital plotting, raster 
+display, integer arithmetic, circle algorithm
+.C
+4.41 8.2
+.N
+CA770207 JB December 30, 1977  2:16 AM
+.X
+2994	5	2994
+2994	5	2994
+2994	5	2994

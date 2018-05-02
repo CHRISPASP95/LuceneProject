@@ -1,0 +1,14 @@
+.I 517
+.T
+Evaluation of Pert Network (Algorithm 119)
+.B
+CACM August, 1962
+.A
+Eisenman, B.
+Shapiro, M.
+.N
+CA620811 JB March 17, 1978  9:44 PM
+.X
+517	5	517
+517	5	517
+517	5	517

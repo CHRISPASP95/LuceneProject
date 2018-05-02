@@ -1,0 +1,18 @@
+.I 2792
+.T
+Jacobi Polynomials (Algorithm R332)
+.B
+CACM February, 1975
+.A
+Skovgaard, O.
+.N
+CA750207 JB January 10, 1978  9:32 AM
+.X
+2647	4	2792
+2792	4	2792
+2792	4	2792
+2267	5	2792
+2647	5	2792
+2792	5	2792
+2792	5	2792
+2792	5	2792

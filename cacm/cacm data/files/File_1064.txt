@@ -1,0 +1,12 @@
+.I 1064
+.T
+Perforated Tape Code for Information
+Interchange (Proposed American Standard)
+.B
+CACM June, 1964
+.N
+CA640603 JB March 9, 1978  9:46 PM
+.X
+1064	5	1064
+1064	5	1064
+1064	5	1064

@@ -1,0 +1,14 @@
+.I 1575
+.T
+Incomplete Beta Ratio (Algorithm 179 [S14])
+.B
+CACM June, 1967
+.A
+Pike, M. C.
+Hill, I. D.
+.N
+CA670607c JB March 23, 1978  3:29 PM
+.X
+1575	5	1575
+1575	5	1575
+1575	5	1575

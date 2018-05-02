@@ -1,0 +1,13 @@
+.I 424
+.T
+Gamma Function (Algorithm 31)
+.B
+CACM December, 1962
+.A
+Behrenz, P. G.
+.N
+CA621215 JB March 17, 1978  4:58 PM
+.X
+424	5	424
+424	5	424
+424	5	424

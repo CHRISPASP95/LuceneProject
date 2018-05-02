@@ -1,0 +1,27 @@
+.I 633
+.T
+Simulation and Analysis of Biochemical Systems
+(III. Analysis and Pattern Recognition)
+.B
+CACM February, 1962
+.A
+Garfinkel, D.
+Polk, W.
+Higgins, J. J.
+Ochser, R. T.
+.N
+CA620210 JB March 20, 1978  3:43 PM
+.X
+238	4	633
+633	4	633
+633	4	633
+643	4	633
+238	5	633
+633	5	633
+633	5	633
+633	5	633
+643	5	633
+238	6	633
+633	6	633
+633	6	633
+643	6	633

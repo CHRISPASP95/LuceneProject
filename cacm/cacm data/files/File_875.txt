@@ -1,0 +1,13 @@
+.I 875
+.T
+Incomplete Elliptic Integrals (Algorithm 73)
+.B
+CACM April, 1963
+.A
+van De Riet, R. P.
+.N
+CA630416 JB March 14, 1978  12:06 PM
+.X
+875	5	875
+875	5	875
+875	5	875

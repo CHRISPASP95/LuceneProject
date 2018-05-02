@@ -1,0 +1,13 @@
+.I 473
+.T
+WEIGHTCOEFF (Algorithm 125)
+.B
+CACM October, 1962
+.A
+Rutishauser, H.
+.N
+CA621007 JB March 17, 1978  7:19 PM
+.X
+473	5	473
+473	5	473
+473	5	473

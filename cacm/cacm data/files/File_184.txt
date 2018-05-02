@@ -1,0 +1,14 @@
+.I 184
+.T
+A Short Method for Measuring Error in a Least-Squares Power Series
+.B
+CACM June, 1960
+.A
+Robinson, S. M.
+Struble, G. W.
+.N
+CA600606 JB March 20, 1978  9:41 PM
+.X
+184	5	184
+184	5	184
+184	5	184

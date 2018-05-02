@@ -1,0 +1,17 @@
+.I 488
+.T
+A Heuristic for Page Turning In a Multiprogrammed Computer
+.B
+CACM September, 1962
+.A
+Weil, J. W.
+.N
+CA620904 JB March 17, 1978  7:40 PM
+.X
+1754	4	488
+2358	4	488
+488	4	488
+274	5	488
+488	5	488
+488	5	488
+488	5	488

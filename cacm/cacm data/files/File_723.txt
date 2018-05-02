@@ -1,0 +1,11 @@
+.I 723
+.T
+ECMA Subset of ALGOL 60
+.B
+CACM October, 1963
+.N
+CA631002 JB March 13, 1978  6:38 PM
+.X
+723	5	723
+723	5	723
+723	5	723

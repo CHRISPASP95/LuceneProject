@@ -1,0 +1,20 @@
+.I 1777
+.T
+Generation of Permutations in Lexicographic Order (Algorithm 323 [G6])
+.B
+CACM February, 1968 
+.A
+Ord-Smith, R. J.
+.K
+permutations, lexicographic order, lexicographic
+generation, permutation generation
+.C
+5.39
+.N
+CA680205 JB February 23, 1978  12:04 PM
+.X
+1777	5	1777
+1777	5	1777
+1777	5	1777
+1814	5	1777
+1777	6	1777

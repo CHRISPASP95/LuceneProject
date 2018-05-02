@@ -1,0 +1,14 @@
+.I 27
+.T
+Note On Empirical Bounds For Generating Bessel Functions
+.B
+CACM May, 1958
+.A
+Randels, J. B.
+Reeves, R. F.
+.N
+CA580501 JB March 22, 1978  9:17 PM
+.X
+27	5	27
+27	5	27
+27	5	27

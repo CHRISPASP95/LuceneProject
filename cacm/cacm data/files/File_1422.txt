@@ -1,0 +1,12 @@
+.I 1422
+.T
+Eleven-Sixteenths Inch Perforated
+Paper Tape (Proposed American Standard)
+.B
+CACM May, 1966
+.N
+CA660515 JB March 3, 1978  9:09 AM
+.X
+1422	5	1422
+1422	5	1422
+1422	5	1422

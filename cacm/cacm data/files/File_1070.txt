@@ -1,0 +1,14 @@
+.I 1070
+.T
+Expand, A System for Input Card Replication
+.B
+CACM May, 1964
+.A
+Warrington, J. A.
+Norris, J. H.
+.N
+CA640519 JB March 9,1978  11:37 PM
+.X
+1070	5	1070
+1070	5	1070
+1070	5	1070

@@ -1,0 +1,13 @@
+.I 392
+.T
+Comment on A Paper on Parallel Processing
+.B
+CACM February, 1961
+.A
+Nekora, M. R.
+.N
+CA610206 JB March 17, 1978  12:58 AM
+.X
+392	5	392
+392	5	392
+392	5	392

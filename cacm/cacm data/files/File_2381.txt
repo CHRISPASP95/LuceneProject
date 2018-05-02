@@ -1,0 +1,14 @@
+.I 2381
+.T
+Average Binary Search Length for Dense Ordered Lists (Corrigendum)
+.B
+CACM February, 1972
+.A
+Flores, I.
+Madpis, G.
+.N
+CA720210 JB January 31, 1978  3:40 PM
+.X
+2381	5	2381
+2381	5	2381
+2381	5	2381

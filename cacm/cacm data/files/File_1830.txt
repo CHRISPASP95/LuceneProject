@@ -1,0 +1,17 @@
+.I 1830
+.T
+Retrieval Times for a Packed Direct Access Inverted File
+.B
+CACM October, 1969
+.A
+Bayes, A. J.
+.K
+information retrieval, direct access memory, data base, inverted list
+.C
+3.70 4.41
+.N
+CA691016 JB February 15, 1978  1:27 PM
+.X
+1830	5	1830
+1830	5	1830
+1830	5	1830

@@ -1,0 +1,16 @@
+.I 120
+.T
+A Simple Technique for Coding Differential Equations
+.B
+CACM November, 1960
+.A
+Sefton, P.
+Vaillancourt, R.
+.N
+CA601115 JB March 20, 1978  6:57 PM
+.X
+120	4	120
+120	5	120
+120	5	120
+120	5	120
+175	5	120

@@ -1,0 +1,17 @@
+.I 2029
+.T
+Exponential Integral $S13) (Algorithm 385)
+.B
+CACM July, 1970
+.A
+Paciorek, K. A.
+.K
+exponential integral, special functions, rational Chebyshev approximation
+.C
+5.12
+.N
+CA700708 JB February 10, 1978  4:34 PM
+.X
+2029	5	2029
+2029	5	2029
+2029	5	2029

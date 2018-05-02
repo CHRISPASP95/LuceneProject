@@ -1,0 +1,15 @@
+.I 792
+.T
+Multiple-Precision Binary-To-Decimal Integer
+Conversion Using Only Addition And Subtraction
+.B
+CACM August, 1963
+.A
+Keyes, D. F.
+Moore, D. P.
+.N
+CA630806 JB March 13, 1978  8:42 PM
+.X
+792	5	792
+792	5	792
+792	5	792

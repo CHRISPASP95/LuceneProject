@@ -1,0 +1,22 @@
+.I 2077
+.T
+The Cyclical Majority Problem
+.W
+The problem of the cyclical majority is presented and some new, simulated
+results for 3, 4, 5, ..., 40 issues ad 3, 5, 7, ..., 37 judges are reported.
+.B
+CACM April, 1970
+.A
+Pomeranz, J. E.
+Weil Jr., R. L.
+.K
+Arrow's paradox, cyclical majority, simulation,
+voter's paradox, voting paradox
+.C
+3.31 3.35
+.N
+CA700407 JB February 13, 1978  2:58 PM
+.X
+2077	5	2077
+2077	5	2077
+2077	5	2077

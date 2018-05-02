@@ -1,0 +1,13 @@
+.I 1343
+.T
+Havie Integrator (Algorithm 257 [D1])
+.B
+CACM December, 1966
+.A
+Farkas, I.
+.N
+CA661207b JB March 23, 1978  4:16 PM
+.X
+1343	5	1343
+1343	5	1343
+1343	5	1343

@@ -1,0 +1,14 @@
+.I 1406
+.T
+Solution of simultaneous Linear Diophantine
+Equations (Algorithm 288 [F4])
+.B
+CACM July, 1966
+.A
+Blankinship, W. A.
+.N
+CA660707b JB March 23, 1978  7:06 PM
+.X
+1406	5	1406
+1406	5	1406
+1406	5	1406

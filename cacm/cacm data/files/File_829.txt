@@ -1,0 +1,16 @@
+.I 829
+.T
+The External Language KLIPA For the URAL-2 Digital computer
+.B
+CACM June, 1963
+.A
+Greniewski, M,
+Turski, W.
+.N
+CA630620 JB March 14, 1978  10:04 AM
+.X
+2905	5	829
+829	5	829
+829	5	829
+829	5	829
+829	6	829

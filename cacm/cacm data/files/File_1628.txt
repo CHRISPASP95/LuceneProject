@@ -1,0 +1,25 @@
+.I 1628
+.T
+The Emergence of a Profession
+.W
+Computer programming deals with an enormous
+variety of activities and is carried on by people 
+with a great variety of backgrounds.  It seems clear
+that part but not all of this activity is evolving 
+toward a distinct professional field, but that the
+scope of this emerging profession, and some of its 
+economic, social, and educational characteristics are
+as yet by no means well defined.  In this paper, 
+these issues are examined and some opinions about them are expressed.
+.B
+CACM March, 1967
+.A
+Orden, A.
+.N
+CA670301 JB February 28, 1978  1:47 PM
+.X
+1628	5	1628
+1628	5	1628
+1628	5	1628
+1770	5	1628
+1628	6	1628

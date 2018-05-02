@@ -1,0 +1,13 @@
+.I 2397
+.T
+Optimizing the Polyphase Sort (Corrigendum)
+.B
+CACM January, 1972
+.A
+Shell, D. L.
+.N
+CA720106 JB February 1, 1978  9:21 AM
+.X
+2397	5	2397
+2397	5	2397
+2397	5	2397

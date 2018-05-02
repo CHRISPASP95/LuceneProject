@@ -1,0 +1,13 @@
+.I 1244
+.T
+Bit Manipulation in Fortran Language
+.B
+CACM June, 1965
+.A
+Tobey, G. D.
+.N
+CA650611 JB March 6, 1978  10:12 PM
+.X
+1244	5	1244
+1244	5	1244
+1244	5	1244

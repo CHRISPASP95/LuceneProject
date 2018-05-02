@@ -1,0 +1,13 @@
+.I 466
+.T
+General Order Arithmetic (Algorithm 93)
+.B
+CACM October, 1962
+.A
+George, R.
+.N
+CA621014 JB March 17, 1978  7:13 PM
+.X
+466	5	466
+466	5	466
+466	5	466

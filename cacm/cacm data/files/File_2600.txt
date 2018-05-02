@@ -1,0 +1,19 @@
+.I 2600
+.T
+Computation of g-Splines via a Factorization
+Method [E2] (Algorithm A485)
+.B
+CACM September, 1974
+.A
+Eidson, H. D.
+Schumaker, L. L.
+.K
+approximation, spline approximation
+.C
+5.13
+.N
+CA740908 JB January 17, 1978  8:44 AM
+.X
+2600	5	2600
+2600	5	2600
+2600	5	2600

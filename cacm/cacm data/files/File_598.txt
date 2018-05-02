@@ -1,0 +1,19 @@
+.I 598
+.T
+The COBOL Librarian - A Key to Object Program Efficiency
+.W
+Many answers to the question "How may a COBOL
+Compiler be forced into the generation of an 
+efficient object program?"  The purpose of this article
+is to present one possible answer: the creation 
+and full utilization of a well-constructed COBOL Library.
+.B
+CACM May, 1962
+.A
+Hicks, W.
+.N
+CA620507 JB March 20, 1978  1:50 PM
+.X
+598	5	598
+598	5	598
+598	5	598

@@ -1,0 +1,13 @@
+.I 749
+.T
+Note onStochastic Matrices
+.B
+CACM September, 1963
+.A
+Dumey, A. I.
+.N
+CA630909 JB March 13, 1978  7:35 PM
+.X
+749	5	749
+749	5	749
+749	5	749

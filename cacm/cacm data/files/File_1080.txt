@@ -1,0 +1,13 @@
+.I 1080
+.T
+Chebyshev Polynomial Coefficients (Algorithm 227)
+.B
+CACM May, 1964
+.A
+Cyvin, S. J.
+.N
+CA640509 JB March 9, 1978  11:57 PM
+.X
+1080	5	1080
+1080	5	1080
+1080	5	1080

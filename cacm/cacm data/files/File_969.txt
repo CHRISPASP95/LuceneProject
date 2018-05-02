@@ -1,0 +1,18 @@
+.I 969
+.T
+Graycode (Algorithm 246 [Z])
+.B
+CACM December, 1964
+.A
+Boothroyd, J.
+.N
+CA641202 JB March 9, 1978  3:44 PM
+.X
+969	5	969
+969	5	969
+969	5	969
+2834	5	969
+969	6	969
+2045	6	969
+2417	6	969
+2466	6	969

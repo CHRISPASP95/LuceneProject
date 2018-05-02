@@ -1,0 +1,14 @@
+.I 354
+.T
+Associated Legendre Functions of the First Kind
+for Real or Imaginary Arguments (Algorithm 47)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610414 JB March 16, 1978  11:57 PM
+.X
+354	5	354
+354	5	354
+354	5	354

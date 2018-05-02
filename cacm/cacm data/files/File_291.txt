@@ -1,0 +1,14 @@
+.I 291
+.T
+Use of MOBOL in PreparingRetrieval Programs
+.B
+CACM September, 1961
+.A
+Hoffman, J.
+Opler, A.
+.N
+CA610903 JB March 16, 1978  9:50 PM
+.X
+291	5	291
+291	5	291
+291	5	291

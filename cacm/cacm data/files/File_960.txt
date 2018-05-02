@@ -1,0 +1,13 @@
+.I 960
+.T
+Curve Fitting with Format Fortran
+.B
+CACM December, 1964
+.A
+Garber, M. J.
+.N
+CA641211 JB March 9, 1978  3:25 PM
+.X
+960	5	960
+960	5	960
+960	5	960

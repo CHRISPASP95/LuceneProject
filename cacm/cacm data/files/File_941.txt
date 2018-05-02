@@ -1,0 +1,19 @@
+.I 941
+.T
+A Recursive Program for the General n-Dimensional Integral
+.W
+A general program is outlined for n-dimensional
+integration with variable limits.  The program 
+is of a recursive nature and uses Simpson's rule combined
+with repeated bisection to attain the required 
+accuracy.  It was developed in the Ferranti Mercury Autocode Scheme.
+.B
+CACM January, 1963
+.A
+Cadwell, J. H.
+.N
+CA630107 JB March 14, 1978  2:43 PM
+.X
+941	5	941
+941	5	941
+941	5	941

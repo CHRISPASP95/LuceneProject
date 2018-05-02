@@ -1,0 +1,13 @@
+.I 883
+.T
+Complete Elliptic Integrals (Algorithm 165)
+.B
+CACM April, 1963
+.A
+Thacher Jr., H. C.
+.N
+CA630408 JB March 14, 1978  12:23 PM
+.X
+883	5	883
+883	5	883
+883	5	883

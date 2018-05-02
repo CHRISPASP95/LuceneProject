@@ -1,0 +1,13 @@
+.I 1074
+.T
+Shanks (Algorithm 215)
+.B
+CACM May, 1964
+.A
+Schumaker, L.
+.N
+CA640515 JB March 9, 1978  11:51 PM
+.X
+1074	5	1074
+1074	5	1074
+1074	5	1074

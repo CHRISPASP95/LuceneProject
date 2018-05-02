@@ -1,0 +1,18 @@
+.I 2473
+.T
+Hidden-Line Plotting Program (Algorithm R420)
+.B
+CACM July, 1973
+.A
+Macleod, I. D. G.
+Collins, A. M.
+.K
+hidden-line plot, surface plot
+.C
+4.9
+.N
+CA730713 JB January 23, 1978  11:14 AM
+.X
+2473	5	2473
+2473	5	2473
+2473	5	2473

@@ -1,0 +1,19 @@
+.I 1940
+.T
+Calculation of a Polynomial and its Derivative
+Values by Horner Scheme (Algorithm 337 [C1])
+.B
+CACM January, 1969
+.A
+Smith, O. K.
+.K
+function, evaluation, polynomial evaluation,
+ALGOL procedure, Horner's scheme
+.C
+4.22 5.12
+.N
+CA690109 JB February 20, 1978  11:46 AM
+.X
+1940	5	1940
+1940	5	1940
+1940	5	1940

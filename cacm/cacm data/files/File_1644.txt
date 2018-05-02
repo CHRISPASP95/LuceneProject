@@ -1,0 +1,21 @@
+.I 1644
+.T
+On the Computation of Least Squares Polynomials
+.W
+Rounding error accumulated during digital computation
+of a least squares polynomial makes the 
+computed polynomial only an approximation to the true least
+square polynomial.  A simple method for adjust ing 
+the constant term of the computed polynomial to get
+a better approximation to the true least squares 
+polynomial is described.
+.B
+CACM January, 1967
+.A
+Goldberg, M.
+.N
+CA670111 JB February 28, 1978  4:24 PM
+.X
+1644	5	1644
+1644	5	1644
+1644	5	1644

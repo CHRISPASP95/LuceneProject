@@ -1,0 +1,16 @@
+.I 3161
+.T
+An ACM Executive Committee Position on the Crisis 
+in Experimental Computer Science
+.B
+CACM September, 1979
+.A
+McCracken, D.D., CCP
+Denning, P.J.
+Brandin, D.H.
+.N
+CA790902 DB January 14, 1980  10:19 AM
+.X
+3161	5	3161
+3161	5	3161
+3161	5	3161

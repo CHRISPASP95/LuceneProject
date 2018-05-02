@@ -1,0 +1,13 @@
+.I 516
+.T
+Matrix Inversion II (Algorithm 120)
+.B
+CACM August, 1962
+.A
+George, R.
+.N
+CA620812 JB March 17, 1978  9:42 PM
+.X
+516	5	516
+516	5	516
+516	5	516

@@ -1,0 +1,13 @@
+.I 684
+.T
+Interpolation, Differentiation, and Integration (Algorithm 77)
+.B
+CACM November, 1963
+.A
+Hennion, P. E.
+.N
+CA631108 JB March 13, 1978  3:45 PM
+.X
+684	5	684
+684	5	684
+684	5	684

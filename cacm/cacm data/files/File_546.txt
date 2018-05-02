@@ -1,0 +1,14 @@
+.I 546
+.T
+Logarithm of a Complex Number (Algorithm 48)
+.B
+CACM July, 1962
+.A
+Johnson, M. L.
+Sangren, W.
+.N
+CA620715 JB March 17, 1978  8:23 PM
+.X
+546	5	546
+546	5	546
+546	5	546

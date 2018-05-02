@@ -1,0 +1,21 @@
+.I 232
+.T
+A High-Speed Sorting Procedure
+.B
+CACM January, 1960
+.A
+Frank, R. M.
+Lazarus, R. B.
+.N
+CA600104 JB March 22, 1978  2:27 PM
+.X
+232	5	232
+232	5	232
+232	5	232
+852	5	232
+864	5	232
+232	6	232
+232	6	232
+309	6	232
+74	6	232
+74	6	232

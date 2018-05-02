@@ -1,0 +1,17 @@
+.I 2762
+.T
+Ten Subroutines for the Manipulation
+of Chebyshev Series (Algorithm R446, C446)
+.B
+CACM May, 1975
+.A
+Piessens, R.
+Mertens, I.
+.N
+CA750505 JB January 9, 1978  2:37 PM
+.X
+2762	4	2762
+2521	5	2762
+2762	5	2762
+2762	5	2762
+2762	5	2762

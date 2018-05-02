@@ -1,0 +1,13 @@
+.I 419
+.T
+Magic Square (Algorithm 118)
+.B
+CACM December, 1962
+.A
+Thacher Jr., H. C.
+.N
+CA621220 JB March 17, 1978  4:52 PM
+.X
+419	5	419
+419	5	419
+419	5	419

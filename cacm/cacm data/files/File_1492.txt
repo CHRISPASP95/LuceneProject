@@ -1,0 +1,13 @@
+.I 1492
+.T
+Serrev (Algorithm 273 [C1])
+.B
+CACM January, 1966
+.A
+Thacher Jr., H. C.
+.N
+CA660103a JB March 3, 1978  4:23 PM
+.X
+1492	5	1492
+1492	5	1492
+1492	5	1492

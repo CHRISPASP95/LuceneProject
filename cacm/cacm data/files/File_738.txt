@@ -1,0 +1,13 @@
+.I 738
+.T
+Fourier Series Approximation (Algorithm 157)
+.B
+CACM September, 1963
+.A
+George, R.
+.N
+CA630920 JB March 13, 1978  7:20 PM
+.X
+738	5	738
+738	5	738
+738	5	738

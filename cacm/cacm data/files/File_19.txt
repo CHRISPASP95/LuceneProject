@@ -1,0 +1,11 @@
+.I 19
+.T
+Glossary of Computer Engineering and Programming Terminology
+.B
+CACM June, 1958
+.N
+CA580603 JB March 22, 1978  9:07 PM
+.X
+19	5	19
+19	5	19
+19	5	19

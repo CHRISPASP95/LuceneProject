@@ -1,0 +1,13 @@
+.I 2271
+.T
+Aesthetics and the Human Factor in Programming (Corrigendum)
+.B
+CACM October, 1972
+.A
+Ershov,A. P.
+.N
+CA721007 JB January 27, 1978  2:51 PM
+.X
+2271	5	2271
+2271	5	2271
+2271	5	2271

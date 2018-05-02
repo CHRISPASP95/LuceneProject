@@ -1,0 +1,17 @@
+.I 975
+.T
+The New Program of Work for the International
+Standard Vocabulary in Computers and Information
+Processing
+.B
+CACM November, 1964
+.A
+Traub, J. F.
+.N
+CA641108 JB March 9, 1978  4:05 PM
+.X
+975	5	975
+975	5	975
+975	5	975
+1251	5	975
+975	6	975

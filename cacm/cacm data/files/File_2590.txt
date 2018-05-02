@@ -1,0 +1,15 @@
+.I 2590
+.T
+Hypergeometric (Algorithm C191)
+.B
+CACM October, 1974
+.A
+Kopelaar, H.
+.N
+CA741008 JB January 16, 1978  11:14 AM
+.X
+2590	4	2590
+2590	5	2590
+2590	5	2590
+2590	5	2590
+888	5	2590

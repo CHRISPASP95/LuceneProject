@@ -1,0 +1,17 @@
+.I 2100
+.T
+Ortho (Algorithm 127 $F5))
+.B
+CACM February, 1970
+.A
+Barrodale, I.
+.K
+orthogonalization, approximation
+.C
+5.13 5.17 5.5
+.N
+CA700215 JB February 14, 1978  9:45 AM
+.X
+2100	5	2100
+2100	5	2100
+2100	5	2100

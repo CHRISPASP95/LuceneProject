@@ -1,0 +1,13 @@
+.I 592
+.T
+COBOL Batching Problems
+.B
+CACM May, 1962
+.A
+Mullen, J. W.
+.N
+CA620513 JB March 20, 1978  1:38 PM
+.X
+592	5	592
+592	5	592
+592	5	592

@@ -1,0 +1,24 @@
+.I 2399
+.T
+A CRT Editing System
+.W
+A test-editing and manipulation program is described.
+ The program operates from low-cost cathode-ray 
+tube entry and display stations with keyboard and 13
+function buttons. Applications, potential economy 
+of operation, and some aspects of implementation are discussed.
+.B
+CACM January, 1972
+.A
+Irons, E. T.
+Djorup, F. M.
+.K
+editing, text, cathode-ray tube entry display, time-sharing
+.C
+3.7 4.3
+.N
+CA720104 JB February 1, 1978  9:31 AM
+.X
+2399	5	2399
+2399	5	2399
+2399	5	2399

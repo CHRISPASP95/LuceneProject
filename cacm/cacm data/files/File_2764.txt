@@ -1,0 +1,29 @@
+.I 2764
+.T
+An Intelligent Analyzer and Understander of English
+.W
+The paper describes a working analysis and generation
+program for natural language, which handles 
+paragraph length input.  Its core is a system of preferential
+choice between deep semantic patterns, 
+based on what we call "semantic density."  The system
+is contrasted: (1) with syntax oriented linguistic 
+approaches, and (2) with theorem proving
+approaches to the understanding problem.
+.B
+CACM May, 1975
+.A
+Wilks, Y.
+.K
+artificial intelligence, computational linguistics,
+template, paraplate, stereotype, machine translation, 
+understanding, natural language processing,
+semantic preference, semantic density
+.C
+3.36 3.42 3.63
+.N
+CA750503 JB January 9, 1978  3:00 PM
+.X
+2764	5	2764
+2764	5	2764
+2764	5	2764

@@ -1,0 +1,13 @@
+.I 127
+.T
+ASSIGNMENT (Algorithm 27)
+.B
+CACM November, 1960
+.A
+Silver, R.
+.N
+CA601108 JB March 20, 1978  7:09 PM
+.X
+127	5	127
+127	5	127
+127	5	127

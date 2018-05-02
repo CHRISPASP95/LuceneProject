@@ -1,0 +1,14 @@
+.I 1577
+.T
+Eigenvalues and Eigenvectors of a Real Symmetric
+Matrix by the QR Method (Algorithm 254 [F2])
+.B
+CACM June, 1967
+.A
+Welsch, J. H.
+.N
+CA670607e JB March 23, 1978  3:31 PM
+.X
+1577	5	1577
+1577	5	1577
+1577	5	1577

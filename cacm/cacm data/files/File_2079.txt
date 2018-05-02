@@ -1,0 +1,13 @@
+.I 2079
+.T
+On Multiprogramming, Machine Coding, and Computer Organization
+.B
+CACM April, 1970
+.A
+Wirth, N.
+.N
+CA700405 JB February 13, 1978  3:05 PM
+.X
+2079	5	2079
+2079	5	2079
+2079	5	2079

@@ -1,0 +1,27 @@
+.I 2780
+.T
+On Computing Certain Elements of the Inverse of a Sparse Matrix
+.W
+A recursive algorithm for computing the inverse
+of a matrix from the LU factors based on relationships 
+in Takahashi, et al., is examined.  The formulas for the
+algorithm are given; the dependency relationships 
+are derived; the computational costs are developed; and some
+general comments on application and stability 
+are made.
+.B
+CACM March, 1975
+.A
+Erisman, E. M.
+Tinney, W. F.
+.K
+sparse matrices, triangular factorization, elements
+of inverse, tridiagonal matrix, sensitivities
+.C
+3.24 5.14
+.N
+CA750308 JB January 9, 1978  4:34 PM 
+.X
+2780	5	2780
+2780	5	2780
+2780	5	2780

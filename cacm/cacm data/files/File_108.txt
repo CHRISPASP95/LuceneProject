@@ -1,0 +1,16 @@
+.I 108
+.T
+Programmed Error Correction in Project Mercury
+.B
+CACM December, 1960
+.A
+Dimsdale, B.
+Weinberg, G. M.
+.N
+CA601208 JB March 20, 1978  6:35 PM
+.X
+108	5	108
+108	5	108
+108	5	108
+361	5	108
+108	6	108

@@ -1,0 +1,14 @@
+.I 954
+.T
+A Note on the Calculation of Probabilities in an F-Distribution
+.B
+CACM December, 1964
+.A
+Smillie, K. W.
+Anstey, T. H.
+.N
+CA641217 JB March 9, 1978  3:14 PM
+.X
+954	5	954
+954	5	954
+954	5	954

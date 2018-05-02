@@ -1,0 +1,18 @@
+.I 909
+.T
+Arithmetizing Declarations (Corrigendum)
+.B
+CACM March, 1963
+.A
+Conway, M. E.
+Speroni, J.
+.N
+CA630312b JB March 14, 1978  1:40 PM
+.X
+909	5	909
+909	5	909
+909	5	909
+1963	5	909
+909	6	909
+475	6	909
+750	6	909

@@ -1,0 +1,32 @@
+.I 2182
+.T
+Interrupt Driven Programming
+.B
+CACM July, 1971
+.A
+Zelkowitz, M.
+.K
+interrupts, supervisors, monitors, debugging, parallel
+processing, associative memories, microprogramming
+.C
+3.51 4.32 4.42
+.N
+CA710608 JB February 3, 1978  9:49 AM
+.X
+2182	4	2182
+2534	4	2182
+1959	5	2182
+2182	5	2182
+2182	5	2182
+2182	5	2182
+2497	5	2182
+2534	5	2182
+830	6	2182
+1471	6	2182
+1787	6	2182
+1959	6	2182
+1973	6	2182
+2111	6	2182
+2182	6	2182
+2182	6	2182
+799	6	2182

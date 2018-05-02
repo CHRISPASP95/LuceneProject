@@ -1,0 +1,13 @@
+.I 811
+.T
+Smoothing 2 (Algorithm 189)
+.B
+CACM July, 1963
+.A
+Rodriguez Gil, F.
+.N
+CA630713 JB March 14, 1978  8:33 AM
+.X
+811	5	811
+811	5	811
+811	5	811

@@ -1,0 +1,15 @@
+.I 658
+.T
+Discussion-The Pros and Cons of a Special IR Language
+.B
+CACM January, 1962
+.A
+Sammet, J. E.
+Ohlman, H.
+Bohnest, H. G.
+.N
+CA620101 JB March 20, 1978  4:50 PM
+.X
+658	5	658
+658	5	658
+658	5	658

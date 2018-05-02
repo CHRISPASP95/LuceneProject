@@ -1,0 +1,13 @@
+.I 817
+.T
+Nexcom (Algorithm 152)
+.B
+CACM July, 1963
+.A
+Hopley, J.
+.N
+CA630707 JB March 14, 1978  8:40 AM
+.X
+817	5	817
+817	5	817
+817	5	817

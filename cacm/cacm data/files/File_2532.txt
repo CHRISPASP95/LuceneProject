@@ -1,0 +1,25 @@
+.I 2532
+.T
+On Harrison's Substring Testing Technique
+.B
+CACM March, 1973
+.A
+Bookstein, A.
+.K
+string, substring, hashing, information storage and retrieval
+.C
+3.74 5.30 5.5
+.N
+CA730307 JB January 24, 1978  10:30 AM
+.X
+2532	4	2532
+2631	4	2532
+2746	4	2532
+3001	4	2532
+2139	5	2532
+2532	5	2532
+2532	5	2532
+2532	5	2532
+2631	5	2532
+2139	6	2532
+2532	6	2532

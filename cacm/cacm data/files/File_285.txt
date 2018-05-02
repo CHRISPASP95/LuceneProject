@@ -1,0 +1,14 @@
+.I 285
+.T
+Solution of Tridiagonal Matrices
+.B
+CACM September, 1961
+.A
+Wenrick, R. C.
+Houghton, A. V.
+.N
+CA610909 JB March 16, 1978  9:39 PM
+.X
+285	5	285
+285	5	285
+285	5	285

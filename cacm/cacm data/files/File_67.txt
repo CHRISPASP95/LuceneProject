@@ -1,0 +1,17 @@
+.I 67
+.T
+Central-European Computers
+.B
+CACM September, 1959
+.A
+Blachman, N. M.
+.N
+CA590902 JB March 22, 1978  4:52 PM
+.X
+67	4	67
+41	5	67
+67	5	67
+67	5	67
+67	5	67
+79	5	67
+67	6	67

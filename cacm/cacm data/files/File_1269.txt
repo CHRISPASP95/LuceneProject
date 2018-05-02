@@ -1,0 +1,13 @@
+.I 1269
+.T
+Computation of Fourier Coefficients (Algorithm [C6])
+.B
+CACM May, 1965
+.A
+Teijelo, L.
+.N
+CA650502 JB March 7, 1978  3:12 PM
+.X
+1269	5	1269
+1269	5	1269
+1269	5	1269

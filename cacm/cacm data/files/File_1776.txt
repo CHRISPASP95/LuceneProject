@@ -1,0 +1,17 @@
+.I 1776
+.T
+Maxflow (Algorithm 324 [H])
+.B
+CACM February, 1968
+.A
+Bayer, G.
+.K
+network,liner programming, maximum flow
+.C
+5.41
+.N
+CA680206 JB February 23, 1978  12:02 PM
+.X
+1776	5	1776
+1776	5	1776
+1776	5	1776

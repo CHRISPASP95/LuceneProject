@@ -1,0 +1,13 @@
+.I 846
+.T
+Self-Inverse Conversion Table
+.B
+CACM June, 1963
+.A
+Sanborn, T. G.
+.N
+CA630603 JB March 14, 1978  10:25 AM
+.X
+846	5	846
+846	5	846
+846	5	846

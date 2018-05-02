@@ -1,0 +1,21 @@
+.I 2662
+.T
+Graduate Education: The Ph.D. Glut: Response and Rebuttal
+.B
+CACM April, 1974
+.A
+Freeman, P.
+Malcolm, M. A.
+Payne, W. H.
+.K
+graduate education, Ph.D. production, accreditation
+.C
+1.5 2.2 2.3
+.N
+CA740408 JB February 1, 1978  10:40 AM
+.X
+2662	4	2662
+2531	5	2662
+2662	5	2662
+2662	5	2662
+2662	5	2662

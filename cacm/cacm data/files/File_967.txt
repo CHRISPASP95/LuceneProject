@@ -1,0 +1,19 @@
+.I 967
+.T
+Complementary Error Function (Algorithm 181 [S15])
+.B
+CACM December, 1964
+.A
+Clausen, I.
+Hansson,L.
+.N
+CA641204 JB March 9, 1978  3:42 PM
+.X
+967	5	967
+967	5	967
+967	5	967
+1583	5	967
+831	6	967
+967	6	967
+1126	6	967
+707	6	967

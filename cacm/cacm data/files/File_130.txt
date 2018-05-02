@@ -1,0 +1,13 @@
+.I 130
+.T
+Real Zeros of an Arbitrary Function (Algorithm 25)
+.B
+CACM November, 1960
+.A
+Leavenworth, B.
+.N
+CA601105 JB March 20, 1978  8:00 PM
+.X
+130	5	130
+130	5	130
+130	5	130

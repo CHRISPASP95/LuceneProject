@@ -1,0 +1,19 @@
+.I 2124
+.T
+Numerical Inversion of Laplace Transforms (Algorithm 368 $D5))
+.B
+CACM January, 1970
+.A
+Stehfest, H.
+.K
+Laplace transform inversion, integral transformations, integral equations
+.C
+5.15 5.18
+.N
+CA700107 JB February 14, 1978  1:55 PM
+.X
+2124	5	2124
+2124	5	2124
+2124	5	2124
+2591	5	2124
+2124	6	2124

@@ -1,0 +1,13 @@
+.I 306
+.T
+INVRS (Algorithm 66)
+.B
+CACM July, 1961
+.A
+Caffery, J.
+.N
+CA610711 JB March 16, 1978  10:19 PM
+.X
+306	5	306
+306	5	306
+306	5	306

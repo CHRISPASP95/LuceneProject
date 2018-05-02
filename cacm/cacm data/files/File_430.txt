@@ -1,0 +1,13 @@
+.I 430
+.T
+TREESORT2 (Algorithm 144)
+.B
+CACM December, 1962
+.A
+Kaupe Jr.,A. F.
+.N
+CA621209 JB March 17, 1978  5:07 PM
+.X
+430	5	430
+430	5	430
+430	5	430

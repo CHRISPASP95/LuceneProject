@@ -1,0 +1,13 @@
+.I 159
+.T
+ROOTFINDER (Algorithm 2)
+.B
+CACM August, 1960
+.A
+Thacher Jr., H. C.
+.N
+CA600807 JB March 20, 1978  8:56 PM
+.X
+159	5	159
+159	5	159
+159	5	159

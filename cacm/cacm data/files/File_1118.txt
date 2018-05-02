@@ -1,0 +1,19 @@
+.I 1118
+.T
+FORTRAN Subroutines for Time Series Data Reduction*
+.B
+CACM March, 1964
+.A
+MacGowan, R. A.
+.N
+CA640314 JB March 10, 1978  2:39 AM
+.X
+1118	4	1118
+1118	4	1118
+826	4	1118
+948	4	1118
+942	5	1118
+1118	5	1118
+1118	5	1118
+1118	5	1118
+826	5	1118

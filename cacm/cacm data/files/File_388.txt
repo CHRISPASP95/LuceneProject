@@ -1,0 +1,14 @@
+.I 388
+.T
+Solution of Polynomial Equations by
+Bairstow Hitchcock Method (Algorithm 3)
+.B
+CACM February, 1961
+.A
+Vandergraft, J. S.
+.N
+CA610210 JB March 17, 1978  12:54 AM
+.X
+388	5	388
+388	5	388
+388	5	388

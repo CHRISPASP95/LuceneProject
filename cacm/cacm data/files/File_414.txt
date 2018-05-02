@@ -1,0 +1,19 @@
+.I 414
+.T
+IBM 1440 Data Processing System Features Five New Units
+.W
+The IBM 1440 data processing system, announced
+recently by the International Business Machines 
+Corporation, not only features the 1311 disk storage
+drive with interchangeable disk packs but four other 
+newly developed units.
+.B
+CACM December, 1961
+.A
+Wheeling, R.
+.N
+CA621225 JB March 17,1978  4:30 PM
+.X
+414	5	414
+414	5	414
+414	5	414

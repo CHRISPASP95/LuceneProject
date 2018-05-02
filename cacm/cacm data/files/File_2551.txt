@@ -1,0 +1,19 @@
+.I 2551
+.T
+Mutual Recursion in Algol 60 Using Restricted Compilers
+.B
+CACM January, 1973
+.A
+Atkins,M. S.
+.K
+Algol 60, mutual recursion, compiler restrictions
+.C
+4.12 4.22
+.N
+CA730110 JB January 24, 1978  3:46 PM
+.X
+2551	5	2551
+2551	5	2551
+2551	5	2551
+2658	5	2551
+2551	6	2551

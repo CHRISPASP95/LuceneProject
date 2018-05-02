@@ -1,0 +1,13 @@
+.I 629
+.T
+On a Wired-In Binary-to-Decimal Conversion Scheme
+.B
+CACM March, 1962
+.A
+Lynch, W. C.
+.N
+CA620303 JB March 20, 1978  3:10 PM
+.X
+629	5	629
+629	5	629
+629	5	629

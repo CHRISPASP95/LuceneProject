@@ -1,0 +1,14 @@
+.I 554
+.T
+Newton Maehly, (Algorithm 105)
+.B
+CACM July, 1962
+.A
+Bauer, F. L.
+Stoer, J.
+.N
+CA620707 JB March 17, 1978  8:44 PM
+.X
+554	5	554
+554	5	554
+554	5	554

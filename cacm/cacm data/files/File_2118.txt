@@ -1,0 +1,26 @@
+.I 2118
+.T
+An Efficient Algorithm for Sorting with
+Minimal Storage (Algorithm 347 $M1))
+.B
+CACM January, 1970
+.A
+Griffin, R.
+Redish, K. A.
+.K
+sorting,minimal storage sorting, digital computer sorting
+.C
+5.31
+.N
+CA700113 JB February 14, 1978  1:43 PM
+.X
+1919	4	2118
+1969	4	2118
+2118	4	2118
+2348	4	2118
+2679	4	2118
+3054	4	2118
+1175	5	2118
+2118	5	2118
+2118	5	2118
+2118	5	2118

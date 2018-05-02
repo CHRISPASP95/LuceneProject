@@ -1,0 +1,18 @@
+.I 1795
+.T
+Optimal Code for Serial and Parallel Computation
+.B
+CACM December, 1969
+.A
+Fateman, R. J.
+.K
+code optimization, sequencing of operations,
+detection of common subexpressions
+.C
+4.12
+.N
+CA691217 JB February 15, 1978  1:59 PM
+.X
+1795	5	1795
+1795	5	1795
+1795	5	1795

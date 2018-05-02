@@ -1,0 +1,13 @@
+.I 338
+.T
+GROUT II (Algorithm 43)
+.B
+CACM April, 1961
+.A
+Thacher Jr., H.C.
+.N
+CA610430 JB March 16, 1978  11:35 PM
+.X
+338	5	338
+338	5	338
+338	5	338

@@ -1,0 +1,31 @@
+.I 3107
+.T
+Generating Beta Variates with Nonintegrel Shape Parameters
+.W
+A new rejection method is described for generating
+beta variates.  The method is compared with 
+previously published methods both theoretically and through
+computer timings.  It is suggested that the 
+method has advantages in both speed and programming
+simplicity over previous methods, especially for 
+"difficult" combinations of parameter values.
+.B
+CACM April, 1978
+.A
+Cheng, R.C.H.
+.K
+Beta variates, random numbers, simulation
+.C
+5.5 8.1
+.N
+CA780409 DH February 26, 1979  3:32 PM
+.X
+2847	4	3107
+2928	4	3107
+3046	4	3107
+3098	4	3107
+3107	4	3107
+2569	5	3107
+3107	5	3107
+3107	5	3107
+3107	5	3107

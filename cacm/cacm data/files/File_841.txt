@@ -1,0 +1,14 @@
+.I 841
+.T
+Shuttle Sort (Algorithm 175)
+.B
+CACM June, 1963
+.A
+Shaw, C. J.
+Trimble, T. N.
+.N
+CA630608 JB March 14, 1978  10:20 AM
+.X
+841	5	841
+841	5	841
+841	5	841

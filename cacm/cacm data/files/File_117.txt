@@ -1,0 +1,13 @@
+.I 117
+.T
+An Estimation of the Relative Efficiency of Two Internal Sorting Methods
+.B
+CACM November, 1960
+.A
+Nagler, H.
+.N
+CA601118 JB March 20, 1978  6:51 PM
+.X
+117	5	117
+117	5	117
+117	5	117

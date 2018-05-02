@@ -1,0 +1,13 @@
+.I 789
+.T
+Bandsolve (Algorithm 195)
+.B
+CACM August, 1963
+.A
+Thurnau, D. H.
+.N
+CA630809 JB March 13, 1978  8:39 PM
+.X
+789	5	789
+789	5	789
+789	5	789

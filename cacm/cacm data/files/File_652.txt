@@ -1,0 +1,17 @@
+.I 652
+.T
+Use of Semantic Structure in Information Systems
+.B
+CACM January, 1962
+.A
+Sable, J. D.
+.N
+CA620107 JB March 20, 1978  4:37 PM
+.X
+1324	5	652
+652	5	652
+652	5	652
+652	5	652
+634	6	652
+652	6	652
+653	6	652

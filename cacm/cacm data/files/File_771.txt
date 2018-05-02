@@ -1,0 +1,13 @@
+.I 771
+.T
+Combination in Lexicographical Order (Algorithm 154)
+.B
+CACM August, 1963
+.A
+Bosworth, K. M.
+.N
+CA630827 JB March 13, 1978  8:18 PM
+.X
+771	5	771
+771	5	771
+771	5	771

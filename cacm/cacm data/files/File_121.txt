@@ -1,0 +1,15 @@
+.I 121
+.T
+Over-all Computation Control and Labelling
+.B
+CACM November, 1960
+.A
+Holt, A.
+.N
+CA601114 JB March 20, 1978  6:58 PM
+.X
+121	4	121
+121	5	121
+121	5	121
+121	5	121
+221	5	121

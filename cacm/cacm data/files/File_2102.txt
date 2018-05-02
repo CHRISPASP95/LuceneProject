@@ -1,0 +1,20 @@
+.I 2102
+.T
+Fitting Data To One Exponential (Algorithm 375 $E2))
+.B
+CACM February, 1970
+.A
+Spath, H.
+.K
+nonlinear least squares fit
+.C
+5.15
+.N
+CA700213 JB February 14, 1978 9:49 PM
+.X
+2101	4	2102
+2102	4	2102
+1639	5	2102
+2102	5	2102
+2102	5	2102
+2102	5	2102

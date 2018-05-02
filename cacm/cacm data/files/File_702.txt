@@ -1,0 +1,14 @@
+.I 702
+.T
+Assign (Algorithm 173)
+.B
+CACM October, 1963
+.A
+Filsak, Z.
+Vrchovecka, L.
+.N
+CA631023 JB March 13, 1978  5:31 PM
+.X
+702	5	702
+702	5	702
+702	5	702

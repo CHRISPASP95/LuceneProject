@@ -1,0 +1,22 @@
+.I 1629
+.T
+Stat-Pack: A Biostatistical Programming Package
+.W
+A package of FORTRAN statistical programs for use
+on almost any small to medium size (40k characters 
+or 8k words) for which a FORTRAN II compiler exists
+is described and its availability is announced.  
+The major design criteria of ease of use, ease of modification,
+flexibility of input and detail of output 
+are described.
+.B
+CACM February, 1967
+.A
+Shannon, S.
+Henschke, C.
+.N
+CA670213 JB February 28,1978  1:57 PM
+.X
+1629	5	1629
+1629	5	1629
+1629	5	1629

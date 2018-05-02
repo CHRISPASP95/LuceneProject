@@ -1,0 +1,17 @@
+.I 1097
+.T
+An Algorithm for Converting Integers from Base A to Base B
+.W
+A little known, simple algorithm for integer
+conversion between number systems is presented 
+and proved.
+.B
+CACM April, 1964
+.A
+Gladwin, H. T.
+.N
+CA640411 JB March 10, 1978  1:30 AM
+.X
+1097	5	1097
+1097	5	1097
+1097	5	1097

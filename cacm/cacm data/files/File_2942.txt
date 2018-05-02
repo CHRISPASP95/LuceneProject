@@ -1,0 +1,18 @@
+.I 2942
+.T
+An Algol-Based Implementation of SNOBOL 4 Patterns
+.B
+CACM July, 1977
+.A
+Brownlee, J. N.
+.K
+patterns SNOBOL 4, pattern matching, string processing,
+pattern implementation, algorithms in Pascal
+.C
+4.29
+.N
+CA770710 JB December 28, 1977  8:15 AM
+.X
+2942	5	2942
+2942	5	2942
+2942	5	2942

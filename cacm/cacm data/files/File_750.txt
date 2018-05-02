@@ -1,0 +1,17 @@
+.I 750
+.T
+PEI Matrix Eigenvectors
+.B
+CACM September, 1963
+.A
+Newbery, A. C. R.
+.N
+CA630908 JB March 13, 1978  7:36 PM
+.X
+1963	5	750
+750	5	750
+750	5	750
+750	5	750
+909	6	750
+475	6	750
+750	6	750

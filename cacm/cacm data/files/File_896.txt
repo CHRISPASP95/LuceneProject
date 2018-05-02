@@ -1,0 +1,13 @@
+.I 896
+.T
+Characteristic Values and Vectors of Defective Matrices
+.B
+CACM March, 1963
+.A
+Thompson, G. T.
+.N
+CA630324 JB March 14, 1978  12:58 PM
+.X
+896	5	896
+896	5	896
+896	5	896

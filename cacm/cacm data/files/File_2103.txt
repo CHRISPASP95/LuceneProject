@@ -1,0 +1,19 @@
+.I 2103
+.T
+Restricted Partition Generator (Algorithm 374 $A1))
+.B
+CACM February, 1970
+.A
+White, J. S.
+.K
+partitions, restricted partitions, sums of integers, restricted sums
+.C
+5.39
+.N
+CA700212 JB February 14, 1978  9:49 AM
+.X
+2103	4	2103
+1218	5	2103
+2103	5	2103
+2103	5	2103
+2103	5	2103

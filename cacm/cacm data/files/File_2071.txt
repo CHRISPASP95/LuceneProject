@@ -1,0 +1,22 @@
+.I 2071
+.T
+Filon Quadrature (Algorithm 353 $D1))
+.B
+CACM April, 1970
+.A
+Fosdick, L. D.
+Einarsson, Bo
+.K
+quadrature, Filon quadrature, integration, Filon
+integration, Fourier coefficients, Fourier series
+.C
+5.16
+.N
+CA700413 JB February 13, 1978  2:40 PM
+.X
+2071	5	2071
+2071	5	2071
+2071	5	2071
+2393	5	2071
+1858	6	2071
+2071	6	2071

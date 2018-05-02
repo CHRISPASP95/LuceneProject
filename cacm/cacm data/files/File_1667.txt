@@ -1,0 +1,27 @@
+.I 1667
+.T
+Roots of Polynomials by a Root-Squaring
+and Resultant Routine (Algorithm 340 [C2])
+.B
+CACM November, 1968
+.A
+Noltemeier, A.
+.K
+root finders, roots of polynomial equations, polynomial
+zeros, root-squaring operations, Graeffe 
+method, resultant procedure, subresultant procedure,
+testing of roots, acceptance criteria
+.C
+5.15
+.N
+CA681112 JB February 21, 1978  2:24 PM
+.X
+1667	4	1667
+1667	4	1667
+1667	4	1667
+178	5	1667
+1242	5	1667
+1667	5	1667
+1667	5	1667
+1667	5	1667
+327	5	1667

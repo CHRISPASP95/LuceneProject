@@ -1,0 +1,13 @@
+.I 611
+.T
+Permutation Generator (Algorithm 87)
+.B
+CACM April, 1962
+.A
+Howell, J. R.
+.N
+CA620406 JB March 20, 1978  2:20 PM
+.X
+611	5	611
+611	5	611
+611	5	611

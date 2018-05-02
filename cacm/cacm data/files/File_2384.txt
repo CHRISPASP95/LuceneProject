@@ -1,0 +1,17 @@
+.I 2384
+.T
+Hidden-Line Plotting Program [J6] (Algorithm A420)
+.B
+CACM February, 1972
+.A
+Williamson, H. 
+.K
+hidden-line plot, surface plot 
+.C
+4.9
+.N
+CA720207 JB January 31, 1978  4:12 PM
+.X
+2384	5	2384
+2384	5	2384
+2384	5	2384

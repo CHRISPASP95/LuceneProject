@@ -1,0 +1,11 @@
+.I 173
+.T
+ATLAS a new concept in large computer design
+.B
+CACM June, 1960
+.N
+CA600617 JB March 20, 1978  9:22 PM
+.X
+173	5	173
+173	5	173
+173	5	173

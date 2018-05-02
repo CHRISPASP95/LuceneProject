@@ -1,0 +1,13 @@
+.I 2774
+.T
+Remark on Algorithm 475
+.B
+CACM April, 1975
+.A
+Frederick, L. W.
+.N
+CA750403 JB January 9, 1978  4:07 PM
+.X
+2774	5	2774
+2774	5	2774
+2774	5	2774

@@ -1,0 +1,13 @@
+.I 1075
+.T
+Shuttlesort (Algorithm 175)
+.B
+CACM May, 1964
+.A
+Juelich, O. C.
+.N
+CA640514 JB March 9, 1978  11:52 PM
+.X
+1075	5	1075
+1075	5	1075
+1075	5	1075

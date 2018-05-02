@@ -1,0 +1,13 @@
+.I 519
+.T
+Magic Square (Even Order) (Algorithm 117)
+.B
+CACM August, 1962
+.A
+Collison, D. M.
+.N
+CA620809 JB March 17, 1978  9:46 PM
+.X
+519	5	519
+519	5	519
+519	5	519

@@ -1,0 +1,13 @@
+.I 542
+.T
+FACTORS (Algorithm 75)
+.B
+CACM July, 1962
+.A
+Relph, A. P.
+.N
+CA620719 JB March 17, 1978  8:18 PM
+.X
+542	5	542
+542	5	542
+542	5	542

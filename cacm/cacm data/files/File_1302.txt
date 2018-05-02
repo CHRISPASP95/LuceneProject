@@ -1,0 +1,12 @@
+.I 1302
+.T
+Parallel Signaling Speeds for Data Transmission
+(Proposed American Stand ard)
+.B
+CACM March, 1965
+.N
+CA650305 JB March 7, 1978  6:08 PM
+.X
+1302	5	1302
+1302	5	1302
+1302	5	1302

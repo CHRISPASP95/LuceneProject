@@ -1,0 +1,19 @@
+.I 2011
+.T
+Sequency Ordered Walsh Functions $S22) (Algorithm 390)
+.B
+CACM August, 1970
+.A
+Hubner, H.
+.K
+Walsh functions, sequency ordered Walsh functions
+.C
+5.12 5.13
+.N
+CA700810 JB February 10, 1978  3:20 PM
+.X
+2011	4	2011
+2011	5	2011
+2011	5	2011
+2011	5	2011
+2012	5	2011

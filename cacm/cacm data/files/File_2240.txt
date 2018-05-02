@@ -1,0 +1,17 @@
+.I 2240
+.T
+Pseudo-Random Numbers [G5] (Algorithm C266)
+.B
+CACM December, 1972
+.A
+Sullins, W. L.
+.K
+pseudo-random numbers, testing random number generators
+.C
+5.5
+.N
+CA721215 JB January 27, 1978  9:04 AM
+.X
+2240	5	2240
+2240	5	2240
+2240	5	2240

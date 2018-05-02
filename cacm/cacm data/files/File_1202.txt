@@ -1,0 +1,13 @@
+.I 1202
+.T
+Normal Random (Algorithm 200 [G5])
+.B
+CACM September, 1965
+.A
+Pike, M. C.
+.N
+CA650904 JB March 6, 1978  7:36 PM
+.X
+1202	5	1202
+1202	5	1202
+1202	5	1202

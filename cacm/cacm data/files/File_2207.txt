@@ -1,0 +1,33 @@
+.I 2207
+.T
+The Automatic Integration of Ordinary Differential Equations
+.W
+An integration technique for the automatic
+solution of an initial value problem for a set of 
+ordinary differential equations is described.  A criterion
+for the selection of the order of approximation 
+is proposed.  The objective of the criterion is to increase
+the step size so as to reduce solution time. 
+An option permits the solution of "stiff" differential
+equations.  A program embodying the techniques 
+discussed appears in Algorithm 407.
+.B
+CACM March, 1971
+.A
+Gear, C. W.
+.K
+differential equations, stiff equations,
+integration, step control, order control
+.C
+5.17
+.N
+CA710305 JB February 3, 1978  4:28 PM
+.X
+2205	5	2207
+2207	5	2207
+2207	5	2207
+2207	5	2207
+2474	5	2207
+2205	6	2207
+2207	6	2207
+2207	6	2207

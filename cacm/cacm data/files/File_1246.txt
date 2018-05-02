@@ -1,0 +1,13 @@
+.I 1246
+.T
+Deeply Nested Iterations 
+.B
+CACM June, 1965
+.A
+Korphage, R. R.
+.N
+CA650609 JB March 6, 1978  10:15 PM
+.X
+1246	5	1246
+1246	5	1246
+1246	5	1246

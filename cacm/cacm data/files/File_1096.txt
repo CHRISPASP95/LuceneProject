@@ -1,0 +1,14 @@
+.I 1096
+.T
+On Avoiding Matrix Reversals Between 7090 FORTRAN II and 7090 FORTRAN IV
+.B
+CACM April, 1964
+.A
+Stevens, D.
+Benson, B.
+.N
+CA640412 JB March 10, 1978  1:28 AM
+.X
+1096	5	1096
+1096	5	1096
+1096	5	1096

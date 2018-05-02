@@ -1,0 +1,17 @@
+.I 1822
+.T
+Shortest-Path Forest with Topological Ordering (Algorithm [H])
+.B
+CACM November, 1969
+.A
+Dial, R. B.
+.K
+shortest path, tree, network, directed graph
+.C
+5.32 5.42
+.N
+CA691108 JB February 15, 1978  12:21 PM
+.X
+1822	5	1822
+1822	5	1822
+1822	5	1822

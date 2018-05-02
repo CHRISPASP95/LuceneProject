@@ -1,0 +1,20 @@
+.I 1298
+.T
+Adaptive Numerical Integration by Simpson's Rule (Algorithm 145 [D1])
+.B
+CACM March, 1965
+.A
+Pike, M. C.
+.N
+CA650309 JB March 7, 1978  6:03 PM
+.X
+1298	5	1298
+1298	5	1298
+1298	5	1298
+2093	5	1298
+834	6	1298
+872	6	1298
+1092	6	1298
+1298	6	1298
+1573	6	1298
+429	6	1298

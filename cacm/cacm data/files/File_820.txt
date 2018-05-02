@@ -1,0 +1,13 @@
+.I 820
+.T
+Checking for Loops in Networks
+.B
+CACM July, 1963
+.A
+Gordon, R. M.
+.N
+CA630704 JB March 14, 1978  8:47 AM
+.X
+820	5	820
+820	5	820
+820	5	820

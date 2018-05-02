@@ -1,0 +1,25 @@
+.I 2813
+.T
+The Computer Science and Engineering Research Study (COSERS)
+.W
+The Computer Science and Engineering Research
+Study (COSERS) is briefly described.  The motivation, 
+organization, and schedule for this NSF supported study
+are given.  For possible further reference, the 
+subject area panel chairmen and the members
+of the Steering Committee are identified.
+.B
+CACM December, 1976
+.A
+Arden, B.
+.K
+computer science research, computer engineering
+research, national research study
+.C
+1.0 1.52
+.N
+CA761202 JB January 3, 1978  2:35 PM
+.X
+2813	5	2813
+2813	5	2813
+2813	5	2813

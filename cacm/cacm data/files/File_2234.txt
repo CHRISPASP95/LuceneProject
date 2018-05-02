@@ -1,0 +1,17 @@
+.I 2234
+.T
+Roots of Matrix Pencils (Algorithm R405)
+.B
+CACM December, 1972
+.A
+Heiberger, R. M.
+.K
+eigenvalues, matrix roots, pencil roots
+.C
+5.1 5.3
+.N
+CA721221 JB January 27, 1978  8:51 AM
+.X
+2234	5	2234
+2234	5	2234
+2234	5	2234

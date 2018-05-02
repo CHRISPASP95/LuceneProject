@@ -1,0 +1,18 @@
+.I 2576
+.T
+A Simple Technique for Representing Strings in Fortran IV
+.B
+CACM November, 1974
+.A
+Hanson, D. R.
+.K
+string processing, Fortran IV, string representation,structured
+programming, data structures
+.C
+3.70 4.0 4.19 4.9
+.N
+CA741108 JB January 16, 1978  10:12 AM
+.X
+2576	5	2576
+2576	5	2576
+2576	5	2576

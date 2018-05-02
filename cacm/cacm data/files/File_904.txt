@@ -1,0 +1,13 @@
+.I 904
+.T
+Fourier Series Approximation (Algorithm 157)
+.B
+CACM March, 1963
+.A
+Mifsud, C. J.
+.N
+CA630316 JB March 14, 1978  1:31 PM
+.X
+904	5	904
+904	5	904
+904	5	904

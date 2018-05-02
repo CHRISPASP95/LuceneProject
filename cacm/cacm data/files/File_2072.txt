@@ -1,0 +1,18 @@
+.I 2072
+.T
+Modified Romberg Quadrature (Algorithm 351 $D1))
+.B
+CACM April, 1970
+.A
+Cook, N. D.
+.K
+numerical integration, Romberg quadrature,
+trapezoid values, rectangle values, error bound
+.C
+5.16
+.N
+CA700412 JB February 13, 1978  2:42 PM
+.X
+2072	5	2072
+2072	5	2072
+2072	5	2072

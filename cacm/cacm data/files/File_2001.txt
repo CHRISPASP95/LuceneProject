@@ -1,0 +1,22 @@
+.I 2001
+.T
+Integrating Square Roots
+.W
+Differential equation of the (y')^2 = f(y) are difficult to integrate 
+numerically because of the singularity at points where f(y) vanishes.  A 
+simple trick removes the singularity.
+.B
+CACM September, 1970
+.A
+Moler, C. B.
+Solomon, L. P.
+.K
+quadrature, differential equations
+.C
+5.16 5.17
+.N
+CA700904 JB February 10, 1978  1:42 PM
+.X
+2001	5	2001
+2001	5	2001
+2001	5	2001

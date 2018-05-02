@@ -1,0 +1,29 @@
+.I 2521
+.T
+Ten Subroutines for the Manipulation
+of Chebyshev Series [C1] (Algorithm A446)
+.B
+CACM April, 1973
+.A
+Broucke, R.
+.K
+Chebyshev series, differentiation, integration,
+curve fitting,approximations, negative powers
+.C
+5.12 5.13 5.16
+.N
+CA730407 JB January 24, 1978  9:29 AM
+.X
+2028	4	2521
+2521	4	2521
+2521	4	2521
+2521	4	2521
+3099	4	2521
+2028	5	2521
+2031	5	2521
+2521	5	2521
+2521	5	2521
+2521	5	2521
+2762	5	2521
+3135	5	2521
+2521	6	2521

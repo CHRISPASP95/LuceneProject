@@ -1,0 +1,13 @@
+.I 1192
+.T
+Interpolation in a Table (Algorithm 264 [E1])
+.B
+CACM October, 1965
+.A
+Stafford, J.
+.N
+CA651003 JB March 6, 1978  6:52 PM
+.X
+1192	5	1192
+1192	5	1192
+1192	5	1192

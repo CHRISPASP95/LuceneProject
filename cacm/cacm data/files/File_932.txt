@@ -1,0 +1,16 @@
+.I 932
+.T
+Matrix Inversion by Gauss-Jordan Inversion II (Algorithm 120)
+.B
+CACM January, 1963
+.A
+Naur, P.
+.N
+CA630116 JB March 14, 1978  2:27 PM
+.X
+932	5	932
+932	5	932
+932	5	932
+806	5	932
+932	6	932
+454	6	932

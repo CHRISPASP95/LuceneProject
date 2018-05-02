@@ -1,0 +1,17 @@
+.I 587
+.T
+Romberg Integration (Algorithm 60)
+.B
+CACM May, 1962
+.A
+Buchner, K. H.
+.N
+CA620518 JB March 20, 1978  1:33 PM
+.X
+1040	5	587
+587	5	587
+587	5	587
+587	5	587
+885	6	587
+587	6	587
+621	6	587

@@ -1,0 +1,25 @@
+.I 2055
+.T
+Subroutine to Perform In-Situ Transposition
+of a Rectangular Matrix (Algorithm 380)
+.B
+CACM May, 1970
+.A
+Lachenmaier, R.
+.K
+rectangular matrix, transpose
+.C
+5.14
+.N
+CA700511 JB February 13, 1978  1:14 PM
+.X
+2055	5	2055
+2055	5	2055
+2055	5	2055
+2057	5	2055
+2392	5	2055
+1600	6	2055
+1600	6	2055
+1894	6	2055
+2055	6	2055
+2055	6	2055

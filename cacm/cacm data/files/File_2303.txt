@@ -1,0 +1,21 @@
+.I 2303
+.T
+Archaeology of Computers - Reminiscences, 1945-1947
+.W
+The period preceding the founding of ACM was
+dominated by the first large computer ENIAC.  
+Its characteristics, described here, foreshadow later developments.
+.B
+CACM July, 1972
+.A
+Alt, F. L.
+.K
+history of computers
+.C
+1.2
+.N
+CA720725 JB January 30, 1978  10:36 AM
+.X
+2303	5	2303
+2303	5	2303
+2303	5	2303

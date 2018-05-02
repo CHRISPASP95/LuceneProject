@@ -1,0 +1,13 @@
+.I 648
+.T
+Sorting Procedures (Algorithm 76)
+.B
+CACM January, 1962
+.A
+Flores, I.
+.N
+CA620111 JB March 20, 1978  4:33 PM
+.X
+648	5	648
+648	5	648
+648	5	648

@@ -1,0 +1,18 @@
+.I 1850
+.T
+Generation of Permutations in Lexicographic Order (Algorithm 323 [G6])
+.B
+CACM September, 1969
+.A
+Leitch, I. M.
+.K
+permutations, direct lexicographic order, reverse
+lexicographic order, lexicographic generation
+.C
+5.39
+.N
+CA690905 JB February 15, 1978  4:48 PM
+.X
+1850	5	1850
+1850	5	1850
+1850	5	1850

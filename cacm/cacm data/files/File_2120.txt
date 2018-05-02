@@ -1,0 +1,31 @@
+.I 2120
+.T
+An Algorithm to Produce Complex Primes, Csieve (Algorithm 372 $A1))
+.B
+CACM January, 1970
+.A
+Dunham, K. B.
+.K
+primes, complex numbers
+.C
+5.39
+.N
+CA700111 JB February 14, 1978  1:47 PM
+.X
+1841	4	2120
+1841	4	2120
+1967	4	2120
+2120	4	2120
+2120	4	2120
+2120	4	2120
+2927	4	2120
+2927	4	2120
+1537	5	2120
+1539	5	2120
+1967	5	2120
+377	5	2120
+2120	5	2120
+2120	5	2120
+2120	5	2120
+1539	6	2120
+2120	6	2120

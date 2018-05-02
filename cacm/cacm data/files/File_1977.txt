@@ -1,0 +1,30 @@
+.I 1977
+.T
+An Interactive Display for Approximation by Linear Programming
+.W
+An interactive program
+with a graphical display has been developed for the approximation of
+data by means of a linear combination of functions (including
+splines) selected by the user.  The coefficients of the approximation
+are determined by linear programming so as to minimize the error
+in either the L1 or L-infinity norm.  Auxiliary conditions such as
+monotonicity or convexity of the approximation can also be imposed. This
+interactive system is described and several examples of its use are given.
+.B
+CACM November, 1970
+.A
+LaFata, P.
+Rosen, J. B.
+.K
+approximation, data fitting, functional approximation, linear
+programming, interactive graphical display, spline functions
+.C
+5.13 5.41
+.N
+CA701101 JB February 10, 1978  9:06 AM
+.X
+1977	5	1977
+1977	5	1977
+1977	5	1977
+2604	5	1977
+1977	6	1977

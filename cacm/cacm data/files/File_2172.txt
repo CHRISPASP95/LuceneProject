@@ -1,0 +1,17 @@
+.I 2172
+.T
+Graph Plotter [J6] (Algorithm 412)
+.B
+CACM July, 1971
+.A
+Cermak, J.
+.K
+plot, graph, line printer plot
+.C
+4.41
+.N
+CA710710 JB February 2, 1978  4:32 PM
+.X
+2172	5	2172
+2172	5	2172
+2172	5	2172

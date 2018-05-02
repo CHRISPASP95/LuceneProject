@@ -1,0 +1,18 @@
+.I 2475
+.T
+Solution of Linear Programming Problems
+in 0-1 Variables [H1] (Algorithm A449)
+.B
+CACM July, 1973
+.A
+Fiala, F.
+.K
+linear programming, zero-one variable 
+.C
+5.41
+.N
+CA730711 JB January 23, 1978  11:19 AM
+.X
+2475	5	2475
+2475	5	2475
+2475	5	2475

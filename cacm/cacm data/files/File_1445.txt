@@ -1,0 +1,25 @@
+.I 1445
+.T
+Use of the Computer to Teach Introductory Statistics
+.W
+It has always been obvious that the aid to calculation
+offered by the computer forces a change 
+in the curricula of mathematics, statistics, physics,
+engineering and other courses.  Not so obvious 
+are the many pedagogic aids the computer can offer in
+teaching the subject matter.  The possibilities 
+of giving the student a better technical as well as conceptual
+understanding of statistics were explored 
+for a number of years at the College of Medicine of
+the University of Cincinnati and are reported here.
+.B
+CACM April, 1966
+.A
+Sterling, T. D.
+Pollack, S. V.
+.N
+CA660404 JB March 3, 1978  10:48 AM
+.X
+1445	5	1445
+1445	5	1445
+1445	5	1445

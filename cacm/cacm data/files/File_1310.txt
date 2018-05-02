@@ -1,0 +1,14 @@
+.I 1310
+.T
+A Rapid Braille Transliteration Technique for Certain IBM Machines
+.B
+CACM February, 1965
+.A
+Weiler, W. J.
+Klema, V. C.
+.N
+CA650214 JB March 7, 1978  10:55 PM
+.X
+1310	5	1310
+1310	5	1310
+1310	5	1310

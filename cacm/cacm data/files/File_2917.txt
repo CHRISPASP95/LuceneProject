@@ -1,0 +1,15 @@
+.I 2917
+.T
+SITAR: An Interactive Text Processing
+System for Small Computers (Corrigendum)
+.B
+CACM October, 1977
+.A
+Schneider, B. R. Jr.
+Watts, R. M.
+.N
+CA771009 JB December 28, 1977  5:58 AM
+.X
+2917	5	2917
+2917	5	2917
+2917	5	2917

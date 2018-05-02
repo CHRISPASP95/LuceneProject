@@ -1,0 +1,18 @@
+.I 1882
+.T
+Determination of the Square Root of a Positive
+Definite Matrix (Algorithm 298 [F1])
+.B
+CACM June, 1969
+.A
+Duke, B. J.
+.K
+matrix, symmetric matrix, positive definite matrix, matrix square root
+.C
+5.14
+.N
+CA690611 JB February 17, 1978  9:53 AM
+.X
+1882	5	1882
+1882	5	1882
+1882	5	1882

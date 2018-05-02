@@ -1,0 +1,13 @@
+.I 446
+.T
+Simpson's Integration (Algorithm 84)
+.B
+CACM November, 1962
+.A
+Behrenz, P. G.
+.N
+CA621115 JB March 17, 1978  6:04 PM
+.X
+446	5	446
+446	5	446
+446	5	446

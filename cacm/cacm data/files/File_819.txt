@@ -1,0 +1,19 @@
+.I 819
+.T
+Polynomial Evaluation Revised
+.B
+CACM July, 1963 
+.A
+Eisman, S. H.
+.N
+CA630705 JB March 14, 1978  8:46 AM
+.X
+1620	4	819
+819	4	819
+1620	5	819
+436	5	819
+819	5	819
+819	5	819
+819	5	819
+819	6	819
+436	6	819

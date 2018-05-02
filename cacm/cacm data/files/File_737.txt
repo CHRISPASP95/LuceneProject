@@ -1,0 +1,13 @@
+.I 737
+.T
+Exponentiation of Series (Algorithm 158)
+.B
+CACM September, 1963
+.A
+Lawrence, J. D.
+.N
+CA630921 JB March 13, 1978  7:19 PM
+.X
+737	5	737
+737	5	737
+737	5	737

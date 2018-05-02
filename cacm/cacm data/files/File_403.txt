@@ -1,0 +1,14 @@
+.I 403
+.T
+Thunks -- A Way of Compiling Procedure Statements
+with Some Comments on Procedure Declarations
+.B
+CACM January, 1961
+.A
+Ingerman, P. Z.
+.N
+CA610111 JB March 17, 1978  1:16 AM
+.X
+403	5	403
+403	5	403
+403	5	403

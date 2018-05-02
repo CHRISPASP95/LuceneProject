@@ -1,0 +1,13 @@
+.I 522
+.T
+Generation of Partitions with Constraints (Algorithm 114)
+.B
+CACM August, 1962
+.A
+Stockmal, F.
+.N
+CA620806 JB March 17, 1978  7:28 PM
+.X
+522	5	522
+522	5	522
+522	5	522

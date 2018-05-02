@@ -1,0 +1,23 @@
+.I 2565
+.T
+A Gaussian Pseudo-Random Number Generator (Algorithm 488)
+.B
+CACM December, 1974
+.A
+Brent, R. P.
+.K
+random numbers, pseudo-random numbers,
+Gaussian distribution, normal distribution
+.C
+5.39 5.5
+.N
+CA741209 JB January 13, 1978  3:57 PM 
+.X
+2349	4	2565
+2565	4	2565
+2565	4	2565
+1716	5	2565
+2276	5	2565
+2565	5	2565
+2565	5	2565
+2565	5	2565

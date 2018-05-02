@@ -1,0 +1,13 @@
+.I 685
+.T
+Euler Summation (Algorithm 8)
+.B
+CACM November, 1963
+.A
+Thacher Jr., H. C.
+.N
+CA631108 JB March 13, 1978  3:46 PM
+.X
+685	5	685
+685	5	685
+685	5	685

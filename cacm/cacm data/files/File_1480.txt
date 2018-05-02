@@ -1,0 +1,15 @@
+.I 1480
+.T
+Computation of Chebyshev Series Coefficients (Algorithm 277[C6])
+.B
+CACM February, 1966
+.A
+Smith, L. B.
+.N
+CA660206c JB March 23, 1978  7:28 PM
+.X
+1480	5	1480
+1480	5	1480
+1480	5	1480
+1639	5	1480
+1480	6	1480

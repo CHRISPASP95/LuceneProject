@@ -1,0 +1,17 @@
+.I 1863
+.T
+Minit Algorithm for Linear Programming (Algorithm 333 [H])
+.B
+CACM July, 1969
+.A
+Messham, D. K.
+.K
+linear programming, dual simplex method, primal problem, dual problem
+.C
+5.41
+.N
+CA690717 JB February 15, 1978  6:23 PM
+.X
+1863	5	1863
+1863	5	1863
+1863	5	1863

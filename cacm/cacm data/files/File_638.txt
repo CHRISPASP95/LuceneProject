@@ -1,0 +1,15 @@
+.I 638
+.T
+SURGE: A Recoding of the COBOL Merchandise Control Algorithm
+.B
+CACM February, 1962
+.A
+Longo, L. F.
+.N
+CA620205 JB March 20, 1978 3:53 PM
+.X
+638	4	638
+300	5	638
+638	5	638
+638	5	638
+638	5	638

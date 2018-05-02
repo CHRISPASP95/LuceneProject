@@ -1,0 +1,17 @@
+.I 885
+.T
+Modified Hankel Function (Algorithm 163)
+.B
+CACM April, 1963
+.A
+Fettis, H. E.
+.N
+CA630406 JB March 14, 1978  12:26 PM
+.X
+1040	5	885
+885	5	885
+885	5	885
+885	5	885
+885	6	885
+587	6	885
+621	6	885

@@ -1,0 +1,41 @@
+.I 2823
+.T
+The Status of Women and Minorities in Academic Computer Science
+.W
+The results of a survey concerning women and
+minority students and faculty in computer science 
+during the years 1971 to 1975 are presented.  Analysis
+of the data indicated that effective affirmative 
+action programs for recruitment into graduate degree
+programs are needed to enlarge the number of women 
+and minorities qualified for later employment in computer
+science.  Also, possible discrimination in 
+employment of women and minority graduate students was revealed. 
+.B
+CACM October, 1976
+.A
+Montanelli, R. G. Jr.
+Mamrak, S. A.
+.K
+discrimination against women, discrimination against
+minorities, graduate students, undergraduate 
+students, academic employment, faculty, computer science
+degree programs, affirmative action, Title VII, 
+Title IX
+.C
+1.52 1.53 2.2 2.3
+.N
+CA761008 JB January 3, 1978  4:10 PM
+.X
+2823	4	2823
+2735	5	2823
+2823	5	2823
+2823	5	2823
+2823	5	2823
+3022	5	2823
+3123	5	2823
+2823	6	2823
+2823	6	2823
+2861	6	2823
+2962	6	2823
+3022	6	2823

@@ -1,0 +1,17 @@
+.I 2588
+.T
+Rosenbrock Function Minimization (Algorithm R450)
+.B
+CACM October, 1974
+.A
+Klemes, J.
+Klemsa, J.
+.N
+CA741010 JB January 16, 1978  11:09 AM
+.X
+2587	4	2588
+2588	4	2588
+2588	5	2588
+2588	5	2588
+2588	5	2588
+2612	5	2588

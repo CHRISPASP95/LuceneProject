@@ -1,0 +1,13 @@
+.I 567
+.T
+Logarithm of a Complex Number (Algorithm 48)
+.B
+CACM June, 1962
+.A
+Relph, A. P.
+.N
+CA620618 JB March 17, 1978  9:20 PM
+.X
+567	5	567
+567	5	567
+567	5	567

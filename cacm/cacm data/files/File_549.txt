@@ -1,0 +1,14 @@
+.I 549
+.T
+Quantum Mechanical Integrals of Slater-Type Orbitals
+.B
+CACM July, 1962
+.A
+Kruglyak, Y. A.
+Whitman, D. R.
+.N
+CA620712 JB March 17, 1978  8:27 PM
+.X
+549	5	549
+549	5	549
+549	5	549

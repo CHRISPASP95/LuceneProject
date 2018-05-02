@@ -1,0 +1,13 @@
+.I 916
+.T
+FORTRAN
+.B
+CACM March, 1963
+.A
+Heising, W. P.
+.N
+CA630305 JB March 14, 1978  1:47 PM
+.X
+916	5	916
+916	5	916
+916	5	916

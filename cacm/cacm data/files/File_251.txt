@@ -1,0 +1,21 @@
+.I 251
+.T
+Ballistic Cam Design 
+.W
+This paper presents a digital computer program
+for the rapid calculation of manufacturing data 
+essential to the design of preproduction cams which
+are utilized in ballistic computers of tank fire 
+control systems.  The cam profile generated introduces
+the superelevation angle required by tank main 
+armament for a particular type ammunition.
+.B
+CACM November, 1961
+.A
+Archambault, M.
+.N
+CA611117 JB March 15, 1978  10:37 PM
+.X
+251	5	251
+251	5	251
+251	5	251

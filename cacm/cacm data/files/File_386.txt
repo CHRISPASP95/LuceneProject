@@ -1,0 +1,15 @@
+.I 386
+.T
+MULTINT (Algorithm 32)
+.B
+CACM February, 1961
+.A
+Freeman Jr., R. D.
+.N
+CA610212 JB March 17, 1978  12:52 AM
+.X
+1146	5	386
+386	5	386
+386	5	386
+386	5	386
+386	6	386

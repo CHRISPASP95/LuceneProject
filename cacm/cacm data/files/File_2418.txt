@@ -1,0 +1,17 @@
+.I 2418
+.T
+Student's t Frequency [S14] (Algorithm A465)
+.B
+CACM November, 1973
+.A
+Hill, G. W.
+.K
+Student's t statistic, density function, series approximation
+.C
+5.12 5.5
+.N
+CA731108 JB January 20, 1978  10:01 AM
+.X
+2418	5	2418
+2418	5	2418
+2418	5	2418

@@ -1,0 +1,14 @@
+.I 339
+.T
+Real Exponential Integral (Algorithm 20)
+.B
+CACM April, 1961
+.A
+Alexander, W. J.
+Thacher Jr., H. C.
+.N
+CA610429 JB March 16, 1978  11:36 PM
+.X
+339	5	339
+339	5	339
+339	5	339

@@ -1,0 +1,15 @@
+.I 2086
+.T
+Another Method of Converting from Hexadecimal to Decimal
+.B
+CACM March, 1970
+.A
+Kailas, M. V.
+.K
+binary-decimal conversion, computer arithmetic categories
+.N
+CA700312 JB February 13, 1978  3:41 PM
+.X
+2086	5	2086
+2086	5	2086
+2086	5	2086

@@ -1,0 +1,17 @@
+.I 1953
+.T
+Exponential Integral Ei(x) (Algorithms 385 $S13))
+.B
+CACM December, 1970
+.A
+Redish, K. A.
+.K
+ANSI Fortran standard
+.C
+4.0 4.22
+.N
+CA701210 JB February 9, 1978  3:04 PM
+.X
+1953	5	1953
+1953	5	1953
+1953	5	1953

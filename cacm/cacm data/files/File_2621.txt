@@ -1,0 +1,27 @@
+.I 2621
+.T
+A High Security Log-in Procedure
+.W
+The protection of time sharing systems from
+unauthorized users is often achieved by the use 
+of passwords.  By using one-way ciphers to code the passwords,
+the risks involved with storing the passwords 
+in the computer can be avoided.  We discuss the selection
+of a suitable one-way cipher and suggest that 
+for this purpose polynomials over a prime modulus are
+superior to one-way ciphers derived from Sannon 
+codes.
+.B
+CACM August, 1974
+.A
+Purdy, G. B.
+.K
+operating systems, time sharing systems, security, cryptography
+.C
+4.35
+.N
+CA740803 JB January 17, 1978  10:10 AM
+.X
+2621	5	2621
+2621	5	2621
+2621	5	2621

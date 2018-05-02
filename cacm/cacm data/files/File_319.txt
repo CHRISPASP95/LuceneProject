@@ -1,0 +1,27 @@
+.I 319
+.T
+On a Class of Iteration Formulas and Some Historical Notes
+.W
+The class of iteration formulas obtainable
+by rational approximations of "Euler's formula" 
+is derived with the corresponding error estimates. 
+Some historical notes on iterative procedures are 
+followed by a derivation of Euler's formula with the
+associated error estimate in a new notation which 
+simplifies the error estimate and suggests generalizations.
+ The final section considers the Pade approximants 
+to the "Euler polynomial" and shows how a number of known
+formulas may be derived from this unified approach. 
+ There is a short discussion of the "best" formula.
+.B
+CACM June, 1961
+.A
+Traub, J. F.
+.N
+CA610606 JB March 16, 1978  10:36 PM
+.X
+319	4	319
+319	5	319
+319	5	319
+319	5	319
+380	5	319

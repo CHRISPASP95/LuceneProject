@@ -1,0 +1,19 @@
+.I 1715
+.T
+Direct Search (Algorithm 178 [E4]) 
+.B
+CACM July, 1968
+.A
+De Vogelaere, R.
+.K
+function minimization, search, direct search
+.C
+5.19
+.N
+CA680714 JB February 22, 1978  11:24 AM
+.X
+1715	5	1715
+1715	5	1715
+1715	5	1715
+1815	5	1715
+1715	6	1715

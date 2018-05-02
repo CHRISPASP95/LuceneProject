@@ -1,0 +1,13 @@
+.I 1287
+.T
+Vector Coupling or Clebsch-Gordan Coefficients (Algorithm 252 [Z])
+.B
+CACM April, 1965
+.A
+Gunn, J. H.
+.N
+CA650404 JB March 7, 1978  3:58 PM
+.X
+1287	5	1287
+1287	5	1287
+1287	5	1287

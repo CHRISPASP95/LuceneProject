@@ -1,0 +1,11 @@
+.I 1360
+.T
+Description of Systems Used for Data Transmission* (An ASA Tutorial)
+.B
+CACM October, 1966
+.N
+CA661007 JB March 2, 1978  3:54 PM
+.X
+1360	5	1360
+1360	5	1360
+1360	5	1360

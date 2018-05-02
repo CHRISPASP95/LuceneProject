@@ -1,0 +1,16 @@
+.I 1580
+.T
+Error Function-Large X (Algorithm 180 [S15])
+.B
+CACM June, 1967
+.A
+Hill, I. D.
+Joyce, S. A.
+.N
+CA670607h JB March 23, 1978  3:35 PM
+.X
+1580	5	1580
+1580	5	1580
+1580	5	1580
+2334	5	1580
+1580	6	1580

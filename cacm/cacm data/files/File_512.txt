@@ -1,0 +1,13 @@
+.I 512
+.T
+Telescope 1 (Algorithm 37)
+.B
+CACM August, 1962
+.A
+Thacher Jr., H. C.
+.N
+CA620816 JB March 17, 1978  9:36 PM
+.X
+512	5	512
+512	5	512
+512	5	512

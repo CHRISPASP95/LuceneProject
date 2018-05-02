@@ -1,0 +1,13 @@
+.I 312
+.T
+A Further Note on Approximating e^x
+.B
+CACM July, 1961
+.A
+Olivier, D.
+.N
+CA610705 JB March 16, 1978  10:26 PM
+.X
+312	5	312
+312	5	312
+312	5	312

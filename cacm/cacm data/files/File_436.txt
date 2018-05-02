@@ -1,0 +1,22 @@
+.I 436
+.T
+Evaluation of Polynomials by Computer
+.B
+CACM December, 1962
+.A
+Knuth, D. E.
+.N
+CA621203 JB March 17, 1978  5:16 PM
+.X
+1223	4	436
+1388	4	436
+436	4	436
+1620	5	436
+405	5	436
+436	5	436
+436	5	436
+436	5	436
+819	5	436
+819	6	436
+436	6	436
+436	6	436

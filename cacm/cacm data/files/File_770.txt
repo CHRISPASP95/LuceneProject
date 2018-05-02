@@ -1,0 +1,13 @@
+.I 770
+.T
+Combination in Any Order (Algorithm 155)
+.B
+CACM August, 1963
+.A
+Bosworth, K. M.
+.N
+CA630828 JB March 13, 1978  8:17 PM
+.X
+770	5	770
+770	5	770
+770	5	770

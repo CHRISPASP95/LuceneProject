@@ -1,0 +1,13 @@
+.I 72
+.T
+An Educational Program in Computing 
+.B
+CACM August, 1959
+.A
+Hollingsworth, J.
+.N
+CA590801 JB March 22, 1978  6:18 PM
+.X
+72	5	72
+72	5	72
+72	5	72

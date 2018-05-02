@@ -1,0 +1,19 @@
+.I 822
+.T
+Real-Time Programming Specifications
+.W
+Problems in the implementation of large real-time
+applications are treated, and suggested guidelines 
+for both program and file specifications are developed.
+ The problems delineated also occur in systems 
+programming.
+.B
+CACM July, 1963
+.A
+Head, R. V.
+.N
+CA630702 JB March 14, 1978  8:50 AM
+.X
+822	5	822
+822	5	822
+822	5	822

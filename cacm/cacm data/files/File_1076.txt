@@ -1,0 +1,13 @@
+.I 1076
+.T
+Multiple Integration (Algorithm 146)
+.B
+CACM May, 1964
+.A
+Wirth, N.
+.N
+CA640513 JB March 9, 1978  11:53 PM
+.X
+1076	5	1076
+1076	5	1076
+1076	5	1076

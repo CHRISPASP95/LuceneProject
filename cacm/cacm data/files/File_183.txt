@@ -1,0 +1,13 @@
+.I 183
+.T
+Conversion Between Floating Point Representations
+.B
+CACM June, 1960
+.A
+Perry, C.
+.N
+CA600607 JB March 20, 1978  9:40 PM
+.X
+183	5	183
+183	5	183
+183	5	183

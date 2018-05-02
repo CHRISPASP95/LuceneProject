@@ -1,0 +1,23 @@
+.I 1181
+.T
+A Simple Data Transmission System Using the Office Telephone
+.W
+A method has evolved for transmitting data of
+a type originating in many laboratory situation 
+direct to a central computer.  The method requires almost
+no specialized equipment and uses any ordinary 
+telephone on a "callup" basis.  Present applications
+include cardiac-output calculations, radio-activity 
+tracer studies and neurophysiology time-sequence studies of nerve impulses.
+.B
+CACM October, 1965
+.A
+Neilsen, I. R.
+.N
+CA651014 JB March 6, 1978  6:25 PM
+.X
+1181	4	1181
+1181	5	1181
+1181	5	1181
+1181	5	1181
+698	5	1181

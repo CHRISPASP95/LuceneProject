@@ -1,0 +1,13 @@
+.I 3029
+.T
+Foreword to the Special Issue on Computer Architecture
+.B
+CACM January, 1978
+.A
+Fuller,S.H.
+.N
+CA780101 JB March 28, 1978  5:52 PM
+.X
+3029	5	3029
+3029	5	3029
+3029	5	3029

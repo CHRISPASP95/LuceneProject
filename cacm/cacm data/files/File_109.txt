@@ -1,0 +1,13 @@
+.I 109
+.T
+A Note on Approximating e^x
+.B
+CACM December, 1960
+.A
+Lubkin, S.
+.N
+CA601207 JB March 20, 1978  6:37 PM
+.X
+109	5	109
+109	5	109
+109	5	109

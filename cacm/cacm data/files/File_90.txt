@@ -1,0 +1,17 @@
+.I 90
+.T
+Binary Arithmetic for Discretely Variable
+Word Length in a Serial Computer
+.B
+CACM April, 1959
+.A
+Ercoli, P.
+Vacca, R.
+.N
+CA590402 JB March 22, 1978  7:13 PM
+.X
+107	5	90
+90	5	90
+90	5	90
+90	5	90
+90	6	90

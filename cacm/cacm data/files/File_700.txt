@@ -1,0 +1,13 @@
+.I 700
+.T
+Hermite Interpolation (Algorithm 210)
+.B
+CACM October, 1963
+.A
+Dwyer, T. A.
+.N
+CA631025 JB March 13, 1978  5:27 PM
+.X
+700	5	700
+700	5	700
+700	5	700

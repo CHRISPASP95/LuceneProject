@@ -1,0 +1,13 @@
+.I 156
+.T
+An Introductory Problem in Symbol Manipulation for the Student
+.B
+CACM September, 1960
+.A
+Rosin, R. F.
+.N
+CA600901 JB March 20, 1978  8:51 PM
+.X
+156	5	156
+156	5	156
+156	5	156

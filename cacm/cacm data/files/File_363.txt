@@ -1,0 +1,13 @@
+.I 363
+.T
+On Approximating Transcendental Numbers by Continued Fractions
+.B
+CACM April, 1961
+.A
+Karst, E.
+.N
+CA610405 JB March 17, 1978  12:09 AM
+.X
+363	5	363
+363	5	363
+363	5	363

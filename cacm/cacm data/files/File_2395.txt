@@ -1,0 +1,24 @@
+.I 2395
+.T
+Quadratic Programming for Nonlinear Regression
+.W
+A quadratic programming algorithm is described
+for use with the magnified diagonal method of 
+nonlinear regression with linear constraints.  The
+regression method is published in JACM, July 1970.
+.B
+CACM January, 1972
+.A
+Shrager, R. I.
+.K
+nonlinear equations, nonlinear regression, nonlinear
+programming, quadratic programming, least 
+squares, inequality, constraints, iteration
+.C
+5.15 5.41
+.N
+CA720108 JB February 1, 1978  9:09 AM
+.X
+2395	5	2395
+2395	5	2395
+2395	5	2395

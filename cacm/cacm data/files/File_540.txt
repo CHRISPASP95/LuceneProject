@@ -1,0 +1,14 @@
+.I 540
+.T
+Definite Exponential Integrals A (Algorithm 108)
+.B
+CACM July, 1962
+.A
+Kruglyak, Y. A.
+Whitman, D. R.
+.N
+CA620721 JB March 17, 1978  8:16 PM
+.X
+540	5	540
+540	5	540
+540	5	540

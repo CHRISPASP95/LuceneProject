@@ -1,0 +1,13 @@
+.I 654
+.T
+Language Problems Posed by Heavily Structured Data
+.B
+CACM January, 1962
+.A
+Barnes, R. F.
+.N
+CA620105 JB March 20, 1978  4:40 PM
+.X
+654	5	654
+654	5	654
+654	5	654

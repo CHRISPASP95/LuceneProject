@@ -1,0 +1,13 @@
+.I 1299
+.T
+Solutions of the Diophantine Equation (Algorithm 139 [A1])
+.B
+CACM March, 1965
+.A
+Bowlden, H. J.
+.N
+CA650308 JB March 7, 1978  6:04 PM
+.X
+1299	5	1299
+1299	5	1299
+1299	5	1299

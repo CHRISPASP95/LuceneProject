@@ -1,0 +1,13 @@
+.I 760
+.T
+Dialects of FORTRAN
+.B
+CACM August, 1963
+.A
+Pyle, I. C.
+.N
+CA630838 JB March 13, 1978  8:03 PM
+.X
+760	5	760
+760	5	760
+760	5	760

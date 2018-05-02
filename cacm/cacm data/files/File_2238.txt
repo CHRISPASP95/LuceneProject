@@ -1,0 +1,13 @@
+.I 2238
+.T
+Least Squares Surface Fit (Algorithm R176)
+.B
+CACM December, 1972
+.A
+Schuegraf, E.
+.N
+CA721217 JB January 27, 1978  8:59 AM
+.X
+2238	5	2238
+2238	5	2238
+2238	5	2238

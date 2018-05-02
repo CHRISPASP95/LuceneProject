@@ -1,0 +1,15 @@
+.I 102
+.T
+A Comparison of 650 Programming Methods
+.B
+CACM December, 1960
+.A
+Curtz, T. B.
+Riordan, J. F.
+Spohn,M.
+.N
+CA601214 JB March 20, 1978  6:18 PM
+.X
+102	5	102
+102	5	102
+102	5	102

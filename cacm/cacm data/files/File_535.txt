@@ -1,0 +1,16 @@
+.I 535
+.T
+Triangular Walk Pattern for the Down-hill
+Method of Solving a Transcendental Equation
+.B
+CACM July, 1962
+.A
+Onoe, M.
+.N
+CA620726 JB March 17, 1978  8:02 PM
+.X
+1806	5	535
+535	5	535
+535	5	535
+535	5	535
+535	6	535

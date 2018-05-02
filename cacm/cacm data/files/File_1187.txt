@@ -1,0 +1,13 @@
+.I 1187
+.T
+Note on an ASCII-Octal Code Table (Standards)
+.B
+CACM October, 1965
+.A
+Crosby, W. S.
+.N
+CA651008 JB March 6, 1978  6:42 PM
+.X
+1187	5	1187
+1187	5	1187
+1187	5	1187

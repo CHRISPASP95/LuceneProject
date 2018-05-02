@@ -1,0 +1,24 @@
+.I 1887
+.T
+A Recursive Relation for the Determinant of a Pentadiagonal Matrix
+.W
+A recursive relation, relating leading principal
+minors, is developed for the determinant of 
+a pentadiagonal matrix.  A numerical example is included
+to indicate its use in calculating eigenvalues.
+.B
+CACM June, 1969
+.A
+Sweet, R. A.
+.K
+pentadiagonal matrix, quindiagonal matrix, quindiagonal
+matrix, band matrix, determinant, characteristic 
+polynomial, eigenvalues
+.C
+5.14
+.N
+CA690606 JB February 17, 1978  11:00 AM
+.X
+1887	5	1887
+1887	5	1887
+1887	5	1887

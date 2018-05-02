@@ -1,0 +1,19 @@
+.I 485
+.T
+Real Error Function, ERF(x) (Algorithm 123)
+.B
+CACM September, 1962
+.A
+Crawford, M.
+Techo, R.
+.N
+CA620907 JB March 17, 1978  7:35 PM
+.X
+1157	5	485
+485	5	485
+485	5	485
+485	5	485
+836	6	485
+1081	6	485
+485	6	485
+714	6	485

@@ -1,0 +1,13 @@
+.I 269
+.T
+Core Allocation Based on Probability
+.B
+CACM October, 1961
+.A
+Riskin, B. N.
+.N
+CA611012 JB March 16, 1978  12:49 PM
+.X
+269	5	269
+269	5	269
+269	5	269

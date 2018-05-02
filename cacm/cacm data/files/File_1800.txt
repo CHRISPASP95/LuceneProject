@@ -1,0 +1,25 @@
+.I 1800
+.T
+PSIF (Algorithm 147 [S14])
+.B
+CACM December, 1969
+.A
+Parsons, R. G.
+.K
+gamma function, logarithmic derivative, factorial function, psi function
+.C
+5.12
+.N
+CA691212 JB February 15, 1978  2:11 PM
+.X
+1800	4	1800
+1800	5	1800
+1800	5	1800
+1800	5	1800
+2222	5	1800
+871	5	1800
+970	6	1800
+1800	6	1800
+1818	6	1800
+1834	6	1800
+2042	6	1800

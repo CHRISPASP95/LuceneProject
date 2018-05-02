@@ -1,0 +1,13 @@
+.I 978
+.T
+Fresnel Integrals (Algorithm 244 [S20])
+.B
+CACM November, 1964
+.A
+Lotsch, H.
+.N
+CA641105 JB March 9,1978  4:09 PM
+.X
+978	5	978
+978	5	978
+978	5	978

@@ -1,0 +1,11 @@
+.I 722
+.T
+ALCOR Group Representation of ALGOL Symbols
+.B
+CACM October, 1963
+.N
+CA631003 JB March 13, 1978  6:36 PM
+.X
+722	5	722
+722	5	722
+722	5	722

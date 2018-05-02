@@ -1,0 +1,16 @@
+.I 481
+.T
+A One-Day Look At Computing
+.B
+CACM September, 1962
+.A
+Armerding, G. W.
+Gruenberger, F. J.
+Marks, S. L.
+Parkin, T. R.
+.N
+CA620911 JB March 17, 1978  7:30 PM
+.X
+481	5	481
+481	5	481
+481	5	481

@@ -1,0 +1,13 @@
+.I 1004
+.T
+Arctangent (Algorithm [B1])
+.B
+CACM September, 1964
+.A
+Mills, K. W.
+.N
+CA640907 JB March 9, 1978  6:08 PM
+.X
+1004	5	1004
+1004	5	1004
+1004	5	1004

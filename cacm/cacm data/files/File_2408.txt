@@ -1,0 +1,25 @@
+.I 2408
+.T
+Solving the Biharmonic Equation in a Square:
+A Direct Versus a Semidirect Method
+.W
+Two methods for solving the biharmonic equation
+are compared.  One method is direct, using 
+eigenvalue-eigenvector decomposition.  The other method
+is iterative, solving a Poisson equation directly 
+at each iteration.
+.B
+CACM November, 1973
+.A
+Ehrlich, L. W.
+.K
+biharmonic, direct method, block iterative,
+eigenvector-eigenvalue decomposition
+.C
+5.14 5.17
+.N
+CA731118 JB January 19, 1978  3:28 PM
+.X
+2408	5	2408
+2408	5	2408
+2408	5	2408

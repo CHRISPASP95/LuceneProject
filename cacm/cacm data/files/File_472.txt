@@ -1,0 +1,15 @@
+.I 472
+.T
+Gauss' Method (Algorithm 126)
+.B
+CACM October, 1962
+.A
+Counts, J. W.
+.N
+CA621008 JB March 17, 1978  7:18 PM
+.X
+2075	5	472
+472	5	472
+472	5	472
+472	5	472
+472	6	472

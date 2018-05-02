@@ -1,0 +1,13 @@
+.I 213
+.T
+Numerical Inversion of Laplace Transforms
+.B
+CACM March, 1960
+.A
+Schmittroth, L. A.
+.N
+CA600305 JB March 22, 1978  2:00 PM
+.X
+213	5	213
+213	5	213
+213	5	213

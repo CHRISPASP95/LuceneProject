@@ -1,0 +1,13 @@
+.I 555
+.T
+Reduction to Jacobi (Algorithm 104)
+.B
+CACM July, 1962
+.A
+Rutishausr, H.
+.N
+CA620706 JB March 17, 1978  8:45 PM
+.X
+555	5	555
+555	5	555
+555	5	555

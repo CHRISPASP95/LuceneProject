@@ -1,0 +1,19 @@
+.I 2255
+.T
+Comments on Moorer's Music and Computer Composition
+.B
+CACM November, 1972
+.A
+Smoliar, S. W.
+.K
+artificial intelligence, heuristic programming,
+models of cognitive processes, computer music, 
+computer composition, music theory
+.C
+3.44 3.65
+.N
+CA721114 JB January 27, 1978  1:22 PM
+.X
+2255	5	2255
+2255	5	2255
+2255	5	2255

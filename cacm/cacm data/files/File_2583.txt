@@ -1,0 +1,23 @@
+.I 2583
+.T
+Guidelines for Humanizing Computerized Information
+Systems: A Report from Stanley House
+.B
+CACM November, 1974
+.A
+Sterling, T. D.
+.K
+humanization, social implication, management, information
+systems, regulations, social and behavioral 
+sciences, philosophy
+.C
+1.5 2 3.3 3.4 3.5
+.N
+CA741101 JB January 16, 1978  10:53 AM
+.X
+2583	5	2583
+2583	5	2583
+2583	5	2583
+3142	5	2583
+2583	6	2583
+3076	6	2583

@@ -1,0 +1,13 @@
+.I 692
+.T
+On the Inverse of a Test Matrix
+.B
+CACM October, 1963
+.A
+Stockmal, F. J.
+.N
+CA631033 JB March 27, 1978  9:00 PM
+.X
+692	5	692
+692	5	692
+692	5	692

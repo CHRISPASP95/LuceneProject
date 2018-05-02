@@ -1,0 +1,16 @@
+.I 2005
+.T
+Proposed Revision of American National Standard X3.21-1967,
+"Rectangular Holes in Twelve-Row Punched Cards"*
+.B
+CACM August, 1970
+.K
+tabulating-card, Hollerith card, keypunch, information processing
+.C
+6.35
+.N
+CA700816 JB February 10, 1978  2:48 PM
+.X
+2005	5	2005
+2005	5	2005
+2005	5	2005

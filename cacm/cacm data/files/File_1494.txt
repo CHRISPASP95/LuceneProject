@@ -1,0 +1,16 @@
+.I 1494
+.T
+Complete Elliptic Integral of the Second Kind (Algorithm 56 [S21])
+.B
+CACM January, 1966
+.A
+Larssen, G. M.
+.N
+CA660103c JB March 23, 1978  7:33 PM
+.X
+1494	4	1494
+1494	5	1494
+1494	5	1494
+1494	5	1494
+1495	5	1494
+1494	6	1494

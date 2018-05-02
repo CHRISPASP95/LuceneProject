@@ -1,0 +1,13 @@
+.I 1546
+.T
+Toward Standards for Handwritten Zero and Oh
+.B
+CACM August, 1967
+.A
+Bemer, R. W.
+.N
+CA670809 JB February 27, 1978  4:08 PM
+.X
+1546	5	1546
+1546	5	1546
+1546	5	1546

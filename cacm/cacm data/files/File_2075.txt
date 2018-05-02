@@ -1,0 +1,25 @@
+.I 2075
+.T
+Discretized Newton-Like Method for Solving a System
+of Simultaneous Nonlinear Equations (Algorithm 378 $C5))
+.B
+CACM April, 1970
+.A
+Pankiewicz, W.
+.K
+Newton's method, nonlinear equations, interpolating polynomials
+.C
+5.15 5.13
+.N
+CA700409 JB February 13, 1978  2:48 PM
+.X
+2075	4	2075
+2075	5	2075
+2075	5	2075
+2075	5	2075
+472	5	2075
+3011	5	2075
+2075	6	2075
+2302	6	2075
+2345	6	2075
+2485	6	2075

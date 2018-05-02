@@ -1,0 +1,15 @@
+.I 456
+.T
+RANDOM (Algorithm 133)
+.B
+CACM November, 1962
+.A
+Behrenz, P. G.
+.N
+CA621105 JB March 17, 1978  6:53 PM
+.X
+1190	5	456
+456	5	456
+456	5	456
+456	5	456
+456	6	456

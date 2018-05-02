@@ -1,0 +1,23 @@
+.I 2180
+.T
+A Programmer Training Project
+.W
+A project is described whose purpose is to train
+selected black residents of the Albany-Schenectady 
+area in computer programming and arrange for jobs for
+them in the computer field. Both the organization 
+and curriculum of the course are discussed.
+.B
+CACM July, 1971 
+.A
+Bernstein, A. J.
+.K
+programmer training, job opportunities, Fortran
+.C
+1.59
+.N
+CA710702 JB February 3, 1978  9:36 AM
+.X
+2180	5	2180
+2180	5	2180
+2180	5	2180

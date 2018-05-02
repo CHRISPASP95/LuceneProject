@@ -1,0 +1,13 @@
+.I 223
+.T
+Selfcipher: Programming
+.B
+CACM February, 1960
+.A
+Pelta, H. N.
+.N
+CA600209 JB March 22, 1978  2:13 PM
+.X
+223	5	223
+223	5	223
+223	5	223

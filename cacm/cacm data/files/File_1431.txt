@@ -1,0 +1,18 @@
+.I 1431
+.T
+On a Storage Mapping Function For Data Structures
+.W
+Some basic facts about certain data structures
+are reviewed and an efficient algorithm is presented 
+for constructing a storage mapping function for
+a structure from the structure's definition.
+.B
+CACM May, 1966
+.A
+Deuel, P.
+.N
+CA660506 JB March 3, 1978  9:58 AM
+.X
+1431	5	1431
+1431	5	1431
+1431	5	1431

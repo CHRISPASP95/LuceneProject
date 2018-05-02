@@ -1,0 +1,22 @@
+.I 2239
+.T
+Squank (Algorithm C379)
+.B
+CACM December, 1972
+.A
+Hallet, P.
+Mund, E.
+.K
+numerical integration, integration rule, adaptive
+integration, automatic integration, Simpson's 
+rule, numerical quadrature, quadrature rule, adaptive
+quadrature, automatic quadrature, round-off error 
+control
+.C
+5.16
+.N
+CA721216 JB January 27, 1978  9:01 AM
+.X
+2239	5	2239
+2239	5	2239
+2239	5	2239

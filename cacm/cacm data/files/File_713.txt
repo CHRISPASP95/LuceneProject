@@ -1,0 +1,13 @@
+.I 713
+.T
+Lagrangian Interpolation (Algorithm 210)
+.B
+CACM October, 1963
+.A
+Schubert, G. R.
+.N
+CA631012 JB March 13, 1978  5:52 PM
+.X
+713	5	713
+713	5	713
+713	5	713

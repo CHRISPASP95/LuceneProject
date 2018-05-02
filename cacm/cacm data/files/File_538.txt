@@ -1,0 +1,14 @@
+.I 538
+.T
+Quantum Mechanical Integrals of Slater-Type Orbitals (Algorithm 110)
+.B
+CACM July, 1962
+.A
+Kruglyak, Y. A.
+Whitman, D. R.
+.N
+CA620723 JB March 17, 1978  8:13 PM
+.X
+538	5	538
+538	5	538
+538	5	538

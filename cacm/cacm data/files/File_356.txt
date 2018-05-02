@@ -1,0 +1,13 @@
+.I 356
+.T
+INTEREST (Algorithm 45)
+.B
+CACM April, 1961
+.A
+Ingerman, P. Z.
+.N
+CA610412 JB March 17, 1978  12:00 AM
+.X
+356	5	356
+356	5	356
+356	5	356

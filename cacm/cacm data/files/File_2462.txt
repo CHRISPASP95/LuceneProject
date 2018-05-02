@@ -1,0 +1,13 @@
+.I 2462
+.T
+An Efficient Prime Number Generator (Algorithm R357)
+.B
+CACM August, 1973
+.A
+DeMorgan, R. M.
+.N
+CA730812 JB January 23, 1978  10:31 AM
+.X
+2462	5	2462
+2462	5	2462
+2462	5	2462

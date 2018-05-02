@@ -1,0 +1,13 @@
+.I 1437
+.T
+The Mutual Primal-Dual Method (Algorithm 285 [H])
+.B
+CACM May, 1966
+.A
+Aird, T. J.
+.N
+CA660501b JB March 23, 1978  7:12 PM
+.X
+1437	5	1437
+1437	5	1437
+1437	5	1437

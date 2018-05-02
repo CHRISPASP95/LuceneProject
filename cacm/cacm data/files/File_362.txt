@@ -1,0 +1,16 @@
+.I 362
+.T
+Table Look-At Techniques
+.B
+CACM April, 1961
+.A
+Sherman, P. M.
+.N
+CA610406 JB March 17, 1978  12:08 AM
+.X
+362	4	362
+2952	4	362
+142	5	362
+362	5	362
+362	5	362
+362	5	362

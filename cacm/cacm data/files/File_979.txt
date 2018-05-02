@@ -1,0 +1,13 @@
+.I 979
+.T
+Logarithm of a Complex Number (Algorithm 243 [B3])
+.B
+CACM November, 1964
+.A
+Collens, D. S.
+.N
+CA641104 JB March 9, 1978  4:10 PM
+.X
+979	5	979
+979	5	979
+979	5	979

@@ -1,0 +1,13 @@
+.I 2854
+.T
+Multiprocessing Compactifying Garbage Collection (Corrigendum)
+.B
+CACM June, 1976
+.A
+Steele, G. L. Jr.
+.N
+CA760608 JB January 4, 1978  1:36 PM
+.X
+2854	5	2854
+2854	5	2854
+2854	5	2854

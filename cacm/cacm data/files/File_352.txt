@@ -1,0 +1,13 @@
+.I 352
+.T
+Spherical Neumant Function (Algorithm 49)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610416 JB March 16, 1978  11:51 PM
+.X
+352	5	352
+352	5	352
+352	5	352

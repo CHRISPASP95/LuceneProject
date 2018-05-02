@@ -1,0 +1,20 @@
+.I 1775
+.T
+Adjustment of the Inverse of a Symmetric Matrix
+when Two Symmetric Elements are Changed (Algorithm 
+325 [F1])
+.B
+CACM February, 1968
+.A
+Zielke, G.
+.K
+symmetric matrix, matrix inverse, matrix
+perturbation, matrix modification
+.C
+5.14
+.N
+CA680207 JB February 23, 1978  12:01 PM
+.X
+1775	5	1775
+1775	5	1775
+1775	5	1775

@@ -1,0 +1,21 @@
+.I 2334
+.T
+General Random Number Generator (Algorithm R370)
+.B
+CACM June, 1972
+.A
+Proll, L. G.
+.K
+random number generator, probability density function,
+transformation, cumulative distribution 
+function
+.C
+5.13 5.5
+.N
+CA720611 JB January 30, 1978  4:09 PM
+.X
+2334	4	2334
+1580	5	2334
+2334	5	2334
+2334	5	2334
+2334	5	2334

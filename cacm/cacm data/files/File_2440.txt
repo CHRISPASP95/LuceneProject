@@ -1,0 +1,14 @@
+.I 2440
+.T
+Localization of the Roots of a Polynomial (Algorithm R429)
+.B
+CACM September, 1973
+.A
+Driessen, H. B.
+Hunt, E. W. LeM.
+.N
+CA730915 JB January 23, 1978  8:34 AM
+.X
+2440	5	2440
+2440	5	2440
+2440	5	2440

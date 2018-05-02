@@ -1,0 +1,13 @@
+.I 765
+.T
+Orthogonal Polynomial Least Squares Surface Fit (Algorithm 164)
+.B
+CACM August, 1963
+.A
+Bitterli, C. V.
+.N
+CA630833 JB March 13, 1978  8:10 PM
+.X
+765	5	765
+765	5	765
+765	5	765

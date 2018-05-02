@@ -1,0 +1,14 @@
+.I 1582
+.T
+GAUSS (Algorithm 209 [S15])
+.B
+CACM June, 1967
+.A
+Hill, I. D.
+Joyce, S. A.
+.N
+CA670607j JB March 23, 1978  3:38 PM
+.X
+1582	5	1582
+1582	5	1582
+1582	5	1582

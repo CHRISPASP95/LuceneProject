@@ -1,0 +1,15 @@
+.I 754
+.T
+Ye Indiscreet Monitor
+.B
+CACM September, 1963
+.A
+Blatt, J. M.
+.N
+CA630904 JB March 13, 1978  7:41 PM
+.X
+754	4	754
+153	5	754
+754	5	754
+754	5	754
+754	5	754

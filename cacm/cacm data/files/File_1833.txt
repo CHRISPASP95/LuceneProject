@@ -1,0 +1,20 @@
+.I 1833
+.T
+An Ambiguity in the Description of ALGOL 60
+.B
+CACM October, 1969
+.A
+Herriot, J. G.
+.K
+Ising problem, zero-one sequences
+.C
+5.39
+.N
+CA691013 JB February 15, 1978  1:40 PM
+.X
+1833	5	1833
+1833	5	1833
+1833	5	1833
+2066	5	1833
+1833	6	1833
+1842	6	1833

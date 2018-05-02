@@ -1,0 +1,13 @@
+.I 8
+.T
+On The Equivalence and Transformation of Program Schemes
+.B
+CACM October, 1958
+.A
+Friedman, M. D.
+.N
+CA581002 JB March 22, 1978  8:36 PM
+.X
+8	5	8
+8	5	8
+8	5	8

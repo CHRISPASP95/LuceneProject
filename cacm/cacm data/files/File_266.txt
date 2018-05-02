@@ -1,0 +1,13 @@
+.I 266
+.T
+Fitting Spheres by the Method of Least Squares
+.B
+CACM November, 1961
+.A
+Robinson, S. M.
+.N
+CA611102 JB March 15, 1978  11:00 PM
+.X
+266	5	266
+266	5	266
+266	5	266

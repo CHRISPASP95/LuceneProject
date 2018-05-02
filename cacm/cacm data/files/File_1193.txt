@@ -1,0 +1,13 @@
+.I 1193
+.T
+Gomory 1 (Algorithm 263 [H])
+.B
+CACM October, 1965
+.A
+Langmaack, H.
+.N
+CA651002 JB March 6, 1978  6:54 PM
+.X
+1193	5	1193
+1193	5	1193
+1193	5	1193

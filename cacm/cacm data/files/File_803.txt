@@ -1,0 +1,13 @@
+.I 803
+.T
+Syminv2 (Algorithm 150)
+.B
+CACM July, 1963
+.A
+Evans Jr., A.
+.N
+CA630721 JB March 14, 1978  8:16 AM
+.X
+803	5	803
+803	5	803
+803	5	803

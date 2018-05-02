@@ -1,0 +1,13 @@
+.I 957
+.T
+Method for Partial Rewriting of Magnetic Tape
+.B
+CACM December, 1964
+.A
+Miller, J. A.
+.N
+CA641214 JB March 9, 1978  3:18 PM
+.X
+957	5	957
+957	5	957
+957	5	957

@@ -1,0 +1,17 @@
+.I 828
+.T
+Incompressible flow Network Calculations
+.W
+A general method for the calculation of flows
+and pressures in fluid flow networks is presented. 
+ The method is applicable to computer use.
+.B
+CACM June, 1963
+.A
+Cantrell, H. N.
+.N
+CA630621 JB March 14, 1978  10:03 AM
+.X
+828	5	828
+828	5	828
+828	5	828

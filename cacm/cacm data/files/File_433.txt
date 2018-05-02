@@ -1,0 +1,13 @@
+.I 433
+.T
+Fixed-World-Length Arrays in Variable-Word-Length Computers
+.B
+CACM December, 1962
+.A
+Sonquist, J. A.
+.N
+CA621206 JB March 17, 1978  5:10 PM
+.X
+433	5	433
+433	5	433
+433	5	433

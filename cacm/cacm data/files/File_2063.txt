@@ -1,0 +1,13 @@
+.I 2063
+.T
+Translation Equations (Errata)
+.B
+CACM May, 1970
+.A
+Vere, S.
+.N
+CA700503 JB February 13, 1978  2:12 PM
+.X
+2063	5	2063
+2063	5	2063
+2063	5	2063

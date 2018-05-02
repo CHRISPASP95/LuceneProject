@@ -1,0 +1,13 @@
+.I 384
+.T
+Gamma Function (Algorithm 34)
+.B
+CACM February, 1961
+.A
+Lipp, M. F.
+.N
+CA610214 JB March 17, 1978  12:49 AM
+.X
+384	5	384
+384	5	384
+384	5	384

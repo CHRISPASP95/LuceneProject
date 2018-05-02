@@ -1,0 +1,13 @@
+.I 260
+.T
+Interpolation By Aitken (Algorithm 70)
+.B
+CACM November, 1961
+.A
+Mifsud, C. J.
+.N
+CA611108 JB March 15, 1978  10:53 PM
+.X
+260	5	260
+260	5	260
+260	5	260

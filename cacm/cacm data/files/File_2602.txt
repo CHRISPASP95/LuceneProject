@@ -1,0 +1,18 @@
+.I 2602
+.T
+Masked Three-Dimensional Plot Program
+with Rotations [J6] (Algorithm A483)
+.B
+CACM September, 1974
+.A
+Watkins, S. L.
+.K
+plotting, three-dimensional plotting
+.C
+4.41
+.N
+CA740906 JB January 17, 1978  8:49 AM
+.X
+2602	5	2602
+2602	5	2602
+2602	5	2602

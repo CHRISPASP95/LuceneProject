@@ -1,0 +1,15 @@
+.I 85
+.T
+Error Analysis in Floating Point Arithmetic
+.B
+CACM May, 1959
+.A
+Carr III, J. W.
+.N
+CA590501 JB March 22, 1978  6:43 PM
+.X
+1148	5	85
+85	5	85
+85	5	85
+85	5	85
+85	6	85

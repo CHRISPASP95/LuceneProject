@@ -1,0 +1,18 @@
+.I 2225
+.T
+Circular Integer Partitioning [A1] (Algorithm 403)
+.B
+CACM January, 1971
+.A
+Coleman, M. W.
+Taylor, M. S.
+.K
+partitions, combinatorics, statistical design of experiments
+.C
+5.39 5.5
+.N
+CA710109 JB February 8, 1978  10:27 AM
+.X
+2225	5	2225
+2225	5	2225
+2225	5	2225

@@ -1,0 +1,14 @@
+.I 47
+.T
+Russian Visit to U.S. Computers
+.B
+CACM November, 1959
+.A
+Zaitzeff, E. M.
+Astrahan, M. M.
+.N
+CA591101 JB March 22, 1978  3:59 PM
+.X
+47	5	47
+47	5	47
+47	5	47

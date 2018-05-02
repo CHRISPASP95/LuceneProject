@@ -1,0 +1,14 @@
+.I 1596
+.T
+Airy Function (Algorithm 301 [S20])
+.B
+CACM May, 1967
+.A
+Bond, G.
+Pitteway, M. L. V.
+.N
+CA670506a JB February 28, 1978  10:38 AM
+.X
+1596	5	1596
+1596	5	1596
+1596	5	1596

@@ -1,0 +1,15 @@
+.I 336
+.T
+A Practical Technique for the Determination of
+the Optimum Relaxation Factor of the Successive 
+Over-Relaxation Method
+.B
+CACM April, 1961
+.A
+Kulsrud, H. E.
+.N
+CA610432 JB March 16, 1978  11:27 PM
+.X
+336	5	336
+336	5	336
+336	5	336

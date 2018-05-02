@@ -1,0 +1,24 @@
+.I 2306
+.T
+Ancient Babylonian Algorithms
+.W
+The early origins of mathematics are discussed,
+emphasizing those aspects which seem to be 
+of greatest interest from the standpoint of computer
+science.  A number of old Babylonian tablets, many 
+of which have never before been translated into English, are quoted.
+.B
+CACM July, 1972
+.A
+Knuth, D. E.
+.K
+history of computation, Babylonian tablets,
+sexagesimal number system, sorting 
+.C
+1.2
+.N
+CA720722 JB January 30, 1978  10:50 AM
+.X
+2306	5	2306
+2306	5	2306
+2306	5	2306

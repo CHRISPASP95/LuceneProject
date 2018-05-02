@@ -1,0 +1,11 @@
+.I 1660
+.T
+Index By Subject To algorithms, 1960-1968
+.B
+CACM December, 1968
+.N
+CA681206 JB February 21, 1978  1:39 PM
+.X
+1660	5	1660
+1660	5	1660
+1660	5	1660

@@ -1,0 +1,13 @@
+.I 928
+.T
+Character Manipulation in FORTRAN
+.B
+CACM February, 1963
+.A
+Lewis, T. S.
+.N
+CA630205 JB March 14, 1978  2:20 PM
+.X
+928	5	928
+928	5	928
+928	5	928

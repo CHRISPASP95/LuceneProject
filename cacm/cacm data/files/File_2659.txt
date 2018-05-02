@@ -1,0 +1,20 @@
+.I 2659
+.T
+Some Remarks on Lookup of Structured Variables
+.B
+CACM April, 1974
+.A
+Abrahams, P. W.
+.K
+PL/1, symbol table, structured variables,
+qualified references, compilers 
+.C
+4.12 4.22
+.N
+CA740411 JB February 1, 1978  10:34 AM
+.X
+2659	4	2659
+2449	5	2659
+2659	5	2659
+2659	5	2659
+2659	5	2659

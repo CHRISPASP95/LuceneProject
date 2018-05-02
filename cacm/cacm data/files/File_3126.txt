@@ -1,0 +1,24 @@
+.I 3126
+.T
+Comments on Perfect Hashing Functions: A Single
+Probe Retrieving  Method for Static Sets
+.B
+ CACM February, 1979
+.A
+Anderson, M.G.
+.K
+Hashing, hashing methods, hash coding, direct addressing, identifier-
+to-address transformations, perfect hashing functions, perfect
+hash coding, reduction, retrieving, scatter storage, searching
+.C
+3.7 3.74 4.34
+.N
+CA790205 DH April 10, 1979  4:25 PM
+.X
+3041	4	3126
+3126	4	3126
+3176	4	3126
+2905	5	3126
+3126	5	3126
+3126	5	3126
+3126	5	3126

@@ -1,0 +1,13 @@
+.I 1545
+.T
+Legal Safeguards to Insure Privacy in a Computer Society
+.B
+CACM September,1967
+.A
+Westin, A. F.
+.N
+CA670901 JB February 27, 1978  4:06 PM
+.X
+1545	5	1545
+1545	5	1545
+1545	5	1545

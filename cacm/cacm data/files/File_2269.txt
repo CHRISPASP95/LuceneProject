@@ -1,0 +1,20 @@
+.I 2269
+.T
+Tableless Date Conversion (Algorithm R398)
+.B
+CACM October, 1972
+.A
+Robertson, J. D.
+.K
+date, calendar, Fortran statement function, arithmetic statement function
+.C
+3.15 4.9 5.9
+.N
+CA721009 JB January 27, 1978  2:47 PM
+.X
+2269	4	2269
+3115	4	2269
+2269	5	2269
+2269	5	2269
+2269	5	2269
+785	5	2269

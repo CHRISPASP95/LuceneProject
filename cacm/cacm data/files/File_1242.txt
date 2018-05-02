@@ -1,0 +1,17 @@
+.I 1242
+.T
+Modified Graeffe Method (Algorithm 256 [C2])
+.B
+CACM June, 1965
+.A
+Grau, A. A.
+.N
+CA650613 JB March 6, 1978  10:10 PM
+.X
+1242	5	1242
+1242	5	1242
+1242	5	1242
+1667	5	1242
+178	6	1242
+1242	6	1242
+327	6	1242

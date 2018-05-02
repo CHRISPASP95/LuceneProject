@@ -1,0 +1,21 @@
+.I 1803
+.T
+Complex Root Finding (Algorithm 365 [C5])
+.B
+CACM December, 1969
+.A
+Bach, H.
+.K
+downhill method, complex relaxation method, complex
+iteration, complex equation, transcendental 
+complex equation, algebraic complex equation
+.C
+5.15
+.N
+CA691209 JB February 15, 1978  2:25 PM
+.X
+1803	4	1803
+1806	5	1803
+1803	5	1803
+1803	5	1803
+1803	5	1803

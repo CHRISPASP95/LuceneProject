@@ -1,0 +1,22 @@
+.I 1111
+.T
+A Class of Iterative Techniques For the Factorization of Polynomials*
+.W
+A method of iteration is developed in terms
+of a function of somewhat arbitrary character. 
+ Sufficient conditions are given for convergence of
+the process, yielding factors of arbitrary degree 
+for polynomials in one variable.  Both Lin's method
+and Newton's method occur as special cases.
+.B
+CACM March, 1964
+.A
+Luther, H. A.
+.N
+CA640321 JB March 10, 1978  2:10 AM
+.X
+1111	4	1111
+1111	5	1111
+1111	5	1111
+1111	5	1111
+894	5	1111

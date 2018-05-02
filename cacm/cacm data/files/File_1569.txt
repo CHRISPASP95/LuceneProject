@@ -1,0 +1,18 @@
+.I 1569
+.T
+Implementing Phrase-Structure Productions in PL/I
+.W
+A method is described for implementing the productions
+of a context-free phrase structure grammar 
+in a PL/I procedure whose structure and statements parallel
+the structure and notation of the grammar.
+.B
+CACM July, 1967
+.A
+Irwin, L.
+.N
+CA670704 JB February 28, 1978  9:01 AM
+.X
+1569	5	1569
+1569	5	1569
+1569	5	1569

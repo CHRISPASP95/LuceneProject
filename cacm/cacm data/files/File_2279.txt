@@ -1,0 +1,23 @@
+.I 2279
+.T
+A Controller for a Braille Terminal
+.B
+CACM September, 1972
+.A
+Rubinstein, R.
+Feldman, J.
+.K
+blind programming aid, braille, braille character
+set, braille character translation, braille computer 
+communication, braille computer terminal, braille terminal,
+tactile computer communication, tactile terminal
+.C
+1.59 4.41 6.35
+.N
+CA720911 JB January 27, 1978  4:14 PM
+.X
+2279	4	2279
+1740	5	2279
+2279	5	2279
+2279	5	2279
+2279	5	2279

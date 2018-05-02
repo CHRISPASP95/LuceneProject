@@ -1,0 +1,20 @@
+.I 1780
+.T
+Harmonic Analysis for Symmetrically
+Distributed Data (Algorithm 320 [C6])
+.B
+CACM February, 1968
+.A
+Hunter, D. B.
+.K
+harmonic analysis, cosine series, sine series, function
+approximation, curve fitting, trigonometric 
+series
+.C
+5.13
+.N
+CA680202 JB February 23, 1978  1:34 PM
+.X
+1780	5	1780
+1780	5	1780
+1780	5	1780

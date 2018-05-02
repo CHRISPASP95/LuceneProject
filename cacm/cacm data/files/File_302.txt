@@ -1,0 +1,13 @@
+.I 302
+.T
+Augmentation (Algorithm 68)
+.B
+CACM August, 1961
+.A
+Rice, H. G.
+.N
+CA610802 JB March 16, 1978  10:14 PM
+.X
+302	5	302
+302	5	302
+302	5	302

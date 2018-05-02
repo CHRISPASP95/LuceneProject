@@ -1,0 +1,13 @@
+.I 459
+.T
+PERMUTE (Algorithm 130)
+.B
+CACM November, 1962
+.A
+Eaves, Lt. B. C.
+.N
+CA621102 JB March 17, 1978  6:57 PM
+.X
+459	5	459
+459	5	459
+459	5	459

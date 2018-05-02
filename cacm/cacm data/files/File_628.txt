@@ -1,0 +1,14 @@
+.I 628
+.T
+On a Floating-Point Number Representation
+For Use with Algorithmic Languages
+.B
+CACM March, 1962
+.A
+Grau, A. A.
+.N
+CA620304 JB March 20, 1978  3:09 PM
+.X
+628	5	628
+628	5	628
+628	5	628

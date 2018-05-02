@@ -1,0 +1,16 @@
+.I 912
+.T
+Addressing an Array Yi in k-Dimensions
+by Fortran for Analysis of Variance
+.B
+CACM March, 1963
+.A
+Garber, M. J.
+.N
+CA630309 JB March 14, 1978  1:44 PM
+.X
+912	5	912
+912	5	912
+912	5	912
+1014	5	912
+912	6	912

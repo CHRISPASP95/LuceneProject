@@ -1,0 +1,17 @@
+.I 2212
+.T
+F-DISTRIBUTION
+.B
+CACM February, 1971
+.A
+Tolman, H.
+.K
+Fisher's F-distribution, Student's t-distribution
+.C
+5.5
+.N
+CA710209 JB February 8, 1978  8:35 AM
+.X
+2212	5	2212
+2212	5	2212
+2212	5	2212

@@ -1,0 +1,16 @@
+.I 1355
+.T
+Regular Coulomb Wave Functions (Algorithm 292 )
+.B
+CACM November, 1966
+.A
+Gautschi, W.
+.N
+CA661103a JB March 2, 1978  3:43 PM
+.X
+1355	4	1355
+2619	4	1355
+1355	5	1355
+1355	5	1355
+1355	5	1355
+1419	5	1355

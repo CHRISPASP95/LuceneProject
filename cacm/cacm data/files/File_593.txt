@@ -1,0 +1,13 @@
+.I 593
+.T
+An Introduction to a Machine-Independent Data Division
+.B
+CACM May, 1962
+.A
+Mullin, J. P.
+.N
+CA620512 JB March 20, 1978  1:39 PM
+.X
+593	5	593
+593	5	593
+593	5	593

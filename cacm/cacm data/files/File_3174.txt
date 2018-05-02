@@ -1,0 +1,32 @@
+.I 3174
+.T
+Password Security: A Case History
+.W
+This paper describes the history of the design of the password
+security scheme on a remotely accessed time-sharing system.
+The present design was the result of countering observed attempts
+to penetrate the system.  The result is a compromise between
+extreme security and ease of use.
+.B
+CACM November, 1979
+.A
+Morris, R.
+Thompson, K.
+.K
+Operating systems, passwords, computer security
+.C
+2.41 4.35
+.N
+CA791102 DB January 18, 1980  10:03 AM
+.X
+2626	4	3174
+2786	4	3174
+2840	4	3174
+2919	4	3174
+3017	4	3174
+3110	4	3174
+3174	4	3174
+2629	5	3174
+3174	5	3174
+3174	5	3174
+3174	5	3174

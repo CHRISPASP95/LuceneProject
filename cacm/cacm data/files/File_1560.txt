@@ -1,0 +1,13 @@
+.I 1560
+.T
+Transport; Transportation Problem (Algorithm 258[H]; Algorithm 293[H])
+.B
+CACM July, 1967
+.A
+Sims, L. S.
+.N
+CA670711f JB March 23, 1978  3:20 PM
+.X
+1560	5	1560
+1560	5	1560
+1560	5	1560

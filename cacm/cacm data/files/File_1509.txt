@@ -1,0 +1,12 @@
+.I 1509
+.T
+Recorded Magnetic Tape for Information Interchange
+(200 CPI, NRZI) (Proposed USA Standard)
+.B
+CACM November, 1967
+.N
+CA671108 JB February 26, 1978  2:52 PM
+.X
+1509	5	1509
+1509	5	1509
+1509	5	1509

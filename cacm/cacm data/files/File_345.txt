@@ -1,0 +1,13 @@
+.I 345
+.T
+Complete Elliptic Integral of the Second Kind (Algorithm 56)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610423 JB March 16, 197811:43 PM
+.X
+345	5	345
+345	5	345
+345	5	345

@@ -1,0 +1,19 @@
+.I 1821
+.T
+Permanent Function of a Square Matrix I and II (Algorithm 361 [G6])
+.B
+CACM November, 1969
+.A
+Shriver, B.
+Eberlein, P. J.
+Dixon, R. D.
+.K
+matrix, permanent, determinant
+.C
+5.30
+.N
+CA691109 JB February 15, 197812:18 PM
+.X
+1821	5	1821
+1821	5	1821
+1821	5	1821

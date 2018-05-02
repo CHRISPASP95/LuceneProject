@@ -1,0 +1,18 @@
+.I 656
+.T
+An Information System With The Ability To Extract Intelligence From Data
+.B
+CACM January, 1962
+.A
+Wang, T. L.
+.N
+CA620103 JB March 20, 1978  4:47 PM
+.X
+1309	5	656
+656	5	656
+656	5	656
+656	5	656
+892	5	656
+653	6	656
+656	6	656
+656	6	656

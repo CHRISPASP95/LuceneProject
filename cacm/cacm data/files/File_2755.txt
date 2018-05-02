@@ -1,0 +1,13 @@
+.I 2755
+.T
+The New Math of Computer Programming (Corrigendum)
+.B
+CACM May, 1975
+.A
+Mills, H. D.
+.N
+CA750512 JB January 9, 1978  2:20 PM
+.X
+2755	5	2755
+2755	5	2755
+2755	5	2755

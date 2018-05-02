@@ -1,0 +1,17 @@
+.I 1990
+.T
+Numerical Constants (Algorithm)
+.B
+CACM September, 1970
+.A
+Dunham, C. B.
+.K
+numerical algorithm, numerical constants
+.C
+5.10
+.N
+CA700915 JB February 10, 1978  9:48 AM
+.X
+1990	5	1990
+1990	5	1990
+1990	5	1990

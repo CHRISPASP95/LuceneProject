@@ -1,0 +1,13 @@
+.I 328
+.T
+Matrix Inversion (ALgorithm 58)
+.B
+CACM May, 1961
+.A
+Cohen, D.
+.N
+CA610506 JB March 16, 1978  11:03 PM
+.X
+328	5	328
+328	5	328
+328	5	328

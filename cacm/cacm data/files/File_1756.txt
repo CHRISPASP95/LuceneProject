@@ -1,0 +1,17 @@
+.I 1756
+.T
+Hollerith Punched Card Code* (Proposed USA Standard)
+.B
+CACM April, 1968
+.K
+USA Standard, card code, punched card, punched card
+code, hole-patterns, hole-patterns assignment, 
+punched card systems
+.C
+1.4 2.0 2.2 2.43 2.9 3.15 3.24 3.50 3.57 3.7 3.80 3.81 3.82 4.11 4.12
+.N
+CA680414 JB February 23, 1978  10:14 AM
+.X
+1756	5	1756
+1756	5	1756
+1756	5	1756

@@ -1,0 +1,24 @@
+.I 274
+.T
+Dynamic Storage Allocation in the Atlas Computer,
+Including an Automatic Use of a Backing Store
+.B
+CACM October, 1961
+.A
+Fotheringham, J.
+.N
+CA611007 JB March 16, 1978  12:57 PM
+.X
+274	5	274
+274	5	274
+274	5	274
+1754	5	274
+2358	5	274
+488	5	274
+1746	6	274
+1751	6	274
+1753	6	274
+274	6	274
+274	6	274
+274	6	274
+376	6	274

@@ -1,0 +1,13 @@
+.I 597
+.T
+Modular Data Processing Systems Written in COBOL
+.B
+CACM May, 1962
+.A
+Emery, J. C.
+.N
+CA620508 JB March 20, 1978  1:47 PM
+.X
+597	5	597
+597	5	597
+597	5	597

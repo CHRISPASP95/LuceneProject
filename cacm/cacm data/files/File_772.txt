@@ -1,0 +1,14 @@
+.I 772
+.T
+GOMORY (Algorithm 153)
+.B
+CACM August, 1963
+.A
+Lefkowitz, B.
+D'Esopo, D. A.
+.N
+CA630826 JB March 13, 1978  8:19 PM
+.X
+772	5	772
+772	5	772
+772	5	772

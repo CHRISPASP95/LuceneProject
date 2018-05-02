@@ -1,0 +1,13 @@
+.I 1556
+.T
+Permutations with Repetitions (Algorithm 306 [G6])
+.B
+CACM July, 1967
+.A
+Bratley, P.
+.N
+CA670711b JB March 23, 1978  3:14 PM
+.X
+1556	5	1556
+1556	5	1556
+1556	5	1556

@@ -1,0 +1,13 @@
+.I 813
+.T
+Differences and Derivatives (Algorithm 187)
+.B
+CACM July, 1963
+.A
+Vande Riet, R. P.
+.N
+CA630711 JB March 14, 1978  8:35 AM
+.X
+813	5	813
+813	5	813
+813	5	813

@@ -1,0 +1,13 @@
+.I 172
+.T
+Complex Exponential Integral (Algorithm 13)
+.B
+CACM July, 1960
+.A
+Beam, A.
+.N
+CA600701 JB March 20, 1978  9:21 PM
+.X
+172	5	172
+172	5	172
+172	5	172

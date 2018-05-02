@@ -1,0 +1,20 @@
+.I 1842
+.T
+An Algorithm for Generating Ising Configurations (Algorithm 355 [Z])
+.B
+CACM October, 1969
+.A
+Simoes, J. M. S.
+.K
+Ising problem, zero-one sequences
+.C
+5.39
+.N
+CA691004 JB February 15, 1978  3:27 PM
+.X
+1842	5	1842
+1842	5	1842
+1842	5	1842
+2066	5	1842
+1833	6	1842
+1842	6	1842

@@ -1,0 +1,14 @@
+.I 2995
+.T
+Decomposability, Instabilities, and Saturation
+in Multiprogramming Systems (Corrigendum)
+.B
+CACM February, 1977
+.A
+Courtois, P. J.
+.N
+CA770205 JB December 30, 1977  2:20 AM
+.X
+2995	5	2995
+2995	5	2995
+2995	5	2995

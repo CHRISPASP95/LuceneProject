@@ -1,0 +1,15 @@
+.I 361
+.T
+Programmed Error Correction on a Decimal Computer
+.B
+CACM April, 1961
+.A
+Weinberg, G. M.
+.N
+CA610407 JB March 17, 1978  12:05 AM
+.X
+361	4	361
+108	5	361
+361	5	361
+361	5	361
+361	5	361

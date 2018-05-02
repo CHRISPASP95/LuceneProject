@@ -1,0 +1,13 @@
+.I 739
+.T
+MINIFUN (Algorithm 129)
+.B
+CACM September, 1963
+.A
+Wasscher, E. J.
+.N
+CA630919 JB March 13, 1978  7:22 PM
+.X
+739	5	739
+739	5	739
+739	5	739

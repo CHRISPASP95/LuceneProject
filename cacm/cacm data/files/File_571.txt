@@ -1,0 +1,14 @@
+.I 571
+.T
+Permutation in Lexicographical Order (Algorithm 102)
+.B
+CACM June, 1962
+.A
+Schrack, G. F.
+Shimrat, M.
+.N
+CA620614 JB March 17, 1978  9:25 PM
+.X
+571	5	571
+571	5	571
+571	5	571

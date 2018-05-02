@@ -1,0 +1,12 @@
+.I 1414
+.T
+Twelve-Row Punched-Card Code for Information
+Interchange* (Proposed American Standard)
+.B
+CACM June, 1966
+.N
+CA660607 JB March 3, 1978  8:39 AM
+.X
+1414	5	1414
+1414	5	1414
+1414	5	1414

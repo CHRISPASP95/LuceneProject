@@ -1,0 +1,13 @@
+.I 500
+.T
+PERMUTE (Algorithm 86)
+.B
+CACM August, 1962
+.A
+Collison, D. M.
+.N
+CA620828 JB March 17, 1978  9:23 PM
+.X
+500	5	500
+500	5	500
+500	5	500

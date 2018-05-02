@@ -1,0 +1,14 @@
+.I 80
+.T
+A Technique for Computing Critical Rotational
+Speeds of Flexible Shafts on an Automatic Computer
+.B
+CACM June, 1959
+.A
+Schwartz, B. L.
+.N
+CA590604 JB March 22, 1978  6:35 PM
+.X
+80	5	80
+80	5	80
+80	5	80

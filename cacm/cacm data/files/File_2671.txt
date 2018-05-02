@@ -1,0 +1,17 @@
+.I 2671
+.T
+A Note on a Combinatorial Problem of Burnett and Coffman
+.B
+CACM March, 1974
+.A
+Stone, H. S.
+.K
+memories, interleaving, derangements, rencontres, combinatorial analysis
+.C
+5.39 6.34
+.N
+CA740312 JB January 18, 1978  10:54 AM
+.X
+2671	5	2671
+2671	5	2671
+2671	5	2671

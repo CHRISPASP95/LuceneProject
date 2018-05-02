@@ -1,0 +1,15 @@
+.I 153
+.T
+Comments from a FORTRAN User
+.B
+CACM September, 1960
+.A
+Blatt, J. M.
+.N
+CA600904 JB March 20, 1978  8:48 PM
+.X
+153	5	153
+153	5	153
+153	5	153
+754	5	153
+153	6	153

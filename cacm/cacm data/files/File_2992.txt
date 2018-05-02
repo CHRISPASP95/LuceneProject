@@ -1,0 +1,17 @@
+.I 2992
+.T
+A Numbering System for Binary Trees
+.B
+CACM February, 1977
+.A
+Knott, G. D.
+.K
+binary trees, permutations, binary search trees, ranking function
+.C
+3.79 5.39
+.N
+CA770209 JB December 30, 1977 2:04 AM
+.X
+2992	5	2992
+2992	5	2992
+2992	5	2992

@@ -1,0 +1,26 @@
+.I 1831
+.T
+A Comment on Optimal Tree Structures
+.B
+CACM October, 1969
+.A
+Stanfel, L. E.
+.K
+information retrieval, file searching, tree structures, double chaining
+.C
+3.70 3.73 3.74
+.N
+CA691015 JB February 15, 1978  1:31 PM
+.X
+1831	5	1831
+1831	5	1831
+1831	5	1831
+2257	5	1831
+2360	5	1831
+849	6	1831
+849	6	1831
+1831	6	1831
+1831	6	1831
+1936	6	1831
+1936	6	1831
+2360	6	1831

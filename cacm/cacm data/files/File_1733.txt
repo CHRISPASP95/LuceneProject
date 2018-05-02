@@ -1,0 +1,18 @@
+.I 1733
+.T
+Distribution of Indistinguishable Objects
+into Distinguishable slots (Algorithm [G6])
+.B
+CACM June, 1968
+.A
+Fenichel, R. R.
+.K
+object distributions, combinations, distribution numbers
+.C
+5.39
+.N
+CA680612 JB February 22, 1978  3:58 PM
+.X
+1733	5	1733
+1733	5	1733
+1733	5	1733

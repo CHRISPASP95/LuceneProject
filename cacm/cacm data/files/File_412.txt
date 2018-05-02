@@ -1,0 +1,19 @@
+.I 412
+.T
+Recursive Processes and ALGOL Translation
+.B
+CACM January, 1961
+.A
+Gray, A. A.
+.N
+CA610102 JB March 17, 1978  1:29 AM
+.X
+412	5	412
+412	5	412
+412	5	412
+763	5	412
+196	6	412
+224	6	412
+404	6	412
+412	6	412
+631	6	412

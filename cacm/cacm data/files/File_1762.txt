@@ -1,0 +1,17 @@
+.I 1762
+.T
+Dilogarithm (Algorithm 327 [S22])
+.B
+CACM April, 1968
+.A
+Kolbig, K. S.
+.K
+dilogarithm function, special functions
+.C
+5.12
+.N
+CA680408 JB February 23, 1978  10:25 AM
+.X
+1762	5	1762
+1762	5	1762
+1762	5	1762

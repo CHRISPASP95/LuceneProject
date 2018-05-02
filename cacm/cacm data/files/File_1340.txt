@@ -1,0 +1,18 @@
+.I 1340
+.T
+Multiplexing of Slow Peripherals
+.W
+The philosophy of a monitor which allows slow
+output devices to be multiplexed is presented.
+.B
+CACM December, 1966
+.A
+Abraham, C.
+Lance, G. N.
+Pearcey, T.
+.N
+CA661209 JB March 2, 1978  2:25 PM
+.X
+1340	5	1340
+1340	5	1340
+1340	5	1340

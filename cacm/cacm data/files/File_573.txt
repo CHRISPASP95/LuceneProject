@@ -1,0 +1,13 @@
+.I 573
+.T
+Remove Item From Chain-Linked List (Algorithm 101)
+.B
+CACM June, 1962
+.A
+Kiviat, P. J.
+.N
+CA620613 JB March 17, 1978  9:27 PM
+.X
+573	5	573
+573	5	573
+573	5	573

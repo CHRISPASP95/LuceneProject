@@ -1,0 +1,13 @@
+.I 368
+.T
+Real Zeros of an Arbitrary Function (Algorithm 25)
+.B
+CACM March, 1961
+.A
+Collinge, R. M.
+.N
+CA610314 JB March 17, 1978  12:31 AM
+.X
+368	5	368
+368	5	368
+368	5	368

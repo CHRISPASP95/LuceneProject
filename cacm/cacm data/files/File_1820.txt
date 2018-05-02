@@ -1,0 +1,19 @@
+.I 1820
+.T
+Generation of Random Permutations (Algorithm 362 [G6])
+.B
+CACM November, 1969
+.A
+Robson, J. M.
+.K
+permutation, random permutation, transposition
+.C
+5.5
+.N
+CA691110 JB February 15, 1978  12:15 PM
+.X
+1820	4	1820
+1511	5	1820
+1820	5	1820
+1820	5	1820
+1820	5	1820

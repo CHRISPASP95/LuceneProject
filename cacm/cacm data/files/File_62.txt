@@ -1,0 +1,13 @@
+.I 62
+.T
+Multi-Dimensional Least-Squares Polynomial Curve Fitting
+.B
+CACM September, 1959
+.A
+Lesh, F. H.
+.N
+CA590907 JB March 22, 1978  4:44 PM
+.X
+62	5	62
+62	5	62
+62	5	62

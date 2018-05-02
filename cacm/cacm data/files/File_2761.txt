@@ -1,0 +1,13 @@
+.I 2761
+.T
+Visible Surface Plotting Program (Algorithm R475)
+.B
+CACM May, 1975
+.A
+Mashburn, R. G.
+.N
+CA750506 JB January 9, 1978  2:35 PM
+.X
+2761	5	2761
+2761	5	2761
+2761	5	2761

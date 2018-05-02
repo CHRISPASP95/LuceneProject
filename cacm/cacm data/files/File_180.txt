@@ -1,0 +1,13 @@
+.I 180
+.T
+Evaluation of the Laguerre Polynomial Ln(X) by Recursion (Algorithm)
+.B
+CACM June, 1960
+.A
+Galler, G. M.
+.N
+CA600610 JB March 20, 1978  9:36 PM
+.X
+180	5	180
+180	5	180
+180	5	180

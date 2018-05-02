@@ -1,0 +1,15 @@
+.I 871
+.T
+PSIF (Algorithm 147)
+.B
+CACM April, 1963
+.A
+Thacher Jr., H. C.
+.N
+CA630420 JB March 14, 1978  11:48 AM
+.X
+1800	5	871
+871	5	871
+871	5	871
+871	5	871
+871	6	871

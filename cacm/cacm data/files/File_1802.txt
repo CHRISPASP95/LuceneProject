@@ -1,0 +1,21 @@
+.I 1802
+.T
+Regression Using Certain Direct Product Matrices (Algorithm 366 [G2])
+.B
+CACM December, 1969
+.A
+Claringbold, P. J.
+.K
+analysis of variance, analysis of covariance,
+regression analysis, experimental design, matrix 
+direct product, protection operator, orthogonal matrix
+.C
+5.14 5.5
+.N
+CA691210 JB February 15, 1978  2:23 PM
+.X
+1801	5	1802
+1802	5	1802
+1802	5	1802
+1802	5	1802
+1802	6	1802

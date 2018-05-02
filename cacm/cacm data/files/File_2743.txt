@@ -1,0 +1,21 @@
+.I 2743
+.T
+Sorting X + Y
+.B
+CACM June, 1975
+.A
+Harper, L. H.
+Payne, T. H.
+Savage, J. E.
+Straus, E.
+.K
+merge sorting, computational complexity, data
+modeling, computing models, binary comparisons
+.C
+5.25 5.31
+.N
+CA750610 JB January 9, 1978  12:45 PM
+.X
+2743	5	2743
+2743	5	2743
+2743	5	2743

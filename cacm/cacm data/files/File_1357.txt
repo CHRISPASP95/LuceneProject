@@ -1,0 +1,13 @@
+.I 1357
+.T
+Examination Scheduling (Algorithm 286 [H])
+.B
+CACM November, 1966
+.A
+Williams, R.
+.N
+CA661103c JB March 23, 1978  4:20 PM
+.X
+1357	5	1357
+1357	5	1357
+1357	5	1357

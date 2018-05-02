@@ -1,0 +1,13 @@
+.I 870
+.T
+Term of Magic Square (Algorithm 148)
+.B
+CACM April, 1963
+.A
+Barnecut, J. N. R.
+.N
+CA630421 JB March 14, 1978  11:47 AM
+.X
+870	5	870
+870	5	870
+870	5	870

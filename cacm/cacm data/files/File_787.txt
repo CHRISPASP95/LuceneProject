@@ -1,0 +1,13 @@
+.I 787
+.T
+Matrix Division (Algorithm 197)
+.B
+CACM August, 1963
+.A
+Wells, M.
+.N
+CA630811 JB March 13, 1978  8:37 PM
+.X
+787	5	787
+787	5	787
+787	5	787

@@ -1,0 +1,17 @@
+.I 2056
+.T
+Gomory (Algorithm 263A $H))
+.B
+CACM May, 1970
+.A
+Proll, L. G.
+.K
+linear programming, integer variables, dual method
+.C
+5.41
+.N
+CA700510 JB February 13, 1978  1:17 PM
+.X
+2056	5	2056
+2056	5	2056
+2056	5	2056

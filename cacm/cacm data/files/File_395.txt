@@ -1,0 +1,13 @@
+.I 395
+.T
+Multiple-Precision Division 
+.B
+CACM February, 1961
+.A
+Rabinowitz, P.
+.N
+CA610202 JB March 17, 1978  1:01 AM
+.X
+395	5	395
+395	5	395
+395	5	395

@@ -1,0 +1,13 @@
+.I 449
+.T
+Matrix Inversion(Algorithm 140)
+.B
+CACM November, 1962
+.A
+Ingerman, P. Z.
+.N
+CA621112 JB March 17, 1978 6:12 PM
+.X
+449	5	449
+449	5	449
+449	5	449

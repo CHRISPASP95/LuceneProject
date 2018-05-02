@@ -1,0 +1,14 @@
+.I 240
+.T
+Processing Magnetic Tape Files with Variable Blocks
+.B
+CACM December, 1961
+.A
+Graham, J. W.
+Sprott, D. A.
+.N
+CA611210 JB March 15, 1978  10:11 PM
+.X
+240	5	240
+240	5	240
+240	5	240

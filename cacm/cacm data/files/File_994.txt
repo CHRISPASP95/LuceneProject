@@ -1,0 +1,13 @@
+.I 994
+.T
+Stringsort (Algorithm 207 [M1])
+.B
+CACM October, 1964
+.A
+Blair, C. R.
+.N
+CA641008 JB March 9, 1978  4:47 PM
+.X
+994	5	994
+994	5	994
+994	5	994

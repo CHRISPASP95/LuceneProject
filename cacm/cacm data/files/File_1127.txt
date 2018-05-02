@@ -1,0 +1,13 @@
+.I 1127
+.T
+Tridiagonal Matrix (Algorithm 122)
+.B
+CACM March, 1964
+.A
+Naur, P.
+.N
+CA640304 JB March 10, 1978  3:39 AM
+.X
+1127	5	1127
+1127	5	1127
+1127	5	1127

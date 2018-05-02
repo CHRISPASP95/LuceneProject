@@ -1,0 +1,13 @@
+.I 1240
+.T
+Transport (Algorithm 258 [H])
+.B
+CACM June, 1965
+.A
+Bayer, G.
+.N
+CA650615 JB March 6, 1978  9:51 PM
+.X
+1240	5	1240
+1240	5	1240
+1240	5	1240

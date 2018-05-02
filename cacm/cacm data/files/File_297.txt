@@ -1,0 +1,15 @@
+.I 297
+.T
+A Note on Fitting Great Circles by Least Squares
+.B
+CACM August, 1961
+.A
+Marcus, C. F.
+.N
+CA610807 JB March 16, 1978  10:05 PM
+.X
+297	4	297
+122	5	297
+297	5	297
+297	5	297
+297	5	297

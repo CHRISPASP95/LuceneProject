@@ -1,0 +1,33 @@
+.I 1905
+.T
+The Simplex Method of Linear Programming Using LU Decomposition
+.W
+Standard computer implementations of Dantzig's
+simplex method for linear programming are based 
+upon forming the inverse of the basic matrix and updating
+the inverse after every step of the method. 
+ These implementations have bad round-off error properties.
+ This paper gives the theoretical background 
+for an implementation which is based upon the LU decomposition,
+computed with row interchanges, of the 
+basic matrix.  The implementation is slow, but has good
+round-off error behavior.  The implementation 
+appears as CACM Algorithm 350.
+.B
+CACM May, 1969
+.A
+Bartels, R. H.
+Goulub, G. H.
+.K
+simplex method, linear programming, LU decomposition,
+round-off errors, computational stability
+.C
+5.41
+.N
+CA690504 JB February 17, 1978  3:49 PM
+.X
+1905	4	1905
+1744	5	1905
+1905	5	1905
+1905	5	1905
+1905	5	1905

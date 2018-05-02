@@ -1,0 +1,14 @@
+.I 788
+.T
+Muller's Method for Finding Roots of
+an Arbitrary Function (Algorithm 196)
+.B
+CACM August, 1963
+.A
+Roman, R. D.
+.N
+CA630810 JB March 13, 1978  8:38 PM
+.X
+788	5	788
+788	5	788
+788	5	788

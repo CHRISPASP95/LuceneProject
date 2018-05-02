@@ -1,0 +1,13 @@
+.I 394
+.T
+Multiple Programming Data Processing
+.B
+CACM February, 1961
+.A
+Ryle, B. L.
+.N
+CA610204 JB March 17, 1978  1:00 AM
+.X
+394	5	394
+394	5	394
+394	5	394

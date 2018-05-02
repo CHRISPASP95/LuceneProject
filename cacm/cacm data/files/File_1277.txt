@@ -1,0 +1,13 @@
+.I 1277
+.T
+The Use of Cobol Subroutines in Fortran Main Programs
+.B
+CACM April, 1965
+.A
+Tajiri, K.
+.N
+CA650414 JB March 7, 1978  3:34 PM
+.X
+1277	5	1277
+1277	5	1277
+1277	5	1277

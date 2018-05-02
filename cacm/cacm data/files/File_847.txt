@@ -1,0 +1,17 @@
+.I 847
+.T
+A Penny-Matching Program
+.W
+The logic of a penny-matching program
+written for the CSX-1 is described.
+.B
+CACM June, 1963
+.A
+Wall, E.
+Brown, R. M.
+.N
+CA630602 JB March 14, 1978  10:27 AM
+.X
+847	5	847
+847	5	847
+847	5	847

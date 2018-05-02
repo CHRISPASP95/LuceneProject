@@ -1,0 +1,13 @@
+.I 1203
+.T
+Normdey (Algorithm 121 [G5])
+.B
+CACM September, 1965
+.A
+Pike, M. C.
+.N
+CA650903 JB March 6, 19787:37 PM
+.X
+1203	5	1203
+1203	5	1203
+1203	5	1203

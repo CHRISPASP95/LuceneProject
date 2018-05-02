@@ -1,0 +1,19 @@
+.I 1760
+.T
+Normal Curve Integral (Algorithm 304 [S15])
+.B
+CACM April, 1968
+.A
+Bergson, A.
+.K
+normal curve integral, probability, special functions
+.C
+5.5 5.12
+.N
+CA680410 JB February 23, 1978  10:22 AM
+.X
+1760	5	1760
+1760	5	1760
+1760	5	1760
+1838	5	1760
+1760	6	1760

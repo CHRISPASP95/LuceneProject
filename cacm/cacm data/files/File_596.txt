@@ -1,0 +1,19 @@
+.I 596
+.T
+Floating-Point Arithmetic in COBOL
+.W
+In this paper the basic operations of floating-point
+arithmetic are examined and COBOL procedures 
+for carrying these out are given, along with specification
+of working storage.  The paper concludes with 
+an example in which these procedures are used.
+.B
+CACM May, 1962
+.A
+Kesner, O.
+.N
+CA620509 JB March 20, 1978  1:46 PM
+.X
+596	5	596
+596	5	596
+596	5	596

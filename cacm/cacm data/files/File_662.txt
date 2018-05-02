@@ -1,0 +1,13 @@
+.I 662
+.T
+Shuttle Sort (Algorithm 175)
+.B
+CACM December, 1963
+.A
+Juelich, O. C.
+.N
+CA631212 JB March 13, 1978  2:52 PM
+.X
+662	5	662
+662	5	662
+662	5	662

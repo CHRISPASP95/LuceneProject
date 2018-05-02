@@ -1,0 +1,16 @@
+.I 2793
+.T
+Chi-Square Quantiles (Algorithm C451)
+.B
+CACM February, 1975
+.A
+Knight,W.
+.N
+CA750206 JB January 10, 1978  9:40 AM
+.X
+2467	4	2793
+2793	4	2793
+1606	5	2793
+2793	5	2793
+2793	5	2793
+2793	5	2793

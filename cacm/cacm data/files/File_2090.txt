@@ -1,0 +1,21 @@
+.I 2090
+.T
+Symbolic Expansion of Algebraic Expressions (Algorithm 377 $R2))
+.B
+CACM March, 1970
+.A
+Levine, M. J.
+.K
+algebra, symbolic algebra, symbolic
+multiplication, algebraic distribution,
+algebraic multiplication, distribution algorithm,
+multiplication algorithm, product 
+algorithm, polynomial distribution, polynomial expansion
+.C
+3.10 3.17 3.20 4.13 4.90
+.N
+CA700308 JB February 13, 1978  3:49 PM
+.X
+2090	5	2090
+2090	5	2090
+2090	5	2090

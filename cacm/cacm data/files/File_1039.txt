@@ -1,0 +1,13 @@
+.I 1039
+.T
+Summation of Fourier Series (Algorithm 128 [C6])
+.B
+CACM July, 1964
+.A
+Thacher Jr., H. C.
+.N
+CA640708 JB March 9, 1978  8:16 PM
+.X
+1039	5	1039
+1039	5	1039
+1039	5	1039

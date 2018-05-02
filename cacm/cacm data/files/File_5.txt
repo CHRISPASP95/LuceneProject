@@ -1,0 +1,13 @@
+.I 5
+.T
+Two Square-Root Approximations
+.B
+CACM November, 1958
+.A
+Wadey, W. G.
+.N
+CA581102 JB March 22, 1978  8:33 PM
+.X
+5	5	5
+5	5	5
+5	5	5

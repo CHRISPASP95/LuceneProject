@@ -1,0 +1,13 @@
+.I 427
+.T
+PSIF (Algorithm 147)
+.B
+CACM December, 1962
+.A
+Amit, D.
+.N
+CA621212 JB March 17, 1978  5:03 PM
+.X
+427	5	427
+427	5	427
+427	5	427

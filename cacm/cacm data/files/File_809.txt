@@ -1,0 +1,13 @@
+.I 809
+.T
+Hypergeometric (Algorithm 191)
+.B
+CACM July, 1963
+.A
+Relph, A. P.
+.N
+CA630715 JB March 14, 1978  8:30 AM
+.X
+809	5	809
+809	5	809
+809	5	809

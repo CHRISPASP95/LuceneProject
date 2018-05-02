@@ -1,0 +1,20 @@
+.I 2641
+.T
+A Minimal Spanning Tree clustering Method [Z] (Algorithm A479)
+.B
+CACM June, 1974
+.A
+Page, R. L.
+.K
+clustering, pattern recognition, feature
+selection, minimal spanning trees
+.C
+3.63 5.39 5.5
+.N
+CA740605 JB January 17, 1978  3:06 PM
+.X
+2641	4	2641
+2363	5	2641
+2641	5	2641
+2641	5	2641
+2641	5	2641

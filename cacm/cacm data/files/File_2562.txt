@@ -1,0 +1,13 @@
+.I 2562
+.T
+Routing Problem (Algorithm R456)
+.B
+CACM December, 1974
+.A
+Tesch, G.
+.N
+CA741212 JB January 13, 1978  3:42 PM
+.X
+2562	5	2562
+2562	5	2562
+2562	5	2562

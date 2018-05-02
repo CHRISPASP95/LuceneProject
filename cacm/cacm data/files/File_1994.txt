@@ -1,0 +1,24 @@
+.I 1994
+.T
+Decision Table Translation $H) (Algorithm 394)
+.B
+CACM September, 1970
+.A
+Dial, R. B.
+.K
+Decision table, decision table translation
+.C
+4.19
+.N
+CA700911 JB February 10, 1978  10:05 AM
+.X
+1354	4	1994
+1488	4	1994
+1994	4	1994
+2053	4	1994
+2220	4	1994
+2273	4	1994
+1237	5	1994
+1994	5	1994
+1994	5	1994
+1994	5	1994

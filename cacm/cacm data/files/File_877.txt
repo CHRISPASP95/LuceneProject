@@ -1,0 +1,13 @@
+.I 877
+.T
+Complete Elliptic Integral of the First Kind (Algorithm 55)
+.B
+CACM April, 1963
+.A
+Thacher Jr., H. C.
+.N
+CA630414 JB March 14, 1978  12:15 PM
+.X
+877	5	877
+877	5	877
+877	5	877

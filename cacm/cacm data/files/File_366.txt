@@ -1,0 +1,13 @@
+.I 366
+.T
+Eigenvalues of a Symmetric 3 x 3 Matrix
+.B
+CACM April, 1961
+.A
+Smith, O. K.
+.N
+CA610402 JB March 17, 1978  12:14 AM
+.X
+366	5	366
+366	5	366
+366	5	366

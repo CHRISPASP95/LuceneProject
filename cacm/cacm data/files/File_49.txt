@@ -1,0 +1,13 @@
+.I 49
+.T
+Scientific and Business Applications (Oracle Curve Plotter)
+.B
+CACM October, 1959
+.A
+Fike, C. T.
+.N
+CA591010 JB March 22, 1978  4:08 PM
+.X
+49	5	49
+49	5	49
+49	5	49

@@ -1,0 +1,23 @@
+.I 2910
+.T
+Equivalence of Hough Curve Detection to Template Matching
+.B
+CACM November, 1977
+.A
+Stockman, G. C.
+.K
+picture processing, pattern recognition, curve
+detection, Hough transformation, template matching
+.C
+3.63 6.9
+.N
+CA771106 JB December 27, 1977  7:23 AM
+.X
+2788	4	2910
+2910	4	2910
+2910	4	2910
+2400	5	2910
+2788	5	2910
+2910	5	2910
+2910	5	2910
+2910	5	2910

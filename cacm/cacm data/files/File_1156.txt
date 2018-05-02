@@ -1,0 +1,13 @@
+.I 1156
+.T
+Hankel Function (Algorithm 124 [S17])
+.B
+CACM December, 1965
+.A
+Reilly, G. A.
+.N
+CA651213 JB March 6, 1978  3:35 PM
+.X
+1156	5	1156
+1156	5	1156
+1156	5	1156

@@ -1,0 +1,14 @@
+.I 1918
+.T
+Distribution of Indistinguishable Objects
+into Distinguishable Slots (Algorithm 329 [G6])
+.B
+CACM March, 1969
+.A
+Gray, M.
+.N
+CA690309 JB February 20, 1978  8:46 AM
+.X
+1918	5	1918
+1918	5	1918
+1918	5	1918

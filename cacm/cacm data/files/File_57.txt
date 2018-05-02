@@ -1,0 +1,11 @@
+.I 57
+.T
+J.E.I.D.A. and Its Computer Center
+.B
+CACM October, 1959
+.N
+CA591002 JB March 22, 1978  4:17 PM
+.X
+57	5	57
+57	5	57
+57	5	57

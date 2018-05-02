@@ -1,0 +1,13 @@
+.I 110
+.T
+Fibonaccian Searching
+.B
+CACM December, 1960
+.A
+Ferguson, D. E.
+.N
+CA601206 JB March 20, 1978  6:38 PM
+.X
+110	5	110
+110	5	110
+110	5	110

@@ -1,0 +1,13 @@
+.I 151
+.T
+TRDIAG (Algorithm 17)
+.B
+CACM September, 1960
+.A
+Sprague III, C. D.
+.N
+CA600906 JB March 20, 1978  8:45 PM
+.X
+151	5	151
+151	5	151
+151	5	151

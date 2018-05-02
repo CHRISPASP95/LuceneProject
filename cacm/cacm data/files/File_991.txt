@@ -1,0 +1,13 @@
+.I 991
+.T
+Gamma Function with Controller Accuracy (Algorithm 225 [S14])
+.B
+CACM October, 1964
+.A
+Bray, T. A.
+.N
+CA641011 JB March 9, 1978  4:44 PM
+.X
+991	5	991
+991	5	991
+991	5	991

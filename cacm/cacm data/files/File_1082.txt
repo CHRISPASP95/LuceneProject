@@ -1,0 +1,14 @@
+.I 1082
+.T
+Gamma Function with Controlled Accuracy (Algorithm 225)
+.B
+CACM May, 1964
+.A
+Cyvin, S. J.
+Cyvin, B. N.
+.N
+CA640507 JB March 9, 1978  11:59 PM
+.X
+1082	5	1082
+1082	5	1082
+1082	5	1082

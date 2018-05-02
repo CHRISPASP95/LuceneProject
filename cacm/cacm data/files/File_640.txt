@@ -1,0 +1,13 @@
+.I 640
+.T
+Rational Roots of Polynomials with Integer Coefficients (Algorithm 78)
+.B
+CACM February, 1962
+.A
+Perry, C.
+.N
+CA620203 JB March 20, 1978  3:55 PM
+.X
+640	5	640
+640	5	640
+640	5	640

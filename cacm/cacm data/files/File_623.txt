@@ -1,0 +1,13 @@
+.I 623
+.T
+Economising a Sequence 2 (Algorithm 82)
+.B
+CACM March, 1962
+.A
+Mayoh, B. H.
+.N
+CA620309 JB March 20, 1978  3:03 PM
+.X
+623	5	623
+623	5	623
+623	5	623

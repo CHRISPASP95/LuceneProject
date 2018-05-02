@@ -1,0 +1,15 @@
+.I 2585
+.T
+Efficient Implementation of a Variable Projection
+Algorithm for Nonlinear Least Squares Problems 
+(Errata)
+.B
+CACM October 1974
+.A
+Krogh, F. T.
+.N
+CA741013 JB January 16, 1978  11:02 AM
+.X
+2585	5	2585
+2585	5	2585
+2585	5	2585

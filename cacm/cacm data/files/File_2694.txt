@@ -1,0 +1,19 @@
+.I 2694
+.T
+Computation of Legendre Series Coefficients [C6] (Algorithm A473)
+.B
+CACM January, 1974
+.A
+Piessens, R.
+.K
+Legendre series, Chebyshev series
+.C
+5.13
+.N
+CA740105 JB January 18, 1978  2:21 PM
+.X
+2694	4	2694
+1478	5	2694
+2694	5	2694
+2694	5	2694
+2694	5	2694

@@ -1,0 +1,13 @@
+.I 543
+.T
+Interpolation by Aitken (Algorithm 70)
+.B
+CACM July, 1962
+.A
+Relph, A. P.
+.N
+CA620718 JB March 17, 1978  8:19 PM
+.X
+543	5	543
+543	5	543
+543	5	543

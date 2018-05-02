@@ -1,0 +1,13 @@
+.I 229
+.T
+A Terminology Proposal
+.B
+CACM February, 1960
+.A
+Gruenberger, F.
+.N
+CA600203 JB March 22, 1978  2:24 PM
+.X
+229	5	229
+229	5	229
+229	5	229

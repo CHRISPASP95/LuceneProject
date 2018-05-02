@@ -1,0 +1,40 @@
+.I 2192
+.T
+Another Recursion Induction Principle
+.W
+An inductive method for proving things about
+recursively defined functions is described.  It 
+is shown to be useful for proving partial functions equivalent
+and thus applicable in proofs about interpreters 
+for programming languages.
+.B
+CACM May, 1971
+.A
+Morris Jr., J. H.
+.K
+recursion, induction, correctness, proofs, compiler correctness
+.C
+4.13 4.2 5.24
+.N
+CA710507 JB February 3, 1978  2:27 PM
+.X
+2192	5	2192
+2192	5	2192
+2192	5	2192
+2326	5	2192
+2457	5	2192
+2842	5	2192
+2903	5	2192
+1303	6	2192
+1323	6	2192
+210	6	2192
+1834	6	2192
+2060	6	2192
+2148	6	2192
+2192	6	2192
+2192	6	2192
+2192	6	2192
+2192	6	2192
+2326	6	2192
+3184	6	2192
+3186	6	2192

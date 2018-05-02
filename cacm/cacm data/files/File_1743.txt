@@ -1,0 +1,28 @@
+.I 1743
+.T
+Reliable Full-Duplex file Transmission over Half-Duplex Telephone Lines
+.W
+A field-proven scheme for achieving reliable
+duplex transmission over a half-duplex communication 
+line is presented, and to demonstrate the difficulty
+of the problem, another similar scheme, which is 
+only slightly unreliable, is also presented.  A flowchart
+for the reliable scheme and some interesting 
+examples are given.
+.B
+CACM June, 1968
+.A
+Lynch, W. C.
+.K
+telephone communication, half duplex, transmission,
+error correction, full duplex, telephone errors
+.C
+3.81 4.41 6.35
+.N
+CA680602 JB February 22, 1978  4:45 PM
+.X
+1743	5	1743
+1743	5	1743
+1743	5	1743
+1907	5	1743
+1743	6	1743

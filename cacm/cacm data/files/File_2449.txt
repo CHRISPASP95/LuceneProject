@@ -1,0 +1,26 @@
+.I 2449
+.T
+A Simple Technique for Structured Variable Lookup
+.W
+A simple technique for the symbol-table lookup
+of structured variables based on simple automata 
+theory is presented. The technique offers a deterministic
+solution to a problem which is currently handled 
+in a nondeterministic manner in PL/I and COBOL compilers.
+.B
+CACM September, 1973
+.A
+Gates, G. W.
+Poplawski, D. A.
+.K
+symbol table organization, PL/I and COBOL structured variables
+.C
+4.12
+.N
+CA730906 JB January 23, 1978  9:17 AM
+.X
+2449	5	2449
+2449	5	2449
+2449	5	2449
+2659	5	2449
+2449	6	2449

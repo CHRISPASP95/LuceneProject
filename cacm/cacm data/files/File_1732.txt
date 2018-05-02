@@ -1,0 +1,17 @@
+.I 1732
+.T
+Factorial Analysis of Variance (Algorithm 330 [G1])
+.B
+CACM June, 1968
+.A
+Oliver,I.
+.K
+factorial variance analysis, variance, statistical analysis
+.C
+5.5
+.N
+CA680613 JB February 22, 1978  3:21 PM
+.X
+1732	5	1732
+1732	5	1732
+1732	5	1732

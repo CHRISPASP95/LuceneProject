@@ -1,0 +1,19 @@
+.I 2566
+.T
+Exact Cumulative Distribution of the Kolmogorov-Smirnov
+Statistic for Small Samples (Algorithm 
+A487)
+.B
+CACM December, 1974
+.A
+Pomeranz, J.
+.K
+Kolmogorov-Smirnov test, K-S statistic, goodness-of-fit testing
+.C
+8.1 5.5
+.N
+CA741208 JB January 13, 1978  4:08 PM
+.X
+2566	5	2566
+2566	5	2566
+2566	5	2566

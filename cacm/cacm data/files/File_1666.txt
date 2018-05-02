@@ -1,0 +1,22 @@
+.I 1666
+.T
+Solution of Linear Programs in 0-1 Variables
+by Implicit Enumeration (Algorithm 341 [H])
+.B
+CACM November, 1968
+.A
+Byrne, J. L.
+Proll, L. G.
+.K
+linear programming, zero-one variables, partial enumeration
+.C
+5.41
+.N
+CA681113 JB February 21, 1978  2:21 PM
+.X
+1666	5	1666
+1666	5	1666
+1666	5	1666
+2226	5	1666
+1658	6	1666
+1666	6	1666

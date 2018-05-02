@@ -1,0 +1,13 @@
+.I 489
+.T
+Current Status of IPL-V for the Philco 2000 Computer (June 1962)
+.B
+CACM September, 1962
+.A
+Shaffer, S. S.
+.N
+CA620903 JB March 17, 1978  7:41 PM
+.X
+489	5	489
+489	5	489
+489	5	489

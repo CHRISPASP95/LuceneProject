@@ -1,0 +1,13 @@
+.I 734
+.T
+Newton Interpolation with Backward Divided Differences (Algorithm 168)
+.B
+CACM September, 1963
+.A
+Thacher Jr., H. C.
+.N
+CA630924 JB March 13, 1978  7:15 PM
+.X
+734	5	734
+734	5	734
+734	5	734

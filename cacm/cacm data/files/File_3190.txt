@@ -1,0 +1,20 @@
+.I 3190
+.T
+   Correction to Economies of Scale and the IBM System/360
+.W
+   On page 439, a "typical" instruction mix id discussed and the timing computed
+as outlined in that page. Through an undetected programming error, the times and
+the resulting regression equation are slightly in error.
+.B
+CACM February, 1967
+.A
+Solomon, M.B.
+.N
+CA670214 ES March 17, 1982 10:10 AM
+.X
+2387	5	3190
+3190	5	3190
+3190	5	3190
+3190	5	3190
+1417	6	3190
+3190	6	3190

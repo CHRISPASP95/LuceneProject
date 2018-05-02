@@ -1,0 +1,20 @@
+.I 2404
+.T
+Exponential Integrals [S13] (Algorithm A471)
+.B
+CACM December, 1973
+.A
+Gautschi, W.
+.K
+exponential integral, recurrence relations,
+recursive computation, continued fractions
+.C
+5.12
+.N
+CA731204 JB January 19, 1978  2:48 PM
+.X
+2404	4	2404
+2119	5	2404
+2404	5	2404
+2404	5	2404
+2404	5	2404

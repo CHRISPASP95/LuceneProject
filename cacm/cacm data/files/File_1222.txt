@@ -1,0 +1,20 @@
+.I 1222
+.T
+Legendre Functions for Arguments Larger Than One (Algorithm 259 [S16])
+.B
+CACM August, 1965
+.A
+Gautschi, W.
+.N
+CA650802 JB March 6, 1978  8:30 PM 
+.X
+1023	4	1222
+1222	4	1222
+1222	4	1222
+1222	4	1222
+1130	5	1222
+1222	5	1222
+1222	5	1222
+1222	5	1222
+245	5	1222
+310	5	1222

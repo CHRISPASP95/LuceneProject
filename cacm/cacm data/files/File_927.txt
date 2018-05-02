@@ -1,0 +1,15 @@
+.I 927
+.T
+Linear Programming Applied to Ultraviolet Absorption Spectroscopy
+.B
+CACM February, 1963
+.A
+White, W. C.
+Shapiro, B.
+Pratt, A. W.
+.N
+CA630206 JB March 14, 1978  2:19 PM
+.X
+927	5	927
+927	5	927
+927	5	927

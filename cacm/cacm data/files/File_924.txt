@@ -1,0 +1,13 @@
+.I 924
+.T
+Nexcom (Algorithm 152)
+.B
+CACM February, 1963
+.A
+Hopley, J.
+.N
+CA630209 JB March 14, 1978  2:12 PM
+.X
+924	5	924
+924	5	924
+924	5	924

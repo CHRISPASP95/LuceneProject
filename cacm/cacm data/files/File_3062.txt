@@ -1,0 +1,25 @@
+.I 3062
+.T
+Real Time Plotting of Approximate Contour Maps
+.W
+None
+.B
+CACM September, 1978
+.A
+Ward, S.A.
+.K
+Contour map, digital plotting, graphical characters
+.C
+3.10 3.20 4.41 8.2
+.N
+CA780910 DH January 29, 1979  6:33 PM
+.X
+2287	4	3062
+2547	4	3062
+3062	4	3062
+3062	4	3062
+1871	5	3062
+1925	5	3062
+3062	5	3062
+3062	5	3062
+3062	5	3062

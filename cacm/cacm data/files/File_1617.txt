@@ -1,0 +1,14 @@
+.I 1617
+.T
+Eigenvalues and Eigenvectors of the
+Symmetric System (Algorithm 297 [F2])
+.B
+CACM March, 1967
+.A
+Boothroyd, J.
+.N
+CA670311a JB February 28, 1978  12:59 PM
+.X
+1617	5	1617
+1617	5	1617
+1617	5	1617

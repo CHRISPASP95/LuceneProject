@@ -1,0 +1,34 @@
+.I 1030
+.T
+Techniques for the Simulation of Computer Logic
+.W
+The simulation of a digital computer is an
+integral part of most computer design automation 
+systems.  The evaluation of the Boolean functions which
+characterize the computer being simulated constitutes 
+one major portion of a simulation system.  Four general
+procedural classes for evaluating these functions 
+are defined.  Toward greatly increased efficiency of a simulation
+system, methods are presented for simultaneously 
+evaluating many functions for one set of values of the
+variables,and for evaluating simultaneously one 
+function for many sets of values for the variables.
+.B
+CACM July, 1964
+.A
+Breuer,M. A.
+.N
+CA640717 JB March 9, 1978  7:42 PM
+.X
+1030	4	1030
+1886	4	1030
+1939	4	1030
+1030	5	1030
+1030	5	1030
+1030	5	1030
+1261	5	1030
+1939	5	1030
+678	5	1030
+1030	6	1030
+1030	6	1030
+678	6	1030

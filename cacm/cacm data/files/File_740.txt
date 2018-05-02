@@ -1,0 +1,13 @@
+.I 740
+.T
+INTEREST (Algorithm 45)
+.B
+CACM September, 1963
+.A
+Wright, C. B.
+.N
+CA630918 JB March 13, 1978  7:23 PM
+.X
+740	5	740
+740	5	740
+740	5	740

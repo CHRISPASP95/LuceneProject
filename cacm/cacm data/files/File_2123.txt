@@ -1,0 +1,20 @@
+.I 2123
+.T
+Generator of Random Numbers Satisfying the
+Poisson Distribution (Algorithm 369 $G5))
+.B
+CACM January, 1970
+.A
+Schaffer, H. E.
+.K
+Poisson distribution, random number generator
+.C
+5.5
+.N
+CA700108 JB February 14, 1978  1:53 PM
+.X
+2123	4	2123
+1663	5	2123
+2123	5	2123
+2123	5	2123
+2123	5	2123

@@ -1,0 +1,15 @@
+.I 1510
+.T
+Finding a Solution of N Functional Equations
+in N Unknown (Algorithm 314 [C5])
+.B
+CACM November, 1967
+.A
+Dulley, D.B.
+Pitteway, L. V.
+.N
+CA671107a JB February 26, 1978  2:54 PM
+.X
+1510	5	1510
+1510	5	1510
+1510	5	1510

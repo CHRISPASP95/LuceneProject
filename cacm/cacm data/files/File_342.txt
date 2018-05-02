@@ -1,0 +1,13 @@
+.I 342
+.T
+Solution of Polynomial Equation by Barstow-Hitchcock (Algorithm 3)
+.B
+CACM April, 1961
+.A
+Herndon, J.
+.N
+CA610426 JB March 16, 1978  11:39 PM
+.X
+342	5	342
+342	5	342
+342	5	342

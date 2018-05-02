@@ -1,0 +1,25 @@
+.I 1923
+.T
+Pseudofiles
+.W
+An approach to system interfaces for high
+level languages using basic input/output support 
+facilities is described.  It is shown that this technique
+can provide potentially inexpensive methods 
+for programs to communicate with deeply embedded
+facilities such as command language processors.
+.B
+CACM March, 1969
+.A
+Rosin, R. F.
+.K
+operating systems, interfaces input-output,
+high level languages, command language
+.C
+4.22 4.30 4.31 4.41
+.N
+CA690304 JB February 20, 1978  9:12 AM
+.X
+1923	5	1923
+1923	5	1923
+1923	5	1923

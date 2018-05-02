@@ -1,0 +1,19 @@
+.I 2242
+.T
+Product Type Two-Point Gauss-Legendre-Simpson's
+Integration [D1] (Algorithm A438)
+.B
+CACM December, 1972
+.A
+Boland, W. R.
+.K
+numerical integration, product type quadrature,
+Gaussian quadrature, Simpson's rule
+.C
+5.16
+.N
+CA721213 JB January 27, 1978  9:08 AM
+.X
+2242	5	2242
+2242	5	2242
+2242	5	2242

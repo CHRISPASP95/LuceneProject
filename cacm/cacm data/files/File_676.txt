@@ -1,0 +1,13 @@
+.I 676
+.T
+On the Computation of a Certain Type of IncompleteBeta Functions
+.B
+CACM November, 1963
+.A
+Tang, I. C.
+.N
+CA631116 JB March 13, 1978  3:27 PM
+.X
+676	5	676
+676	5	676
+676	5	676

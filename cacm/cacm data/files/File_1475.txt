@@ -1,0 +1,22 @@
+.I 1475
+.T
+Dribble Posting a Master File
+.W
+Many business applications employ sequential
+magnetic tape rather than random-access storage 
+techniques to process a very small number of transactions
+against a voluminous master file.  In such 
+situations, it may prove economical to avoid creating a
+new master file during each updating run by producing 
+instead a dribble ledger containing only those master
+file accounts which have experienced activity.
+.B
+CACM February, 1966
+.A
+Head, R. V.
+.N
+CA660209 JB March 3, 1978  2:41 PM
+.X
+1475	5	1475
+1475	5	1475
+1475	5	1475

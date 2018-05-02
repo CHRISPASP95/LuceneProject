@@ -1,0 +1,13 @@
+.I 746
+.T
+STEEP1 (Algorithm 203)
+.B
+CACM September, 1963
+.A
+Wasscher, E. J.
+.N
+CA630912 JB March 13, 1978  7:30 PM
+.X
+746	5	746
+746	5	746
+746	5	746

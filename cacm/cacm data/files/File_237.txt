@@ -1,0 +1,13 @@
+.I 237
+.T
+Computer Production of Peek-A-Boo Sheets
+.B
+CACM December, 1961
+.A
+Robbins, D.
+.N
+CA611213 JB March 15, 1978  10:07 PM
+.X
+237	5	237
+237	5	237
+237	5	237

@@ -1,0 +1,22 @@
+.I 2346
+.T
+Hu-Tucker Minimum Redundancy Alphabetic
+Coding Method [Z] (Algorithm A428)
+.B
+CACM May, 1972
+.A
+Yohe, J. M.
+.K
+information theory, coding theory, Hu-Tucker
+method, minimum redundancy coding
+.C
+5.6
+.N
+CA720514 JB January 31, 1978  9:30 AM
+.X
+2346	4	2346
+2459	4	2346
+1114	5	2346
+2346	5	2346
+2346	5	2346
+2346	5	2346

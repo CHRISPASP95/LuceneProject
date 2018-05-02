@@ -1,0 +1,13 @@
+.I 346
+.T
+Complete Elliptic Integral of the First Kind (Algorithm 55)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610422 JB March 16, 1978  11:44 PM
+.X
+346	5	346
+346	5	346
+346	5	346

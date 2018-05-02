@@ -1,0 +1,19 @@
+.I 2660
+.T
+Addendum to M. L. Patrick Paper
+.B
+CACM April, 1974
+.A
+Simmons, G. C.
+.K
+parallelism, polynomial root finding, real zeros
+.C
+5.15
+.N
+CA740410 JB February 1, 1978  10:36 AM
+.X
+2660	4	2660
+2266	5	2660
+2660	5	2660
+2660	5	2660
+2660	5	2660

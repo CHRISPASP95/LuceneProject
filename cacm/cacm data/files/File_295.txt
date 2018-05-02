@@ -1,0 +1,13 @@
+.I 295
+.T
+Rational Approximations for the Error Function and for Similar Functions
+.B
+CACM August, 1961
+.A
+Clendenin, W. W.
+.N
+CA610809 JB March 16, 1978  10:03 PM
+.X
+295	5	295
+295	5	295
+295	5	295

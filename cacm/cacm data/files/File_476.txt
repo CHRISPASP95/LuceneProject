@@ -1,0 +1,13 @@
+.I 476
+.T
+Further Remarks on Sampling a Tape File-II
+.B
+CACM October, 1962
+.A
+Nadler, M.
+.N
+CA621004 JB March 17, 1978  7:22 PM
+.X
+476	5	476
+476	5	476
+476	5	476

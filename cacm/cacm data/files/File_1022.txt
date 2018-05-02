@@ -1,0 +1,16 @@
+.I 1022
+.T
+Greatest Common Divisor (Algorithm 237 [A1])
+.B
+CACM August, 1964
+.A
+Peck, J. E. L.
+.N
+CA640808 JB March 9, 1978  7:17 PM
+.X
+1022	5	1022
+1022	5	1022
+1022	5	1022
+2031	5	1022
+1022	6	1022
+450	6	1022

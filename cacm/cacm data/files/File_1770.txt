@@ -1,0 +1,32 @@
+.I 1770
+.T
+Rules of Ethics in Information Processing
+.W
+The background and motivation for the adoption
+by the ACM Council on November 11, 1966, of 
+a set of Guidelines for Professional Conduct in Information
+Processing are described.  A brief his tory 
+is given of ethical codes in other professions.  Some
+reasons for and against adoption of ethical rules 
+are considered, and several sections of the ACM Guidelines
+are analyzed.  The purpose is to inform about 
+this important aspect of our profession, as
+well as to stimulate thought and interest.
+.B
+CACM March, 1968
+.A
+Parker, D. B.
+.K
+ethics, professional conduct, code of ethics, ACM
+guidelines, professionalism, professional societies, 
+unethical conduct
+.C
+1.3 2.2
+.N
+CA680302 JB February 23, 1978  11:41 AM
+.X
+1770	4	1770
+1628	5	1770
+1770	5	1770
+1770	5	1770
+1770	5	1770

@@ -1,0 +1,13 @@
+.I 999
+.T
+Joint Inventorship of Computers
+.B
+CACM October, 1964
+.A
+Hauptman, G. A.
+.N
+CA641003 JB March 9, 19784:54 PM
+.X
+999	5	999
+999	5	999
+999	5	999

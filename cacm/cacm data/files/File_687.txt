@@ -1,0 +1,13 @@
+.I 687
+.T
+Shanks (Algorithm 215)
+.B
+CACM November, 1963
+.A
+Thacher Jr., H. C.
+.N
+CA631105 JB March 13, 1978  3:48 PM
+.X
+687	5	687
+687	5	687
+687	5	687

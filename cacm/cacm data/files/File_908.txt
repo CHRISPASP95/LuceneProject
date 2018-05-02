@@ -1,0 +1,13 @@
+.I 908
+.T
+Test Matrix for Inversion 
+.B
+CACM March, 1963
+.A
+LaSor, W. S.
+.N
+CA630312a JB March 14, 1978  1:38 PM
+.X
+908	5	908
+908	5	908
+908	5	908

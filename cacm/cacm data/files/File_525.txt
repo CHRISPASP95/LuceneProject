@@ -1,0 +1,13 @@
+.I 525
+.T
+A Computer Technique for Handling Analysis of Variance
+.B
+CACM August, 1962
+.A
+Howell, J. R.
+.N
+CA620803 JB March 17, 1978  7:32 PM
+.X
+525	5	525
+525	5	525
+525	5	525

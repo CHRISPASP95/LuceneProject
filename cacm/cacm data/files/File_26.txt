@@ -1,0 +1,16 @@
+.I 26
+.T
+A Subroutine Method for Calculating Logarithms
+.B
+CACM May, 1958
+.A
+Bemer, R. W.
+.N
+CA580502 JB March 22, 1978  9:16 PM
+.X
+26	5	26
+26	5	26
+26	5	26
+848	5	26
+26	6	26
+35	6	26

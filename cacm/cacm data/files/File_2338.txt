@@ -1,0 +1,22 @@
+.I 2338
+.T
+A Starting Method for Solving Nonlinear Volterra
+Integral Equations of the Second Kind
+.W
+A fourth-order starting method is given for
+Volterra integral equations of the second kind 
+and numerical examples are presented.
+.B
+CACM June, 1972
+.A
+Iguchi, K.
+.K
+algorithm, Volterra integral equations, starting method
+.C
+5.18
+.N
+CA720607 JB January 30, 1978  4:17 PM
+.X
+2338	5	2338
+2338	5	2338
+2338	5	2338

@@ -1,0 +1,20 @@
+.I 2157
+.T
+Average Binary Search Length for Dense Ordered Lists
+.B
+CACM September, 1971
+.A
+Flores, I.
+Madpis, G.
+.K
+searching, binary searching, record retrieval
+.C
+3.74
+.N
+CA710907 JB February 2, 1978  1:42 PM
+.X
+2157	5	2157
+2157	5	2157
+2157	5	2157
+2293	5	2157
+2157	6	2157

@@ -1,0 +1,14 @@
+.I 2463
+.T
+Complex Gamma Function (Algorithm R404,C404)
+.B
+CACM August, 1973
+.A
+Andrejkova, G.
+Vinar, J.
+.N
+CA730811 JB January 23, 1978  10:33 AM
+.X
+2463	5	2463
+2463	5	2463
+2463	5	2463

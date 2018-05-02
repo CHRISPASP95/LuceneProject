@@ -1,0 +1,13 @@
+.I 956
+.T
+A Family of Test Matrices
+.B
+CACM December, 1964
+.A
+Newbery, A. C. R.
+.N
+CA641215 JB March 9, 1978  3:17 PM
+.X
+956	5	956
+956	5	956
+956	5	956

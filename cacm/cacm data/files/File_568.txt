@@ -1,0 +1,13 @@
+.I 568
+.T
+Exponential of a Complex Number (Algorithm 46)
+.B
+CACM June, 1962
+.A
+Relph, A. P.
+.N
+CA620617 JB March 17, 1978  9:21 PM
+.X
+568	5	568
+568	5	568
+568	5	568

@@ -1,0 +1,15 @@
+.I 1656
+.T
+Procedures for the Standardization Process* (Proposed USA Standard)
+.B
+CACM December, 1968
+.K
+standardization, procedures, criteria
+.C
+2.3 4.2
+.N
+CA681210 JB February 21, 1978  12:21 PM
+.X
+1656	5	1656
+1656	5	1656
+1656	5	1656

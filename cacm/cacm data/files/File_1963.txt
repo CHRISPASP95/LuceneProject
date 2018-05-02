@@ -1,0 +1,23 @@
+.I 1963
+.T
+Condition Numbers of PEI Matrices
+.B
+CACM November, 1970
+.A
+Rokne, J.
+.K
+matrices, condition numbers, Pei matrices, eigenvectors, eigenvalues
+.C
+5.14
+.N
+CA701116 JB February 9, 1978  4:21 PM
+.X
+1963	4	1963
+1963	4	1963
+1963	4	1963
+909	5	1963
+1963	5	1963
+1963	5	1963
+1963	5	1963
+475	5	1963
+750	5	1963

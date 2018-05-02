@@ -1,0 +1,13 @@
+.I 816
+.T
+Erlang Probability for Curve Fitting (Algorithm 184)
+.B
+CACM July, 1963
+.A
+Colker, A.
+.N
+CA630708 JB March 14, 1978  8:39 AM
+.X
+816	5	816
+816	5	816
+816	5	816

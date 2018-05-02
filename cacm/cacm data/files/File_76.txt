@@ -1,0 +1,13 @@
+.I 76
+.T
+Binary Conversion, With Fixed Decimal Precision, Of a Decimal Fraction
+.B
+CACM July, 1959
+.A
+Taranto, D.
+.N
+CA590702 JB March 22, 1978  6:23 PM
+.X
+76	5	76
+76	5	76
+76	5	76

@@ -1,0 +1,14 @@
+.I 1150
+.T
+A Fortran Post-Mortem Procedure
+.B
+CACM January, 1964
+.A
+Kahan, W.
+Leppik, J. J.
+.N
+CA640104 JB March 10, 1978  5:37 AM
+.X
+1150	5	1150
+1150	5	1150
+1150	5	1150

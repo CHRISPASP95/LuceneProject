@@ -1,0 +1,13 @@
+.I 1058
+.T
+Simpson's Rule for Multiple Integration (Algorithm 233)
+.B
+CACM June, 1964
+.A
+Olynyk, F.
+.N
+CA640609 JB March 9, 1978  9:33 PM
+.X
+1058	5	1058
+1058	5	1058
+1058	5	1058

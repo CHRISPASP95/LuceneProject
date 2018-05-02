@@ -1,0 +1,26 @@
+.I 493
+.T
+The Property Classification Method of File Design and Processing
+.B
+CACM August, 1962
+.A
+McGee, W. C.
+.N
+CA620835 JB March 17, 1978  9:03 PM
+.X
+1135	4	493
+1136	4	493
+493	4	493
+2710	4	493
+2765	4	493
+2888	4	493
+2906	4	493
+729	4	493
+1136	5	493
+493	5	493
+493	5	493
+493	5	493
+616	5	493
+493	6	493
+616	6	493
+657	6	493

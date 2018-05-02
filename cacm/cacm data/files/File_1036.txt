@@ -1,0 +1,13 @@
+.I 1036
+.T
+Remark on Further Generalization of ALGOL
+.B
+CACM July, 1963
+.A
+Garwick, J. V.
+.N
+CA640710 JB March 9, 1978  8:12 PM
+.X
+1036	5	1036
+1036	5	1036
+1036	5	1036

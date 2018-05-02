@@ -1,0 +1,13 @@
+.I 614
+.T
+Simpson's Integration (Algorithm 84)
+.B
+CACM April, 1962
+.A
+Hennion, P. E.
+.N
+CA620403 JB March 20, 1978  2:25 PM
+.X
+614	5	614
+614	5	614
+614	5	614

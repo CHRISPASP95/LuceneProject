@@ -1,0 +1,13 @@
+.I 832
+.T
+Curve Fitting with Constraints (Algorithm 74)
+.B
+CACM June, 1963
+.A
+Isoda, K.
+.N
+CA630617 JB March 14, 1978  10:08 AM
+.X
+832	5	832
+832	5	832
+832	5	832

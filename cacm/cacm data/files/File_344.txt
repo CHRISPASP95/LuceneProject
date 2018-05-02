@@ -1,0 +1,13 @@
+.I 344
+.T
+Ber or Bei Function (Algorithm 57)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610424 JB March 16, 1978  11:42 PM
+.X
+344	5	344
+344	5	344
+344	5	344

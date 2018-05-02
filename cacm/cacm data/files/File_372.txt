@@ -1,0 +1,13 @@
+.I 372
+.T
+Critical Path Scheduling (Algorithm 40)
+.B
+CACM March, 1961
+.A
+Leavenworth, B.
+.N
+CA610310 JB March 17, 1978  12:36 AM
+.X
+372	5	372
+372	5	372
+372	5	372

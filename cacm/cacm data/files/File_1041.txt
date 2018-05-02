@@ -1,0 +1,13 @@
+.I 1041
+.T
+Random Permutation (Algorithm 235 [G6])
+.B
+CACM July, 1964
+.A
+Durstenfeld, R.
+.N
+CA640706 JB March 9, 1978  8:18 PM
+.X
+1041	5	1041
+1041	5	1041
+1041	5	1041

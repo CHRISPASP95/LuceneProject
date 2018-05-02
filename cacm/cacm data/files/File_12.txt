@@ -1,0 +1,14 @@
+.I 12
+.T
+Error Estimation in Runge-Kutta Procedures
+.B
+CACM September, 1958
+.A
+Call, D. H.
+Reeves, R. F.
+.N
+CA580901 JB March 22, 1978  8:56 PM
+.X
+12	5	12
+12	5	12
+12	5	12

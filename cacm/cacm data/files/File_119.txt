@@ -1,0 +1,13 @@
+.I 119
+.T
+Note on Eigenvalue Computation
+.B
+CACM November, 1960
+.A
+Andrus, J. F.
+.N
+CA601116 JB March 20, 1978  6:53 PM
+.X
+119	5	119
+119	5	119
+119	5	119

@@ -1,0 +1,13 @@
+.I 959
+.T
+Mark Sense and Port-A-Punch Programming Inputs
+.B
+CACM December, 1964
+.A
+Lubbert, W. F.
+.N
+CA641212 JB March 9, 1978  3:24 PM
+.X
+959	5	959
+959	5	959
+959	5	959

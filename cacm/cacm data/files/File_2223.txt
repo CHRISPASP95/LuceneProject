@@ -1,0 +1,18 @@
+.I 2223
+.T
+Minit Algorithm For Linear Programming (Algorithm 222 [H])
+.B
+CACM January, 1971
+.A
+Kolm, A.
+Dahlstrand, T.
+.K
+linear programming, dual simplex method, primal problem, dual problem
+.C
+5.41
+.N
+CA710111 JB February 8, 1978  10:22 AM
+.X
+2223	5	2223
+2223	5	2223
+2223	5	2223

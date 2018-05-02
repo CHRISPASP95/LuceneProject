@@ -1,0 +1,13 @@
+.I 1512
+.T
+Solution of Simultaneous Non-Linear Equations (Algorithm 316[C5])
+.B
+CACM November, 1967
+.A
+Brown, K. M.
+.N
+CA671107c JB March 23, 1978  2:19 PM
+.X
+1512	5	1512
+1512	5	1512
+1512	5	1512

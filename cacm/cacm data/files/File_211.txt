@@ -1,0 +1,13 @@
+.I 211
+.T
+Share Standard Flow Chart Symbols
+.B
+CACM March, 1960
+.A
+Grems, M.
+.N
+CA600307 JB March 22, 1978  1:58 PM
+.X
+211	5	211
+211	5	211
+211	5	211

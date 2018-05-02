@@ -1,0 +1,14 @@
+.I 458
+.T
+Coefficient Determination (Algorithm 131)
+.B
+CACM November, 1962
+.A
+Smith, V. H.
+Allen, M. L.
+.N
+CA621103 JB March 17, 1978  6:56 PM
+.X
+458	5	458
+458	5	458
+458	5	458

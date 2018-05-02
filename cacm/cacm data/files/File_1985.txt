@@ -1,0 +1,18 @@
+.I 1985
+.T
+An Integer Programming Problem $H) (Algorithm 397)
+.B
+CACM October, 1970
+.A
+Chang, S. K.
+Gill, A.
+.K
+integer programming, change making problem
+.C
+5.41
+.N
+CA701005 JB February 10, 1978  9:28 AM
+.X
+1985	5	1985
+1985	5	1985
+1985	5	1985

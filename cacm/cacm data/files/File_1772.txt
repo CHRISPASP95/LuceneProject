@@ -1,0 +1,11 @@
+.I 1772
+.T
+USASCSOCR Dual Case Keyboard Arrangement* (Proposed USA Standard)
+.B
+CACM February, 1968
+.N
+CA680210 JB February 23, 1978  11:54 AM
+.X
+1772	5	1772
+1772	5	1772
+1772	5	1772

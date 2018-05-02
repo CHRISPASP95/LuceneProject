@@ -1,0 +1,23 @@
+.I 1621
+.T
+Computer Typesetting of ALGOL
+.W
+An application of computer-aided typesetting
+is introduced.  A working method is described 
+for publishing ALGOL by computerized translation from
+Hardware into Reference representation, computerized 
+planning of typographical lay-out and computerized control
+of a typesetting machine.  The point is made 
+that experts in science, technology, and programming are
+guaranteed a correct ALGOL documentation without 
+spending valuable time and power on typographic considerations and proofreading.
+.B
+CACM March, 1967
+.A
+Sydow, L. V.
+.N
+CA670308 JB February 28, 1978  1:12 PMB
+.X
+1621	5	1621
+1621	5	1621
+1621	5	1621

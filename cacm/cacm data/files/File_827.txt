@@ -1,0 +1,16 @@
+.I 827
+.T
+Disk File Sorting
+.W
+Sorting techniques using an IBM 1401 with
+a random access storage device are evaluated.
+.B
+CACM June, 1963
+.A
+Schick, T.
+.N
+CA630622 JB March 14, 1978  10:02 AM
+.X
+827	5	827
+827	5	827
+827	5	827

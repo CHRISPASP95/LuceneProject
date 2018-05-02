@@ -1,0 +1,13 @@
+.I 563
+.T
+Sorting Procedures (Algorithm 76)
+.B
+CACM June, 1962
+.A
+Randell, B.
+.N
+CA620622 JB March 17, 1978  9:15 PM
+.X
+563	5	563
+563	5	563
+563	5	563

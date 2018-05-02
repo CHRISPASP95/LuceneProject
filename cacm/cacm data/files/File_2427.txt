@@ -1,0 +1,22 @@
+.I 2427
+.T
+Bivariate Normal Distribution [S15] (Algorithm A462)
+.B
+CACM October, 1973
+.A
+Donnelly,T. G.
+.K
+bivariate, normal Gaussian, frequency distribution
+.C
+5.5
+.N
+CA731013 JB January 20, 1978  11:03 AM
+.X
+1987	4	2427
+2427	4	2427
+2427	4	2427
+1581	5	2427
+1636	5	2427
+2427	5	2427
+2427	5	2427
+2427	5	2427

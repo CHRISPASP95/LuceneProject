@@ -1,0 +1,13 @@
+.I 833
+.T
+Reduction of a Symmetric Bandmatrix to Triple Diagonal Form
+.B
+CACM June, 1963
+.A
+Schwartz, H. R.
+.N
+CA630616JB March 14, 1978  10:09 AM
+.X
+833	5	833
+833	5	833
+833	5	833

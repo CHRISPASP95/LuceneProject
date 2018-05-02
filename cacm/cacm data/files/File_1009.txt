@@ -1,0 +1,18 @@
+.I 1009
+.T
+Solution of Combinatorial Problems Using Generating
+Functions on a Variable-Field Computer
+.W
+The utility of generating functions in solving
+combinatorial problems is discussed.  Particular 
+implementation results are presented and evaluated.
+.B
+CACM September, 1964
+.A
+Weinberg, G. M.
+.N
+CA640902 JB March 9, 1978  6:17 PM
+.X
+1009	5	1009
+1009	5	1009
+1009	5	1009

@@ -1,0 +1,18 @@
+.I 2464
+.T
+The Complex Method for Constrained Optimization [E4] (Algorithm A454)
+.B
+CACM August, 1973
+.A
+Richardson, J. A.
+Kuester, J. L.
+.K
+optimization, constrained optimization, Box's algorithm
+.C
+5.41
+.N
+CA730810 JB January 23, 1978  10:34 AM
+.X
+2464	5	2464
+2464	5	2464
+2464	5	2464

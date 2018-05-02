@@ -1,0 +1,19 @@
+.I 961
+.T
+Limited Bit Manipulation Using FORTRAN II
+.W
+Techniques are developed for manipulating bits
+using only FORTRAN II.  These techniques allow 
+individual bits to be tested, certain fields to be
+shifted, and numbers coded in BCD to be converted 
+to Binary.
+.B
+CACM December, 1964
+.A
+Oster, C. A.
+.N
+CA641210 JB March 9, 1978  3:27 PM
+.X
+961	5	961
+961	5	961
+961	5	961

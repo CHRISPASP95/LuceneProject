@@ -1,0 +1,17 @@
+.I 475
+.T
+A Test Matrix for Inversion Procedures
+.B
+CACM October, 1962
+.A
+Pei, M. L.
+.N
+CA621005 JB March 17, 1978  7:21 PM
+.X
+1963	5	475
+475	5	475
+475	5	475
+475	5	475
+909	6	475
+475	6	475
+750	6	475

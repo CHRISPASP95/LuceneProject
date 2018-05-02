@@ -1,0 +1,13 @@
+.I 741
+.T
+Evaluation of Determinant (Algorithm 41)
+.B
+CACM September, 1963
+.A
+Freed, B. H.
+.N
+CA630917 JB March 13, 1978  7:24 PM
+.X
+741	5	741
+741	5	741
+741	5	741

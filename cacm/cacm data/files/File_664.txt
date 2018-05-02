@@ -1,0 +1,13 @@
+.I 664
+.T
+Assignment (Algorithm 27)
+.B
+CACM December, 1963
+.A
+Witty, R. D.
+.N
+CA631210 JB March 13, 1978  2:54 PM
+.X
+664	5	664
+664	5	664
+664	5	664

@@ -1,0 +1,13 @@
+.I 837
+.T
+Incomplete Beta Ratio (Algorithm 179)
+.B
+CACM June, 1963
+.A
+Ludwig, O. G.
+.N
+CA630612 JB March 14, 1978  10:15 AM
+.X
+837	5	837
+837	5	837
+837	5	837

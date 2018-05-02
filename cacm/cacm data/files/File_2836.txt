@@ -1,0 +1,28 @@
+.I 2836
+.T
+Weighted Derivation Trees
+.W
+The nodes of a weighted derivation tree are associated
+with weighting functions over the vocabulary 
+of a context-free grammar.  An algorithm is presented
+for constructing the optimal derivation tree having 
+the same structure as a given weighted derivation tree.
+ In addition, the correctness of the algorithm 
+is established.  The method may be applied to problems
+involving probabilistic parsing or combinatorial 
+optimization.
+.B
+CACM September, 1976
+.A
+Loui, M. C.
+.K
+derivation tree, parse tree, probabilistic grammar,
+structural ambiguity, combinatorial optimization
+.C
+5.23 5.49
+.N
+CA760903 JB January 4, 1978  9:41 AM
+.X
+2836	5	2836
+2836	5	2836
+2836	5	2836

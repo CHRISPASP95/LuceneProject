@@ -1,0 +1,13 @@
+.I 744
+.T
+ATIVE (Algorithm 205)
+.B
+CACM September, 1963
+.A
+Haubrich, J. G. A.
+.N
+CA630914 JB March 13, 1978  7:28 PM
+.X
+744	5	744
+744	5	744
+744	5	744

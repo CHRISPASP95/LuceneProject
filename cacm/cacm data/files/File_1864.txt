@@ -1,0 +1,17 @@
+.I 1864
+.T
+Generation of Hilbert Derived Test Matrix (Algorithm 274 [F1])
+.B
+CACM July, 1969
+.A
+Boothroyd, J.
+.K
+test matrix, Hilbert matrix
+.C
+5.14
+.N
+CA690716 JB February 15, 1978  6:25 PM
+.X
+1864	5	1864
+1864	5	1864
+1864	5	1864

@@ -1,0 +1,18 @@
+.I 1688
+.T
+Netflow (Algorithm 248 [H])
+.B
+CACM September, 1968
+.A
+Henderson, J. H.
+.K
+capacitated network, linear programming, minimum-cost
+flow, network flow, out-of-kilter
+.C
+5.32 5.41
+.N
+CA680913 JB February 21, 19784:31 PM 
+.X
+1688	5	1688
+1688	5	1688
+1688	5	1688

@@ -1,0 +1,13 @@
+.I 487
+.T
+NORMDEV (Algorithm 121)
+.B
+CACM September, 1962
+.A
+Shafer,D.
+.N
+CA620905 JB March 17, 1978  7:38 PM
+.X
+487	5	487
+487	5	487
+487	5	487

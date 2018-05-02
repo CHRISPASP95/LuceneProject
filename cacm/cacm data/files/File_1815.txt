@@ -1,0 +1,20 @@
+.I 1815
+.T
+Direct Search (Algorithm 178 [E4])
+.B
+CACM November, 1969
+.A
+Tomlin, F. K.
+Smith, L. B.
+.K
+function minimization, search direct search
+.C
+5.19
+.N
+CA691115 JB February 15, 1978  12:02 PM
+.X
+1815	4	1815
+1715	5	1815
+1815	5	1815
+1815	5	1815
+1815	5	1815

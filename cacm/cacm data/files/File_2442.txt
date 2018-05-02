@@ -1,0 +1,13 @@
+.I 2442
+.T
+A Sparse Matrix Package (Algorithm R408)
+.B
+CACM September, 1973
+.A
+Lawrence, E. E.
+.N
+CA730913 JB January 23, 1978  8:37 AM
+.X
+2442	5	2442
+2442	5	2442
+2442	5	2442

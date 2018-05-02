@@ -1,0 +1,13 @@
+.I 703
+.T
+Assign (Algorithm 173)
+.B
+CACM October, 1963
+.A
+Scowen, R. S.
+.N
+CA631022 JB March 13, 1978  5:32 PM
+.X
+703	5	703
+703	5	703
+703	5	703

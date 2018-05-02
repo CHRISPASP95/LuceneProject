@@ -1,0 +1,19 @@
+.I 2539
+.T
+Solution of the Transcendental Equation w*exp(w)=x [C5] (Algorithm A443)
+.B
+CACM February, 1973
+.A
+Fritsch, F. N.
+Shafer, R. E.
+Crowley,W. P.
+.K
+transcendental function evaluation, solution of transcendental equation
+.C
+5.12 5.15
+.N
+CA730209 JB January 24, 1978  1:26 PM
+.X
+2539	5	2539
+2539	5	2539
+2539	5	2539

@@ -1,0 +1,13 @@
+.I 1702
+.T
+Commentary on Mr. Mooers' Paper
+.B
+CACM August, 1968
+.A
+Steel Jr., T. B.
+.N
+CA680812 JB February 22, 1978  9:42 AM
+.X
+1702	5	1702
+1702	5	1702
+1702	5	1702

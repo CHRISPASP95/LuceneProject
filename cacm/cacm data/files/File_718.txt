@@ -1,0 +1,23 @@
+.I 718
+.T
+An Experiment in Automatic Verification of Programs 
+.W
+How effective is a compiler at replacing explicit
+verification, and what is the cost of this 
+technique?
+.B
+CACM October, 1963
+.A
+Weinberg, G. M.
+Gressett, G. L.
+.N
+CA631007 JB March 13, 1978  5:59 PM
+.X
+1053	5	718
+718	5	718
+718	5	718
+718	5	718
+435	6	718
+474	6	718
+718	6	718
+720	6	718

@@ -1,0 +1,13 @@
+.I 581
+.T
+A Note on Sampling a Tape-File
+.B
+CACM June, 1962
+.A
+Jones, T. G.
+.N
+CA620604 JB March 17, 1978  9:35 PM
+.X
+581	5	581
+581	5	581
+581	5	581

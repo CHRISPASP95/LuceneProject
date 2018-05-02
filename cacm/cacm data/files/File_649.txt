@@ -1,0 +1,13 @@
+.I 649
+.T
+FACTORS (Algorithm 75)
+.B
+CACM January, 1962
+.A
+Peck, J. E. L.
+.N
+CA620110 JB March 20, 1978  4:34 PM
+.X
+649	5	649
+649	5	649
+649	5	649

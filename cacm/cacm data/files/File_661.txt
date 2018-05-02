@@ -1,0 +1,17 @@
+.I 661
+.T
+Indexing and the Lambda-Notation
+.W
+Some methods of indexing sequentially stored
+elements of sparse multi-dimensional arrays are 
+described in the scheme A notation.
+.B
+CACM December, 1963
+.A
+Barnett, M. P.
+.N
+CA631213 JB March 13, 1978  2:51 PM
+.X
+661	5	661
+661	5	661
+661	5	661

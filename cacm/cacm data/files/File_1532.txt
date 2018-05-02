@@ -1,0 +1,13 @@
+.I 1532
+.T
+The Hardware-Software Complementarity
+.B
+CACM October, 1967
+.A
+Oettinger, A. G.
+.N
+CA671001 JB February 27, 1978  2:42 PM
+.X
+1532	5	1532
+1532	5	1532
+1532	5	1532

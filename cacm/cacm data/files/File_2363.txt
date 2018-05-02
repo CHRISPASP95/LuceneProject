@@ -1,0 +1,19 @@
+.I 2363
+.T
+Minimal Spanning Tree [H] (Algorithm A422)
+.B
+CACM April, 1972
+.A
+Whitney, V. K. M.
+.K
+spanning tree, minimal spanning tree, maximal spanning tree
+.C
+5.32
+.N
+CA720410 JB January 31, 1978  12:36 PM
+.X
+2363	5	2363
+2363	5	2363
+2363	5	2363
+2641	5	2363
+2363	6	2363

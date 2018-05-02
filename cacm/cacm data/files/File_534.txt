@@ -1,0 +1,13 @@
+.I 534
+.T
+Quick Calculation of Jacobian Elliptic Functions
+.B
+CACM July, 1962
+.A
+Salzer, H. E.
+.N
+CA620727 JB March 17, 1978  8:01 PM
+.X
+534	5	534
+534	5	534
+534	5	534

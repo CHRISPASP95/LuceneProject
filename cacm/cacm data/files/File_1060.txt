@@ -1,0 +1,13 @@
+.I 1060
+.T
+Matrix Inversion (Algorithm 231)
+.B
+CACM June, 1964
+.A
+Boothroyd, J.
+.N
+CA640607 JB March 9, 1978  9:35 PM
+.X
+1060	5	1060
+1060	5	1060
+1060	5	1060

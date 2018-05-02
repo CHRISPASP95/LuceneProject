@@ -1,0 +1,13 @@
+.I 2791
+.T
+Exact Probabilities for R x C Contingency Tables (Algorithm R434)
+.B
+CACM February, 1975
+.A
+Hancock, T. W.
+.N
+CA750208 JB January 12, 1978  2:55 PM
+.X
+2791	5	2791
+2791	5	2791
+2791	5	2791

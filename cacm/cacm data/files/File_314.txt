@@ -1,0 +1,14 @@
+.I 314
+.T
+A Divisionless Method of Integer Conversion
+.B
+CACM July, 1961
+.A
+Clarkson, W. K.
+Prince, B. M.
+.N
+CA610703 JB March 16, 1978  10:27 PM
+.X
+314	5	314
+314	5	314
+314	5	314

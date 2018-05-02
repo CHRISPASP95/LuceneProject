@@ -1,0 +1,13 @@
+.I 566
+.T
+Matrix Inversion (Algorithm 58)
+.B
+CACM June, 1962
+.A
+Conger, R. A.
+.N
+CA620619 JB March 17, 1978  9:19 PM
+.X
+566	5	566
+566	5	566
+566	5	566

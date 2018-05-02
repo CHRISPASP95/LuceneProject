@@ -1,0 +1,14 @@
+.I 574
+.T
+Evaluation of Jacobi Symbol (Algorithm 99)
+.B
+CACM June, 1962
+.A
+Garland, S. J.
+Knapp, A. W.
+.N
+CA620611 JB March 17, 1978  9:28 PM
+.X
+574	5	574
+574	5	574
+574	5	574

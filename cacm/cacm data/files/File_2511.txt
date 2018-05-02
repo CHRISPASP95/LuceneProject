@@ -1,0 +1,13 @@
+.I 2511
+.T
+Maxflow (Algorithm R324)
+.B
+CACM May, 1973
+.A
+Bayer, G.
+.N
+CA730509 JB January 23, 1978  4:39 PM
+.X
+2511	5	2511
+2511	5	2511
+2511	5	2511

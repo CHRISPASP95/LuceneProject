@@ -1,0 +1,14 @@
+.I 548
+.T
+Molecular-Orbital Calculation of Molecular Interactions
+.B
+CACM July, 1962
+.A
+Kruglyak, Y. A.
+Whitman, D. R.
+.N
+CA620713 JB March 17, 1978  8:26 PM
+.X
+548	5	548
+548	5	548
+548	5	548

@@ -1,0 +1,13 @@
+.I 357
+.T
+Bessel Functions Computed Recursively (Algorithm 44)
+.B
+CACM April, 1961
+.A
+Wojcicki, M. E.
+.N
+CA610411 JB March 17, 1978  12:01 AM
+.X
+357	5	357
+357	5	357
+357	5	357

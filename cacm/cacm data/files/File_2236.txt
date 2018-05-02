@@ -1,0 +1,20 @@
+.I 2236
+.T
+Remarks on Characteristic Values and Associated
+Solutions of Mathieus Differential Equation, 
+Exponential Integral, and Systems of Hyperbolic
+P.D.E. (Algorithms R352, R385, R392)
+.B
+CACM December, 1972
+.A
+Frisch, M. J.
+.K
+ANSI Fortran standard
+.C
+4.0 4.22
+.N
+CA721219 JB January 27, 1978  8:56 AM
+.X
+2236	5	2236
+2236	5	2236
+2236	5	2236

@@ -1,0 +1,21 @@
+.I 2574
+.T
+Multiple Exists from a Loop Using Neither GO TO nor Labels
+.B
+CACM November, 1974
+.A
+Evans, R. V.
+.K
+goto free programming, control structures,
+multiple exists from loops, exit statement
+.C
+4.20 4.22
+.N
+CA741110 JB January 16, 1978  10:07 AM
+.X
+2574	4	2574
+2709	4	2574
+2477	5	2574
+2574	5	2574
+2574	5	2574
+2574	5	2574

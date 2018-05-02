@@ -1,0 +1,13 @@
+.I 382
+.T
+Statistical Programs at the University of North Carolina
+.B
+CACM February, 1961
+.A
+Bush, N.
+.N
+CA610216 JB March 17, 1978  12:48 AM
+.X
+382	5	382
+382	5	382
+382	5	382

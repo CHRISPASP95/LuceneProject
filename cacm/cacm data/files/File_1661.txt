@@ -1,0 +1,17 @@
+.I 1661
+.T
+Multint (Algorithm 32 [D1])
+.B
+CACM December, 1968
+.A
+Kolbig, K. S.
+.K
+numerical integration, multidimensional integration, Gaussian integration
+.C
+5.16
+.N
+CA681205 JB February 21, 1978  1:41 PM
+.X
+1661	5	1661
+1661	5	1661
+1661	5	1661

@@ -1,0 +1,13 @@
+.I 499
+.T
+Permutation Generator (Algorithm 87)
+.B
+CACM August, 1962
+.A
+Collison, D. M.
+.N
+CA620829 JB March 17, 1978  9:22 PM
+.X
+499	5	499
+499	5	499
+499	5	499

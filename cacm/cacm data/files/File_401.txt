@@ -1,0 +1,18 @@
+.I 401
+.T
+Allocation of Storage for Arrays in ALGOL 60
+.B
+CACM January, 1961
+.A
+Sattley, K.
+.N
+CA610113 JB March 17, 1978  1:14 AM
+.X
+321	5	401
+401	5	401
+401	5	401
+401	5	401
+196	6	401
+400	6	401
+401	6	401
+402	6	401

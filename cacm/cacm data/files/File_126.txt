@@ -1,0 +1,13 @@
+.I 126
+.T
+Least Squares Fit By Orthogonal polynomials (Algorithm 28)
+.B
+CACM November, 1960
+.A
+Mackinney, J. G.
+.N
+CA601109 JB March 20, 1978  7:08 PM
+.X
+126	5	126
+126	5	126
+126	5	126

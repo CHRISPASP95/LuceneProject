@@ -1,0 +1,19 @@
+.I 281
+.T
+Putting a Hex on e^x
+.W
+Recent notes on approximate natural antilogy
+have not considered indirect formulations for 
+describing e^x.  In this note we produce a particular
+family of very fast, high precision and eminently 
+practical exponential evaluation formulas derived from one such formulation.
+.B
+CACM October, 1961
+.A
+Feurzeig, W.
+.N
+CA610913 JB March 16, 1978  1:27 PM
+.X
+281	5	281
+281	5	281
+281	5	281

@@ -1,0 +1,21 @@
+.I 2312
+.T
+On the Present and Future of Scientific Computation
+.W
+A pessimistic forecast is given of what can be
+expected to happen in the application of computers 
+to the physical sciences.
+.B
+CACM July, 1972
+.A
+Rice, J. R.
+.K
+scientific computation
+.C
+3.1 5.0
+.N
+CA720716 JB January 30, 1978  11:24 AM
+.X
+2312	5	2312
+2312	5	2312
+2312	5	2312

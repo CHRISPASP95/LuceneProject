@@ -1,0 +1,19 @@
+.I 2591
+.T
+Numerical Inversion of Laplace Transform (Algorithm A486)
+.B
+CACM October, 1974
+.A
+Veillon, F.
+.K
+Laplace transform inversion
+.C
+5.16
+.N
+CA741007 JB January 16, 1978 11:17 AM
+.X
+2591	4	2591
+2124	5	2591
+2591	5	2591
+2591	5	2591
+2591	5	2591

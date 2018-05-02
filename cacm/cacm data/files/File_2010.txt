@@ -1,0 +1,17 @@
+.I 2010
+.T
+Unitary Symmetric Polynomials $Z) (Algorithm 391)
+.B
+CACM August, 1970
+.A
+McKay, J.
+.K
+symmetric polynomials, unitary symmetric polynomials
+.C
+5.11 5.30 5.5
+.N
+CA700811 JB February 10, 1978  3:19 PM
+.X
+2010	5	2010
+2010	5	2010
+2010	5	2010

@@ -1,0 +1,18 @@
+.I 2403
+.T
+Procedures for Natural Spline Interpolation [E1] (Algorithm A472)
+.B
+CACM December, 1973
+.A
+Herriot, J. G.
+.K
+approximation, interpolation, spline, natural
+spline, spline approximation, cubic natural spline
+.C
+5.13
+.N
+CA731205 JB January 19, 1978  2:47 PM
+.X
+2403	5	2403
+2403	5	2403
+2403	5	2403

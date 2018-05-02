@@ -1,0 +1,15 @@
+.I 2563
+.T
+Merge Sort Algorithm (R426)
+.B
+CACM December, 1974
+.A
+Bron, C.
+.N
+CA741211 JB January 13, 1978  3:43 PM
+.X
+2563	4	2563
+2348	5	2563
+2563	5	2563
+2563	5	2563
+2563	5	2563

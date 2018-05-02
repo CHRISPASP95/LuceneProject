@@ -1,0 +1,13 @@
+.I 2636
+.T
+Generation of Random Correlated Normal Variables (Algorithm R425)
+.B
+CACM June, 1974
+.A
+Page, R. L.
+.N
+CA740610 JB January 17, 1978  2:57 PM
+.X
+2636	5	2636
+2636	5	2636
+2636	5	2636

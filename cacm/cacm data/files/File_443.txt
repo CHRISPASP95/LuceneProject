@@ -1,0 +1,13 @@
+.I 443
+.T
+Complex Number to a Real Power (Algorithm 106)
+.B
+CACM December, 1962
+.A
+Erwin Jr.,G. W.
+.N
+CA621118 JB March 17, 1978  6:01 PM
+.X
+443	5	443
+443	5	443
+443	5	443

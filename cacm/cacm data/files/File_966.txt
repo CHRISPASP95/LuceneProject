@@ -1,0 +1,14 @@
+.I 966
+.T
+Evaluation of Determinant (Algorithm 224 [F3])
+.B
+CACM December, 1964
+.A
+Hasselblad, V.
+Rulifson, J.
+.N
+CA641205 JB March 9, 1978  3:41 PM
+.X
+966	5	966
+966	5	966
+966	5	966

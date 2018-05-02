@@ -1,0 +1,13 @@
+.I 280
+.T
+A Preplanned Approach to a Storage Allocating Compiler
+.B
+CACM October, 1961
+.A
+O'Neil, R. W.
+.N
+CA611001 JB March 16, 1978  1:24 PM
+.X
+280	5	280
+280	5	280
+280	5	280

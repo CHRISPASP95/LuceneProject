@@ -1,0 +1,17 @@
+.I 2689
+.T
+A CRT Report Generating System
+.B
+CACM January, 1974
+.A
+Lucas, H. C. Jr.
+.K
+report generation, automated systems design, data processing, management
+.C
+3.50 4.12 4.22
+.N
+CA740110 JB January 18, 1978  1:40 PM
+.X
+2689	5	2689
+2689	5	2689
+2689	5	2689

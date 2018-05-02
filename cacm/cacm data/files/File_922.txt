@@ -1,0 +1,13 @@
+.I 922
+.T
+Multint (Algorithm 32)
+.B
+CACM February, 1963
+.A
+Thacher Jr., H. C.
+.N
+CA630211JB March 14, 1978  2:10 PM
+.X
+922	5	922
+922	5	922
+922	5	922

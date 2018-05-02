@@ -1,0 +1,15 @@
+.I 36
+.T
+A Queue Network Simulator for the IBM 650 and Burroughs 220
+.B
+CACM December, 1959
+.A
+Conway, R. W.
+Johnson, B. M.
+Maxwell, W. L.
+.N
+CA591206 JB March 22, 1978  3:35 PM
+.X
+36	5	36
+36	5	36
+36	5	36

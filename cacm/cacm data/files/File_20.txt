@@ -1,0 +1,19 @@
+.I 20
+.T
+Accelerating Convergence of Iterative Processes
+.W
+A technique is discussed which, when applied
+to an iterative procedure for the solution of
+an equation, accelerates the rate of convergence if
+the iteration converges and induces convergence if
+the iteration diverges.  An illustrative example is given.
+.B
+CACM June, 1958
+.A
+Wegstein, J. H.
+.N
+CA580602 JB March 22, 1978  9:09 PM
+.X
+20	5	20
+20	5	20
+20	5	20

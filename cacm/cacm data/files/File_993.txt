@@ -1,0 +1,13 @@
+.I 993
+.T
+Kutta Merson (Algorithm 218 [D2])
+.B
+CACM October, 1964
+.A
+Priebe, K. B.
+.N
+CA641009 JB March 9, 1978  4:46 PM
+.X
+993	5	993
+993	5	993
+993	5	993

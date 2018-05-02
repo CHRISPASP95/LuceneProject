@@ -1,0 +1,14 @@
+.I 259
+.T
+Permutation (Algorithm 71)
+.B
+CACM November, 1961
+.A
+Coveyou, R. R.
+Sullivan, J. G.
+.N
+CA611109 JB March 15, 1978  10:52 PM
+.X
+259	5	259
+259	5	259
+259	5	259

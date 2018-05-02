@@ -1,0 +1,13 @@
+.I 444
+.T
+Evaluation of Jacobi Symbol (Algorithm 99)
+.B
+CACM November, 1962
+.A
+May, R. W.
+.N
+CA621117 JB March 17, 1978  6:02 PM
+.X
+444	5	444
+444	5	444
+444	5	444

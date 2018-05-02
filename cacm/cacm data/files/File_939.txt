@@ -1,0 +1,13 @@
+.I 939
+.T
+Gamma Function (Algorithm 31)
+.B
+CACM January, 1963
+.A
+Behrenz, P. G.
+.N
+CA630109 JB March 14, 1978  2:37 PM
+.X
+939	5	939
+939	5	939
+939	5	939

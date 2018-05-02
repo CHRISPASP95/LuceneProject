@@ -1,0 +1,13 @@
+.I 182
+.T
+Evaluation of the Chebyshev Polynomial Tn(X) by Recursion (Algorithm) 
+.B
+CACM June, 1960
+.A
+Galler, G. M.
+.N
+CA600608 JB March 20, 1978  9:38 PM
+.X
+182	5	182
+182	5	182
+182	5	182

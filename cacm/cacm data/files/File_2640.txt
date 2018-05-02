@@ -1,0 +1,17 @@
+.I 2640
+.T
+Modified Havie Integration (Algorithm R400)
+.B
+CACM June, 1974
+.A
+Piessens, R.
+.N
+CA740606 JB January 17, 1978  3:04 PM
+.X
+2350	4	2640
+2354	4	2640
+2640	4	2640
+2355	5	2640
+2640	5	2640
+2640	5	2640
+2640	5	2640

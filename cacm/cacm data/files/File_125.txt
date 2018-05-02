@@ -1,0 +1,15 @@
+.I 125
+.T
+Polynomial Transformer (Algorithm 29)
+.B
+CACM November, 1960
+.A
+Mackinney, J. G.
+.N
+CA601110 JB March 20, 1978  7:06 PM
+.X
+125	5	125
+125	5	125
+125	5	125
+1816	5	125
+125	6	125

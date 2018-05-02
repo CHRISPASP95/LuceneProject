@@ -1,0 +1,13 @@
+.I 708
+.T
+Evaluation of the Fresnel Integrals (Algorithm 88, 89, 90)
+.B
+CACM October, 1963
+.A
+Gray, M. D.
+.N
+CA631017JB March 13, 1978  5:45 PM
+.X
+708	5	708
+708	5	708
+708	5	708

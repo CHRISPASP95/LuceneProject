@@ -1,0 +1,21 @@
+.I 1866
+.T
+Characteristic Values and Associated Solutions
+of Mathieu's Differential Equation (Algorithm 
+352 [S22])
+.B
+CACM July, 1969
+.A
+Clemm, D. S.
+.K
+Mathieu's differential equation, Mathieu function,
+characteristic value, periodic solution, radial 
+solution
+.C
+5.12
+.N
+CA690714 JB February 15, 1978  6:30 PM
+.X
+1866	5	1866
+1866	5	1866
+1866	5	1866

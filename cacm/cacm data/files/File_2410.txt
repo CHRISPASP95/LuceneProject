@@ -1,0 +1,26 @@
+.I 2410
+.T
+A Recurrence Scheme for Converting from
+One Orthogonal Expansion into Another
+.W
+A generalization of a scheme of Hamming for
+converting a polynomial Pn(x) into a Chebyshev 
+series is combined with a recurrence scheme of Clenshaw
+for summing any finite series whose terms satisfy 
+a three-term recurrence formula.  
+.B
+CACM November, 1973
+.A
+Salzer, H. E.
+.K
+orthogonal expansions, series interconversion,
+recurrence schemes, Hamming recurrence, Clenshaw 
+recurrence, three-term recurrence, five-term recurrence, Chebyshev series
+.C
+5.12
+.N
+CA731116 JB January 19, 1978  4:16 PM
+.X
+2410	5	2410
+2410	5	2410
+2410	5	2410

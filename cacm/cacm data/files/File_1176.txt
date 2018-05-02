@@ -1,0 +1,13 @@
+.I 1176
+.T
+Finding Eigenvectors by Gaussian Elimination (Algorithm 270 [F2])
+.B
+CACM November, 1965
+.A
+Newhouse, A.
+.N
+CA651105 JB March 6, 1978  5:03 PM
+.X
+1176	5	1176
+1176	5	1176
+1176	5	1176

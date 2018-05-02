@@ -1,0 +1,17 @@
+.I 1983
+.T
+Spanning Tree $H) (Algorithm 399)
+.B
+CACM October, 1970
+.A
+Seppanen, J. J.
+.K
+graph, tree, spanning tree
+.C
+5.32
+.N
+CA701007 JB February 10, 1978  9:24 AM
+.X
+1983	5	1983
+1983	5	1983
+1983	5	1983

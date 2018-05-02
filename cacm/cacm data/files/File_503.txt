@@ -1,0 +1,13 @@
+.I 503
+.T
+Rational Roots of Polynomials with Integer Coefficients (Algorithm 78)
+.B
+CACM August, 1962
+.A
+Collison, D. M.
+.N
+CA620825 JB March 17, 1978  9:27 PM
+.X
+503	5	503
+503	5	503
+503	5	503

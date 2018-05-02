@@ -1,0 +1,13 @@
+.I 515
+.T
+Rational Interpolation by Continued Fractions (Algorithm 18)
+.B
+CACM August, 1962
+.A
+Thacher Jr., H. C.
+.N
+CA620813 JB March 17, 1978  9:41 PM
+.X
+515	5	515
+515	5	515
+515	5	515

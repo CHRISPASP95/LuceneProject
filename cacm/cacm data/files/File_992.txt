@@ -1,0 +1,13 @@
+.I 992
+.T
+Gamma Function (Algorithm 221 [S14])
+.B
+CACM October, 1964
+.A
+McCombs, V. K.
+.N
+CA641010 JB March 9, 1978  4:45 PM
+.X
+992	5	992
+992	5	992
+992	5	992

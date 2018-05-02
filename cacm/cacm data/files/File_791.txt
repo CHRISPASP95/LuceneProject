@@ -1,0 +1,20 @@
+.I 791
+.T
+Character Manipulation in 7090 Fortran
+.B
+CACM August, 1963
+.A
+Smith, D. D.
+.N
+CA630807 JB March 13, 1978  8:41 PM
+.X
+1084	5	791
+791	5	791
+791	5	791
+791	5	791
+868	6	791
+603	6	791
+644	6	791
+669	6	791
+791	6	791
+797	6	791

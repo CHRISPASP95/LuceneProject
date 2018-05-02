@@ -1,0 +1,13 @@
+.I 244
+.T
+Incomplete Elliptic Integrals (Algorithm 73)
+.B
+CACM December, 1961
+.A
+Kriebel, D. C.
+.N
+CA611206 JB March 15, 1978  10:24 PM
+.X
+244	5	244
+244	5	244
+244	5	244

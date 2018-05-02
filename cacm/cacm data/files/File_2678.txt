@@ -1,0 +1,17 @@
+.I 2678
+.T
+Visible Surface Plotting Program [J6] (Algorithm A475)
+.B
+CACM March, 1974
+.A
+Wright, T.
+.K
+hidden line problem, computer graphics, contour surface
+.C
+3.65 4.41 8.2
+.N
+CA740305 JB January 18, 1978  11:18 AM
+.X
+2678	5	2678
+2678	5	2678
+2678	5	2678

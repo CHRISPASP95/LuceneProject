@@ -1,0 +1,14 @@
+.I 129
+.T
+ROOTFINDER II (Algorithm 15)
+.B
+CACM November, 1960
+.A
+Forsythe, G. E.
+Herriot, J. G.
+.N
+CA601106 JB March 20, 1978  7:59 PM
+.X
+129	5	129
+129	5	129
+129	5	129

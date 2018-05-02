@@ -1,0 +1,22 @@
+.I 3061
+.T
+Simulations of Dynamic Sequential Search Algorithms
+.W
+None
+.B
+CACM September, 1978
+.A
+Tenenbaum, A.
+.K
+Searching, list processing, sequential
+searching, dynamic reordering, simulation 
+.C
+3.74 8.1
+.N
+CA780911 DH January 29, 1979  6:30 PM
+.X
+3061	4	3061
+2885	5	3061
+3061	5	3061
+3061	5	3061
+3061	5	3061

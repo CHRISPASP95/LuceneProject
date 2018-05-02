@@ -1,0 +1,19 @@
+.I 1899
+.T
+Simplex Method Procedure Employing Lu Decomposition (Algorithm 350 [H])
+.B
+CACM May, 1969
+.A
+Bartels, R. H.
+Golub, G. H.
+.K
+simplex method, linear programming, LU decomposition,
+round-off errors, computational stability
+.C
+5.41
+.N
+CA690510 JB February 17, 1978  3:21 PM
+.X
+1899	5	1899
+1899	5	1899
+1899	5	1899

@@ -1,0 +1,25 @@
+.I 2788
+.T
+Finding Circles by an Array of Accumulators
+.B
+CACM February, 1975
+.A
+Kimme, C.
+Balard, D.
+Sklansky, J.
+.K
+picture processing, pattern recognition, curve detection,line fitting
+.C
+3.63
+.N
+CA750211 JB January 10, 1978  9:15 AM
+.X
+2788	4	2788
+2910	4	2788
+2400	5	2788
+2788	5	2788
+2788	5	2788
+2788	5	2788
+2910	5	2788
+2400	6	2788
+2788	6	2788

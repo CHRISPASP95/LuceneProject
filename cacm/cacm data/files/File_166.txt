@@ -1,0 +1,14 @@
+.I 166
+.T
+Programming Compatibility in a Family
+of Closely Related Digital Computers
+.B
+CACM July, 1960
+.A
+Luebbert, W. F.
+.N
+CA600707 JB March 20, 1978  9:14 PM
+.X
+166	5	166
+166	5	166
+166	5	166

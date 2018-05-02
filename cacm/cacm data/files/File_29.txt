@@ -1,0 +1,13 @@
+.I 29
+.T
+Need for an Algorithm
+.B
+CACM April, 1958
+.A
+Selden, W.
+.N
+CA580401 JB March 22, 1978  9:19 PM
+.X
+29	5	29
+29	5	29
+29	5	29

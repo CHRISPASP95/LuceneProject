@@ -1,0 +1,13 @@
+.I 1377
+.T
+Pseudo-Random Numbers (Algorithm 266 [G5])
+.B
+CACM September, 1966
+.A
+Hansson, L.
+.N
+CA660909h JB March 23, 1978  6:45 PM
+.X
+1377	5	1377
+1377	5	1377
+1377	5	1377

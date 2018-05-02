@@ -1,0 +1,13 @@
+.I 411
+.T
+Use of Magnetic Tape for Data Storage in the ORACLE-ALGOL Translator
+.B
+CACM January, 1961
+.A
+Bottenbruch, H.
+.N
+CA610103 JB March 17, 1978  1:28 AM
+.X
+411	5	411
+411	5	411
+411	5	411

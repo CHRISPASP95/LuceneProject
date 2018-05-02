@@ -1,0 +1,18 @@
+.I 1104
+.T
+An Undergraduate Curriculum in Numerical Analysis
+.B
+CACM April, 1964
+.A
+Forsythe, G. E.
+.N
+CA640404 JB March 10, 1978  1:51 AM
+.X
+1104	5	1104
+1104	5	1104
+1104	5	1104
+1205	5	1104
+1100	6	1104
+1104	6	1104
+1107	6	1104
+68	6	1104

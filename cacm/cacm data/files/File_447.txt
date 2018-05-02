@@ -1,0 +1,13 @@
+.I 447
+.T
+Certification of the Calculation of Easter
+.B
+CACM November, 1962
+.A
+Williams, M. R.
+.N
+CA621114 JB March 17, 1978  6:05 PM
+.X
+447	5	447
+447	5	447
+447	5	447

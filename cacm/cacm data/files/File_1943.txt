@@ -1,0 +1,19 @@
+.I 1943
+.T
+Complete Elliptic Integrals (Algorithm 165 [S21])
+.B
+CACM January,1969
+.A
+Farkas, I.
+.K
+special functions, complete elliptic integral
+of the first kind, complete elliptic integral of 
+the second kind
+.C
+5.12
+.N
+CA690106 JB February 20, 1978  11:54 AM
+.X
+1943	5	1943
+1943	5	1943
+1943	5	1943

@@ -1,0 +1,13 @@
+.I 639
+.T
+Difference Expression Coefficients (Algorithm 79)
+.B
+CACM February, 1962
+.A
+Giammo, T. P.
+.N
+CA620204 JB March 20, 1978  3:54 PM
+.X
+639	5	639
+639	5	639
+639	5	639

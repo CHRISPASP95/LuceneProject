@@ -1,0 +1,14 @@
+.I 550
+.T
+Definite Exponential Integrals B (Algorithm 109)
+.B
+CACM July, 1962
+.A
+Kruglyak, Y. A.
+Whitman, D. R.
+.N
+CA620711 JB March 17, 1978  8:30 PM
+.X
+550	5	550
+550	5	550
+550	5	550

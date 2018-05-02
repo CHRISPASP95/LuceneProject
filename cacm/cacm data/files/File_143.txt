@@ -1,0 +1,14 @@
+.I 143
+.T
+A List of Computer Systems Programs for
+the IBM 650, DATATRON 205, and UNIVAC SS-80
+.B
+CACM October, 1960
+.A
+Romberg, A.
+.N
+CA601005 JB March 20, 1978  8:21 PM
+.X
+143	5	143
+143	5	143
+143	5	143

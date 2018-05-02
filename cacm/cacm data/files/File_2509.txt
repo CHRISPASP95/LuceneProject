@@ -1,0 +1,13 @@
+.I 2509
+.T
+Minit Algorithm for Linear Programming (Algorithm R333)
+.B
+CACM May, 1973
+.A
+Obradovic, D.
+.N
+CA730511 JB January 23, 1978  4:37 PM
+.X
+2509	5	2509
+2509	5	2509
+2509	5	2509

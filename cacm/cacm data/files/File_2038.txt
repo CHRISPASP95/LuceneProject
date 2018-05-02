@@ -1,0 +1,17 @@
+.I 2038
+.T
+Combinations of M Out of N Objects (Algorithm 382 $G6))
+.B
+CACM June, 1970
+.A
+Chase, P. J.
+.K
+permutations and combinations, permutations
+.C
+5.39
+.N
+CA700617 JB February 13, 1978  9:59 AM
+.X
+2038	5	2038
+2038	5	2038
+2038	5	2038

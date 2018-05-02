@@ -1,0 +1,28 @@
+.I 1809
+.T
+Numerical Analysis in a Ph.D. Computer Science Program
+.W
+Numerical Analysis is the study of methods and
+procedures used to obtain "approximate solutions" 
+to mathematical problems.  Much of the emphasis is on scientific
+calculation.  The difficulties of education 
+in such a broad area center around the question of background
+and emphasis.  The Numerical Analysis program 
+in the Computer Science Department should emphasize an
+awareness of the problems of computer implementation 
+and experimental procedures.  Nevertheless, there is a
+need for a solid background in applied mathematics.
+.B
+CACM December, 1969
+.A
+Parter, S. V.
+.K
+Ph.D. program, numerical analysis, course separation, education
+.C
+1.52
+.N
+CA691203 JB February 15, 1978  4:25 PM
+.X
+1809	5	1809
+1809	5	1809
+1809	5	1809

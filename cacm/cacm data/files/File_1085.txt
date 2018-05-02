@@ -1,0 +1,12 @@
+.I 1085
+.T
+Specification for General-Purpose Paper Cards for
+Information Processing (Proposed American Standard)
+.B
+CACM May, 1964
+.N
+CA640504 JB March 10, 1978  12:14 AM
+.X
+1085	5	1085
+1085	5	1085
+1085	5	1085

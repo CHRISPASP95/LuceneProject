@@ -1,0 +1,17 @@
+.I 2614
+.T
+Arrow to Precedence Network Transformation [H] (Algorithm A481)
+.B
+CACM August, 1974
+.A
+Crandall, K. C.
+.K
+critical path, networks, precedence networks
+.C
+3.23 5.40
+.N
+CA740810 JB January 17, 1978  9:37 AM
+.X
+2614	5	2614
+2614	5	2614
+2614	5	2614

@@ -1,0 +1,13 @@
+.I 374
+.T
+Telescope2 (Algorithm 38)
+.B
+CACM March, 1961
+.A
+Brons, K. A.
+.N
+CA610308 JB March 17, 1978  12:38 AM
+.X
+374	5	374
+374	5	374
+374	5	374

@@ -1,0 +1,13 @@
+.I 1065
+.T
+Bit Sequencing of the American Standard Code for
+Information Interchange (ASCII) in Serial-by-Bit 
+Data Transmission (Proposed American Standard)
+.B
+CACM June, 1964
+.N
+CA640602 JB March 9, 1978  9:47 PM
+.X
+1065	5	1065
+1065	5	1065
+1065	5	1065

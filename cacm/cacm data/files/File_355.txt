@@ -1,0 +1,13 @@
+.I 355
+.T
+Exponential of a Complex Number (Algorithm 46)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610413 JB March 16, 1978  11:59 PM
+.X
+355	5	355
+355	5	355
+355	5	355

@@ -1,0 +1,14 @@
+.I 257
+.T
+Invert (Algorithm 42)
+.B
+CACM November, 1961
+.A
+Knapp, A. W.
+Shaman, P.
+.N
+CA611111 JB March 15, 1978  10:47 PM
+.X
+257	5	257
+257	5	257
+257	5	257

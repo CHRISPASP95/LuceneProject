@@ -1,0 +1,13 @@
+.I 810
+.T
+Complex Power (Algorithm 190)
+.B
+CACM July, 1963
+.A
+Relph, A. P.
+.N
+CA630714 JB March 14, 1978  8:32 AM
+.X
+810	5	810
+810	5	810
+810	5	810

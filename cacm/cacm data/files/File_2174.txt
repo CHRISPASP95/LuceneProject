@@ -1,0 +1,30 @@
+.I 2174
+.T
+The Stable Marriage Problem
+.W
+The original work of Gale and Shapley on an assignment
+method using the stable marriage criterion 
+has been extended to find all the stable marriage assignments.
+ The algorithm derived for finding all 
+the stable marriage assignments is proved to satisfy
+all the conditions of the problem.  Algorithm 411 
+applies to this paper.
+.B
+CACM July, 1971
+.A
+McVitie, D. G.
+Wilson,L. B.
+.K
+assignment problems, assignment procedures, combinatorics,
+discrete mathematics, operational research, 
+stable marriage problem, university entrance
+.C
+5.30
+.N
+CA710708 JB February 2, 1978  4:40 PM
+.X
+2174	4	2174
+2173	5	2174
+2174	5	2174
+2174	5	2174
+2174	5	2174

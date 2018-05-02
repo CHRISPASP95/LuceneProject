@@ -1,0 +1,13 @@
+.I 781
+.T
+Telescope 2 (Algorithm 38)
+.B
+CACM August, 1963
+.A
+Bridges, J. F.
+.N
+CA630817 JB March 13, 1978  8:30 PM
+.X
+781	5	781
+781	5	781
+781	5	781

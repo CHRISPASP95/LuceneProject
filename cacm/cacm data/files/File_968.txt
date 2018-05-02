@@ -1,0 +1,14 @@
+.I 968
+.T
+Radical-Inverse Quasi-Random Point Sequence (Algorithm 247 [G5])
+.B
+CACM December, 1964
+.A
+Halton, J. H.
+Smith, G. B.
+.N
+CA641203 JB March 9, 19783:43 PM
+.X
+968	5	968
+968	5	968
+968	5	968

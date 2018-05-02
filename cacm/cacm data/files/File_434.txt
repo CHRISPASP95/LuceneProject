@@ -1,0 +1,13 @@
+.I 434
+.T
+Character Manipulation in 1620 Fortran II
+.B
+CACM December, 1962
+.A
+Poore Jr., J. H.
+.N
+CA621205 JB March 17, 1978  5:11 PM
+.X
+434	5	434
+434	5	434
+434	5	434

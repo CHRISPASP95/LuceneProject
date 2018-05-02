@@ -1,0 +1,19 @@
+.I 2426
+.T
+Algorithms SCALE1, SCALE2, and SCALE3 for Determination
+of Scales on Computer Generated Plots 
+[J6] (Algorithm A463)
+.B
+CACM October, 1973
+.A
+Lewart, C. R.
+.K
+plotting, scaling for plotting
+.C
+4.41
+.N
+CA731014 JB January 20, 1978  11:01 AM
+.X
+2426	5	2426
+2426	5	2426
+2426	5	2426

@@ -1,0 +1,13 @@
+.I 1056
+.T
+Shellsort (Algorithm 201)
+.B
+CACM June, 1964
+.A
+Batty, M. A.
+.N
+CA640611 JB March 9, 1978  9:30 PM
+.X
+1056	5	1056
+1056	5	1056
+1056	5	1056

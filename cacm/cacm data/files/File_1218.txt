@@ -1,0 +1,15 @@
+.I 1218
+.T
+Partition Generator (Algorithm 263 [A1])
+.B
+CACM August, 1965
+.A
+McKay, J. K. S.
+.N
+CA650806 JB March 6, 1978  8:20 PM
+.X
+1218	5	1218
+1218	5	1218
+1218	5	1218
+2103	5	1218
+1218	6	1218

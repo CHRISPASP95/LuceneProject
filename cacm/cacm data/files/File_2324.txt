@@ -1,0 +1,32 @@
+.I 2324
+.T
+Management Science: A View from Nonlinear Programming
+.W
+A brief history of integer and continuous
+nonlinear programming is presented as well as the 
+current obstacles to practical use of these mathematical
+programming techniques.  It is forecast that 
+the useful contributions to nonlinear programming actually
+made in the next few years are more likely 
+to be consolidations than theoretical breakthroughs.  These
+contributions are likely to be the documentation 
+of standard test problems, construction of user oriented
+software, and comparisons of currently known 
+algorithms to demonstrate which techniques are best for specific problems.
+.B
+CACM July, 1972
+.A
+Shanno, D. F.
+Weil, R. L.
+.K
+integer programming, linear programming, mathematical
+programming, nonlinear programming, quadratic 
+programming, management science, operations research, algorithms
+.C
+5.41 8.3
+.N
+CA720704 JB January 30, 1978  3:14 PM
+.X
+2324	5	2324
+2324	5	2324
+2324	5	2324

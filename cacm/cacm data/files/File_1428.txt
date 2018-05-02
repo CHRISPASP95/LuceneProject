@@ -1,0 +1,21 @@
+.I 1428
+.T
+SHOCK III, A Computer System As an Aid
+in the Management of Critically III Patients
+.W
+SHOCK III, an online digital computer system
+to assist the physician, nurse and paramedical 
+personnel in monitoring and reporting on critically ill patients, is described.
+.B
+CACM May, 1966
+.A
+Rockwell Jr., M. A.
+Shubin, H.
+Weil, M. H.
+Meagher, P. F.
+.N
+CA660509 JB March 3, 1978  9:49 AM
+.X
+1428	5	1428
+1428	5	1428
+1428	5	1428

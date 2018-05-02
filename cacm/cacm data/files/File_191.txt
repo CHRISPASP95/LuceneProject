@@ -1,0 +1,14 @@
+.I 191
+.T
+Abbreviating Words Systematically
+.B
+CACM May, 1960
+.A
+Barrett, J. A.
+Grems, M.
+.N
+CA600506 JB March 22, 1978  1:29 PM
+.X
+191	5	191
+191	5	191
+191	5	191

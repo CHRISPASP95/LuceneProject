@@ -1,0 +1,47 @@
+.I 2315
+.T
+The Production of Better Mathematical Software
+.W
+Some observations are made on steps to be
+taken toward the creation of better mathematical 
+software.  These steps suggest the need for a coordinated
+effort and the creation of a center to focus 
+activities in this area.
+.B
+CACM July, 1972
+.A
+Fosdick, L. D.
+.K
+mathematical software, programming
+.C
+4.0
+.N
+CA720713 JB January 30, 1978  1:32 PM
+.X
+1330	4	2315
+1348	4	2315
+1986	4	2315
+2021	4	2315
+2222	4	2315
+2227	4	2315
+2315	4	2315
+2315	4	2315
+2315	4	2315
+2315	4	2315
+2326	4	2315
+2470	4	2315
+2732	4	2315
+2865	4	2315
+2896	4	2315
+2943	4	2315
+3014	4	2315
+3068	4	2315
+3077	4	2315
+3143	4	2315
+1348	5	2315
+1834	5	2315
+1987	5	2315
+2315	5	2315
+2315	5	2315
+2315	5	2315
+728	5	2315

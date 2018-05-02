@@ -1,0 +1,26 @@
+.I 532
+.T
+On the Computation of Rational Approximations to Continuous Functions
+.B
+CACM July, 1962
+.A
+Fraser, W.
+HArt, J. F.
+.N
+CA620729 JB March 17, 1978  7:52 PM
+.X
+951	5	532
+1015	5	532
+1346	5	532
+1440	5	532
+1645	5	532
+532	5	532
+532	5	532
+532	5	532
+951	6	532
+962	6	532
+532	6	532
+532	6	532
+532	6	532
+532	6	532
+532	6	532

@@ -1,0 +1,15 @@
+.I 768
+.T
+Certification of Algorithm 160
+Combinatorial of M Things Taken N at a Time [M. L. Wolfson and H. V. Wright,
+Comm. ACM, Apr. 1963]
+.B
+CACM August, 1963
+.A
+Thoro, D.
+.N
+CA630830 JB March 13, 1978  8:14 PM
+.X
+768	5	768
+768	5	768
+768	5	768

@@ -1,0 +1,13 @@
+.I 1311
+.T
+Efficient Autocorrelation 
+.B
+CACM February, 1965
+.A
+Schmid, L. P.
+.N
+CA650213 JB March 7, 1978  10:56 PM
+.X
+1311	5	1311
+1311	5	1311
+1311	5	1311

@@ -1,0 +1,13 @@
+.I 572
+.T
+Add Item to Chain-Linked List (Algorithm 100)
+.B
+CACM June, 1962
+.A
+Kiviat, P. J.
+.N
+CA620612 JB March 17, 1978  9:26 PM
+.X
+572	5	572
+572	5	572
+572	5	572

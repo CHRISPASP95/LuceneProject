@@ -1,0 +1,14 @@
+.I 23
+.T
+Binary and Truth-Function Operations on
+a Decimal Computer with an Extract Command
+.B
+CACM May, 1958
+.A
+Kautz, W. H.
+.N
+CA580505 JB March 22, 1978  9:12 PM
+.X
+23	5	23
+23	5	23
+23	5	23

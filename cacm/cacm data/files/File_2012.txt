@@ -1,0 +1,21 @@
+.I 2012
+.T
+Binary Ordered Walsh Functions $S22) (Algorithm 389)
+.B
+CACM August, 1970
+.A
+Hubner, H.
+.K
+Walsh functions, binary ordered Walsh functions
+.C
+5.12 5.13
+.N
+CA700809 JB February 10, 1978  3:22 PM
+.X
+2012	4	2012
+2011	5	2012
+2012	5	2012
+2012	5	2012
+2012	5	2012
+2013	5	2012
+2012	6	2012

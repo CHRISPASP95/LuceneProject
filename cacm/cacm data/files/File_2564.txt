@@ -1,0 +1,13 @@
+.I 2564
+.T
+Hidden-Line Plotting Program (Algorithm R420)
+.B
+CACM December, 1974
+.A
+Ellis, T. M. R.
+.N
+CA741210 JB January 13, 1978  3:45 PM
+.X
+2564	5	2564
+2564	5	2564
+2564	5	2564

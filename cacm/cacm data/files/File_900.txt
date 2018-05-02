@@ -1,0 +1,13 @@
+.I 900
+.T
+Ancestor (Algorithm 79)
+.B
+CACM March, 1963
+.A
+Thacher Jr., H. C.
+.N
+CA630320 JB March 14, 1978  1:23 PM
+.X
+900	5	900
+900	5	900
+900	5	900

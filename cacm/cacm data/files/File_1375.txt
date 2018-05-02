@@ -1,0 +1,13 @@
+.I 1375
+.T
+Function Minimization (Algorithm 251 [E4])
+.B
+CACM September, 1966
+.A
+Fletcher, R.
+.N
+CA660909f JB March 23, 1978  4:31 PM
+.X
+1375	5	1375
+1375	5	1375
+1375	5	1375

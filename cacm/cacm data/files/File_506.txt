@@ -1,0 +1,13 @@
+.I 506
+.T
+PERMUTATION (Algorithm 71)
+.B
+CACM August, 1962
+.A
+Hillmore, J. S.
+.N
+CA620822 JB March 17, 1978  9:30 PM
+.X
+506	5	506
+506	5	506
+506	5	506

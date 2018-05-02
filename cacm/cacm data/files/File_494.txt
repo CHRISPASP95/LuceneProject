@@ -1,0 +1,15 @@
+.I 494
+.T
+A Finite Sequentially Compact Process for the Adjoints
+of Matrices Over Arbitrary Integral Domains
+.B
+CACM August, 1962
+.A
+Luther, H. A.
+Guseman Jr., L. F.
+.N
+CA620834 JB March 17, 1978  9:04 PM
+.X
+494	5	494
+494	5	494
+494	5	494

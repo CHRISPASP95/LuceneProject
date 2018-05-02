@@ -1,0 +1,14 @@
+.I 881
+.T
+Calculation of Confluent Divided Differences (Algorithm 167)
+.B
+CACM April, 1963
+.A
+Kahan, W.
+Farkas, I.
+.N
+CA630410 JB March 14, 1978  12:21 PM
+.X
+881	5	881
+881	5	881
+881	5	881

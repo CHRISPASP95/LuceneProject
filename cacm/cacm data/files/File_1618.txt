@@ -1,0 +1,14 @@
+.I 1618
+.T
+Determination of the Square-Root of a Positive
+Definite Matrix (Algorithm 298 [F1])
+.B
+CACM March, 1967
+.A
+Spath, H.
+.N
+CA670311b JB March 23, 1978  4:09 PM
+.X
+1618	5	1618
+1618	5	1618
+1618	5	1618

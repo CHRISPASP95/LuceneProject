@@ -1,0 +1,13 @@
+.I 821
+.T
+Further Remarks on Sampling a Tape File-III
+.B
+CACM July, 1963
+.A
+Juelich, O. C.
+.N
+CA630703 JB March 14, 1978  8:48 AM
+.X
+821	5	821
+821	5	821
+821	5	821

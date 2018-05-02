@@ -1,0 +1,16 @@
+.I 528
+.T
+FORTRAN for Business Data Processing
+.B
+CACM July, 1962
+.A
+Robbins, D. K.
+.N
+CA620733 JB March 17, 1978  7:41 PM 
+.X
+1330	5	528
+528	5	528
+528	5	528
+528	5	528
+528	6	528
+728	6	528

@@ -1,0 +1,16 @@
+.I 292
+.T
+An Information Retrieval Language for Legal Studies
+.B
+CACM September, 1961
+.A
+Kehl, W. B.
+Horty, J. F.
+Bacon, C. R. T.
+Mitchell, D. S.
+.N
+CA610902 JB March 16, 1978  9:51 PM
+.X
+292	5	292
+292	5	292
+292	5	292

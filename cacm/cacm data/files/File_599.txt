@@ -1,0 +1,13 @@
+.I 599
+.T
+A Report Writer For COBOL
+.B
+CACM May, 1962
+.A
+Donally, W. L.
+.N
+CA620506 JB March 20, 1978  1:51 PM
+.X
+599	5	599
+599	5	599
+599	5	599

@@ -1,0 +1,13 @@
+.I 541
+.T
+Simpson's Integration (Algorithm 84)
+.B
+CACM July, 1962
+.A
+Relph, A. P.
+.N
+CA620720 JB March 17, 1978  8:17 PM
+.X
+541	5	541
+541	5	541
+541	5	541

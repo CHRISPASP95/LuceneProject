@@ -1,0 +1,24 @@
+.I 2041
+.T
+Shellsort (Algorithm 201 $M1))
+.B
+CACM June, 1970
+.A
+Chandler, J. P.
+Harrison, W. C.
+.K
+sorting, minimal storage sorting, digital computer sorting
+.C
+5.31
+.N
+CA700614 JB February 13, 1978  10:29 AM
+.X
+1175	4	2041
+1919	4	2041
+2017	4	2041
+2041	4	2041
+2216	4	2041
+2041	5	2041
+2041	5	2041
+2041	5	2041
+864	5	2041

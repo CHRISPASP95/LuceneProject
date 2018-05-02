@@ -1,0 +1,13 @@
+.I 1125
+.T
+Syminv2 (Algorithm 150)
+.B
+CACM March, 1964
+.A
+Naur, P.
+.N
+CA640306 JB March 10, 1978  3:36 AM
+.X
+1125	5	1125
+1125	5	1125
+1125	5	1125

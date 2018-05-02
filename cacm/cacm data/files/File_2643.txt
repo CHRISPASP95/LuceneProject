@@ -1,0 +1,27 @@
+.I 2643
+.T
+The Minimization of Spatially-Multiplexed Character Sets
+.W
+The paper describes a technique for compacting
+character sets in a digital computer while retaining 
+fast access to individual bits.  It considers the problem
+of minimizing the storage needed to contain 
+such tables.  Reduction techniques are developed, and
+the problem is shown to reduce to a covering problem.
+.B
+CACM June, 1974
+.A
+Gimpel, J. F.
+.K
+parsing, lexical analysis,scanning,
+string processing, spatial multiplexing
+.C
+4.9
+.N
+CA740603 JB January 17, 1978  3:31 PM
+.X
+2643	5	2643
+2643	5	2643
+2643	5	2643
+2706	5	2643
+2643	6	2643

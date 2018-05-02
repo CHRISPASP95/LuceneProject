@@ -1,0 +1,20 @@
+.I 2213
+.T
+Roots of Matrix Pencils: The Generalized
+Eigenvalue Problem [F2] (Algorithm 405)
+.B
+CACM February, 1971
+.A
+Dell, A. M.
+Weil, R. L.
+Thompson, G. L.
+.K
+eigenvalues, matrix roots, pencil roots
+.C
+5.1 5.3
+.N
+CA710208 JB February 8, 1978  8:37 AM
+.X
+2213	5	2213
+2213	5	2213
+2213	5	2213

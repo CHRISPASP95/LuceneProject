@@ -1,0 +1,13 @@
+.I 1376
+.T
+Modified Graeffee Method (Algorithm 256 [C2])
+.B
+CACM September, 1966
+.A
+Stern, G.
+.N
+CA660909g JB March 23, 1978  4:32 PM
+.X
+1376	5	1376
+1376	5	1376
+1376	5	1376

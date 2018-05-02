@@ -1,0 +1,13 @@
+.I 874
+.T
+Chebyshev Curvefit (Algorithm 91)
+.B
+CACM April, 1963
+.A
+Hale, R. P.
+.N
+CA630417 JB March 14, 1978  11:56 AM
+.X
+874	5	874
+874	5	874
+874	5	874

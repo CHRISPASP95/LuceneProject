@@ -1,0 +1,13 @@
+.I 625
+.T
+Reciprocal Gamma Function of Real Argument (Algorithm 80)
+.B
+CACM March, 1962
+.A
+Holsten, W.
+.N
+CA620307 JB March 20, 1978  3:05 PM
+.X
+625	5	625
+625	5	625
+625	5	625

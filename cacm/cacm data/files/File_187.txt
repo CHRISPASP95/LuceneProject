@@ -1,0 +1,13 @@
+.I 187
+.T
+Compiling Connectives
+.B
+CACM June, 1960
+.A
+Swift, C. J.
+.N
+CA600603 JB March 20, 1978  9:54 PM
+.X
+187	5	187
+187	5	187
+187	5	187

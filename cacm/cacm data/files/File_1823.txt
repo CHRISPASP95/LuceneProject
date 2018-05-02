@@ -1,0 +1,17 @@
+.I 1823
+.T
+Factorial Analysis of Variance (Algorithm [G1])
+.B
+CACM November, 1969
+.A
+Howell, J. R.
+.K
+factorial variance analysis, variance, statistical analysis
+.C
+5.5
+.N
+CA691107 JB February 15, 1978  12:22 PM
+.X
+1823	5	1823
+1823	5	1823
+1823	5	1823

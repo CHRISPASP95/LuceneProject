@@ -1,0 +1,17 @@
+.I 953
+.T
+Scanning Text with a 1401
+.B
+CACM December, 1964
+.A
+Baker, J. J.
+.N
+CA641218 JB March 9, 1978  3:13 PM
+.X
+953	5	953
+953	5	953
+953	5	953
+2870	5	953
+953	6	953
+2377	6	953
+2632	6	953

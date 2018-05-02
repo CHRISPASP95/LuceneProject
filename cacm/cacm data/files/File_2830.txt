@@ -1,0 +1,14 @@
+.I 2830
+.T
+A Practitioner's Guide to Addressing Algorithms (Corrigendum)
+.B
+CACM September, 1976
+.A
+Severance, D. G.
+Duhne, R. A.
+.N
+CA760909 JB January 4, 1978  8:43 AM
+.X
+2830	5	2830
+2830	5	2830
+2830	5	2830

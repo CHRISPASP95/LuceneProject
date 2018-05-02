@@ -1,0 +1,13 @@
+.I 373
+.T
+Correlation Coefficients with Matrix Multiplication (Algorithm 39)
+.B
+CACM March, 1961
+.A
+Sassouni, P.
+.N
+CA610309 JB March 17, 1978  12:37 AM
+.X
+373	5	373
+373	5	373
+373	5	373

@@ -1,0 +1,13 @@
+.I 37
+.T
+Impact of Computer Developments
+.B
+CACM December, 1959
+.A
+Humphrey, S. M.
+.N
+CA591205 JB March 22, 1978  3:36 PM
+.X
+37	5	37
+37	5	37
+37	5	37

@@ -1,0 +1,14 @@
+.I 748
+.T
+A Semi-Iterative Process for Evaluating Arctangents
+.B
+CACM September, 1963
+.A
+Chu, W. H.
+Saathoff, D. R.
+.N
+CA630910 JB March 13, 1978  7:33 PM
+.X
+748	5	748
+748	5	748
+748	5	748

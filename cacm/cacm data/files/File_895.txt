@@ -1,0 +1,17 @@
+.I 895
+.T
+A Computational Extension of the Variate Difference Method
+.W
+Presented here is a computational extension
+of the variate difference method as developed by 
+G. Tintner [1].
+.B
+CACM March, 1963
+.A
+Scheinok, P. A.
+.N
+CA630325 JB March 14, 1978  12:57 PM
+.X
+895	5	895
+895	5	895
+895	5	895

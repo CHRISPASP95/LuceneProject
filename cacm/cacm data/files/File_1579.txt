@@ -1,0 +1,14 @@
+.I 1579
+.T
+Real Error Function, ERF(x) (Algorithm 123 [S15])
+.B
+CACM June, 1967
+.A
+Hill, I. D.
+Joyce, S. A.
+.N
+CA670607g JB March 23, 1978  3:34 PM
+.X
+1579	5	1579
+1579	5	1579
+1579	5	1579

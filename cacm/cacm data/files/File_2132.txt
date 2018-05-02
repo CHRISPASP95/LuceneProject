@@ -1,0 +1,23 @@
+.I 2132
+.T
+Rapid Computation of Coefficients of Interpolation
+Formulas [E1] (Algorithm 416)
+.B
+CACM December, 1971
+.A
+Gustafson, S.
+.K
+divided differences, Newton's interpolation formula
+.C
+5.13
+.N
+CA711211 JB February 2, 1978  9:36 AM
+.X
+2131	4	2132
+2132	4	2132
+2135	5	2132
+2132	5	2132
+2132	5	2132
+2132	5	2132
+2131	6	2132
+2132	6	2132

@@ -1,0 +1,31 @@
+.I 1875
+.T
+Polynomial and Spline Approximation by Quadratic Programming
+.W
+The problem of approximation to a given function,
+or of fitting a given set of data, where 
+the approximating function is required to have certain
+of its derivations of specified sign over the 
+whole range of approximation, is studied.  Two approaches
+are presented, in each of which quadratic programming 
+is used to provide both the constraints on the derivatives
+and the selection of the function which yields 
+the best fit.  The first is a modified Bernstein polynomial
+scheme, and the second is a spline fit.
+.B
+CACM July, 1969
+.A
+Amos, D. E.
+Slater, M. L.
+.K
+constant sign derivatives, Bernstein polynomials,
+linear concavity constraints, quadratic programming 
+splines
+.C
+5.13 5.41
+.N
+CA690705 JB February 17, 1978  9:22 AM
+.X
+1875	5	1875
+1875	5	1875
+1875	5	1875

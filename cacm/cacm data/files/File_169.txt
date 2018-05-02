@@ -1,0 +1,13 @@
+.I 169
+.T
+The Multilingual Terminology Project
+.B
+CACM July, 1960
+.A
+Holmstrom, J. E.
+.N
+CA600704 JB March 20, 1978  9:17 PM
+.X
+169	5	169
+169	5	169
+169	5	169

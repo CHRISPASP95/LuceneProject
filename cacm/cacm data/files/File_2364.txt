@@ -1,0 +1,23 @@
+.I 2364
+.T
+Complex Gamma Function with Error Control [S14] (Algorithm A421)
+.B
+CACM April, 1972
+.A
+Kuki, H.
+.K
+complex gamma function, gamma function, complex
+log gamma function, loggamma function, round-off 
+error control, inherent error control, run-time error
+estimates, error estimates, special functions
+.C
+4.9 5.11 5.12
+.N
+CA720409 JB January 31, 1978  12:50 PM
+.X
+2364	4	2364
+2364	5	2364
+2364	5	2364
+2364	5	2364
+2366	5	2364
+2364	6	2364

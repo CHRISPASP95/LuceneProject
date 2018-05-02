@@ -1,0 +1,13 @@
+.I 268
+.T
+Stochastic Evaluation of a Static Storage Allocation
+.B
+CACM October, 1961
+.A
+Cohen, L. J.
+.N
+CA611013 JB March 16, 1978  12:48 PM
+.X
+268	5	268
+268	5	268
+268	5	268

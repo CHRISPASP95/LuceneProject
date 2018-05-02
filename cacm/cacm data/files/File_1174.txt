@@ -1,0 +1,13 @@
+.I 1174
+.T
+Inverse Permutation (Algorithm 250 [G6])
+.B
+CACM November, 1965
+.A
+Medlock, C. W.
+.N
+CA651107 JB March 6, 1978  5:01 PM
+.X
+1174	5	1174
+1174	5	1174
+1174	5	1174

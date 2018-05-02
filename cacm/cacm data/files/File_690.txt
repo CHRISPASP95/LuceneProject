@@ -1,0 +1,20 @@
+.I 690
+.T
+USA Participation in an International
+Standard glossary on Information Processing
+.B
+CACM November, 1963
+.A
+Traub, J. F.
+.N
+CA631102 JB March 13, 1978  3:52 PM
+.X
+690	4	690
+690	4	690
+690	4	690
+929	5	690
+3195	5	690
+690	5	690
+690	5	690
+690	5	690
+890	5	690

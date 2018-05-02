@@ -1,0 +1,13 @@
+.I 743
+.T
+ARCCOSIN (Algorithm 206)
+.B
+CACM September, 1963
+.A
+Konda, M.
+.N
+CA630915 JB March 13, 1978  7:26 PM
+.X
+743	5	743
+743	5	743
+743	5	743

@@ -1,0 +1,20 @@
+.I 2391
+.T
+Unitary Symmetric Polynomials [Z] (Algorithm R391)
+.B
+CACM January, 1972
+.A
+Schrack, G. F.
+.K
+symmetric polynomials, elementary symmetric polynomials,
+unitary symmetric polynomials, polynomial 
+synthesis, reverse Horner scheme, reverse
+synthetic division, binomial coefficients
+.C
+5.11 5.30 5.5
+.N
+CA720112 JB February 1, 1978  8:55 AM
+.X
+2391	5	2391
+2391	5	2391
+2391	5	2391

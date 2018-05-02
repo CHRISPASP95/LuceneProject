@@ -1,0 +1,21 @@
+.I 1069
+.T
+A Method for Comparing the Internal Operating Speeds of Computers
+.B
+CACM May, 1964
+.A
+Raichelson, E.
+Collins, G.
+.N
+CA640520 JB March 9, 1978  11:35 PM
+.X
+1069	5	1069
+1069	5	1069
+1069	5	1069
+1653	5	1069
+2989	5	1069
+963	6	1069
+1069	6	1069
+1069	6	1069
+1417	6	1069
+2138	6	1069

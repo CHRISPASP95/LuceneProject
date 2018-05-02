@@ -1,0 +1,14 @@
+.I 287
+.T
+The Generalized Important Event Technique
+.B
+CACM September, 1961
+.A
+Shapiro, N.
+Vreenegoor, H.
+.N
+CA610907 JB March 16, 1978  9:42 PM
+.X
+287	5	287
+287	5	287
+287	5	287

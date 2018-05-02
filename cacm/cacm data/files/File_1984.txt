@@ -1,0 +1,17 @@
+.I 1984
+.T
+Tableless Date Conversion $Z) (Algorithm 398)
+.B
+CACM October, 1970
+.A
+Stone, R. A.
+.K
+date, calendar
+.C
+5.9
+.N
+CA701006 JB February 10, 1978  9:25 AM
+.X
+1984	5	1984
+1984	5	1984
+1984	5	1984

@@ -1,0 +1,13 @@
+.I 976
+.T
+Fresnel Integrals (Algorithm 213 [S20])
+.B
+CACM November, 1964
+.A
+Gray, M.
+.N
+CA641107 JB March 9, 1978  4:06 PM
+.X
+976	5	976
+976	5	976
+976	5	976

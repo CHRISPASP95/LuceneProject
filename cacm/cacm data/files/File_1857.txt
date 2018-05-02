@@ -1,0 +1,24 @@
+.I 1857
+.T
+Filon Quadrature (Algorithm [D1])
+.B
+CACM August, 1969
+.A
+Chase, S. M.
+Fosdick, L. D.
+.K
+quadrature, Filon quadrature, integration, Filon
+integration, Fourier coefficients, Fourier series
+.C
+5.16
+.N
+CA690806 JB February 15, 1978  5:52 PM
+.X
+1857	4	1857
+2393	4	1857
+1858	5	1857
+1857	5	1857
+1857	5	1857
+1857	5	1857
+1268	6	1857
+1857	6	1857

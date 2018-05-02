@@ -1,0 +1,16 @@
+.I 279
+.T
+The Case for Dynamic storage Allocation 
+.B
+CACM October, 1961
+.A
+Sams, B. H.
+.N
+CA611002 JB March 16, 1978  1:23 PM
+.X
+279	5	279
+279	5	279
+279	5	279
+657	5	279
+279	6	279
+409	6	279

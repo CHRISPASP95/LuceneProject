@@ -1,0 +1,14 @@
+.I 452
+.T
+Nesting of for Statement I (Algorithm 137)
+.B
+CACM November, 1962
+.A
+Dahm, D. M.
+Wells, M.
+.N
+CA621109 JB March 17, 1978  6:15 PM
+.X
+452	5	452
+452	5	452
+452	5	452

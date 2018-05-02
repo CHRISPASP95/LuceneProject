@@ -1,0 +1,13 @@
+.I 899
+.T
+Magic Square (Algorithm 117 & 118)
+.B
+CACM March, 1963
+.A
+Bosworth, K. M.
+.N
+CA630321 JB March 14, 1978  1:02 PM
+.X
+899	5	899
+899	5	899
+899	5	899

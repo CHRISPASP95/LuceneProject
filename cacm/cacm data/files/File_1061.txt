@@ -1,0 +1,13 @@
+.I 1061
+.T
+Matrix Permutation (Algorithm 230)
+.B
+CACM June, 1964
+.A
+Boothroyd, J.
+.N
+CA640606 JB March 9, 1978  9:36 PM 
+.X
+1061	5	1061
+1061	5	1061
+1061	5	1061

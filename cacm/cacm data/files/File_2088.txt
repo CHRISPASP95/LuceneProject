@@ -1,0 +1,19 @@
+.I 2088
+.T
+Netflow (ALgorithm 336 $H))
+.B
+CACM March, 1970
+.A
+Bray, T. A.
+Witzgall, C.
+.K
+capacitated network, linear programming, minimum-cost
+flow, network flow, out-of-kilter
+.C
+5.32 5.41
+.N
+CA700310 JB February 13, 1978  3:44 PM
+.X
+2088	5	2088
+2088	5	2088
+2088	5	2088

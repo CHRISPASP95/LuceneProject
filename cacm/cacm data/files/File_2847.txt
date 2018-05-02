@@ -1,0 +1,41 @@
+.I 2847
+.T
+Sampling from the Gamma Distribution on a Computer
+.W
+This paper describes a method of generating
+gamma variates that appears to be less costly than 
+Wallace's recently suggested method.  For large shape parameter
+(a); the cost of computation is proportional 
+to (a), whereas Wallace's method is proportional to (a).
+ Experimentation by Robinson and Lewis indicates 
+that for small (a) the method suggested here also dominates
+methods recently suggested by Dieter and 
+Ahrens, albeit those methods dominate for large (a).  The
+method suggested here uses the rejection technique.
+.B
+CACM July, 1976
+.A
+Fishman, G. S.
+.K
+gamma variates, reflection method, sampling
+.C
+5.5 8.1 8.3
+.N
+CA760706 JB January 4, 1978  12:34 PM
+.X
+2847	4	2847
+2928	4	2847
+3046	4	2847
+3098	4	2847
+3107	4	2847
+2569	5	2847
+2847	5	2847
+2847	5	2847
+2847	5	2847
+3046	5	2847
+3098	5	2847
+2569	6	2847
+2569	6	2847
+2847	6	2847
+2847	6	2847
+3098	6	2847

@@ -1,0 +1,13 @@
+.I 910
+.T
+Selective Instruction Trap for the 7090
+.B
+CACM March, 1963
+.A
+Mayer, R. J.
+.N
+CA630311 JB March 14, 1978  1:41 PM
+.X
+910	5	910
+910	5	910
+910	5	910

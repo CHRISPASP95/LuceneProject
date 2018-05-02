@@ -1,0 +1,13 @@
+.I 725
+.T
+Group Participation Computer Demonstration
+.B
+CACM October, 1963
+.A
+McCormick, E. M.
+.N
+CA630933 JB March 13, 1978  6:50 PM
+.X
+725	5	725
+725	5	725
+725	5	725

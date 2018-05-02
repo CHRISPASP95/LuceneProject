@@ -1,0 +1,13 @@
+.I 480
+.T
+Quick Calculation of Jacobian Elliptic Functions (Corrigendum)
+.B
+CACM September, 1962
+.A
+Salzer, H. E.
+.N
+CA620912 JB March 17, 1978  7:28 PM
+.X
+480	5	480
+480	5	480
+480	5	480

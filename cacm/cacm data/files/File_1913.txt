@@ -1,0 +1,19 @@
+.I 1913
+.T
+Polygamma Functions with Arbitrary Precision (Algorithm 349 [S14])
+.B
+CACM April, 1969
+.A
+Schwachheim, G.
+.K
+polygamma function, psi function, digamma function,
+trigamma function, tetragamma function, pentagamma 
+function, special functions
+.C
+5.12
+.N
+CA690404 JB February 17, 1978  4:36 PM
+.X
+1913	5	1913
+1913	5	1913
+1913	5	1913

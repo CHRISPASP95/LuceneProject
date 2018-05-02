@@ -1,0 +1,13 @@
+.I 2639
+.T
+Calculation of Fourier Integrals (Algorithm R418)
+.B
+CACM June, 1974
+.A
+Piessens, R.
+.N
+CA740607 JB January 17, 1978  3:01 PM
+.X
+2639	5	2639
+2639	5	2639
+2639	5	2639

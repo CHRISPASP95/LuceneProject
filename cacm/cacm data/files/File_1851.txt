@@ -1,0 +1,17 @@
+.I 1851
+.T
+Generator of Spanning Trees (Algorithms 354 [H])
+.B
+CACM September, 1969
+.A
+McIlroy, M. D.
+.K
+spanning trees, trees, graphs
+.C
+5.32
+.N
+CA690904 JB February 15, 1978  4:50 PM
+.X
+1851	5	1851
+1851	5	1851
+1851	5	1851

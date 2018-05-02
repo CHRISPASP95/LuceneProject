@@ -1,0 +1,14 @@
+.I 645
+.T
+INVRS (Algorithm 66)
+.B
+CACM January, 1962
+.A
+Randell, B.
+Broyden, C. G.
+.N
+CA620114 JB March 20, 1978  4:04 PM
+.X
+645	5	645
+645	5	645
+645	5	645

@@ -1,0 +1,21 @@
+.I 1801
+.T
+Analysis of Variance for Balanced Experiments (Algorithm 367 [G2])
+.B
+CACM December, 1969
+.A
+Claringbold, P. J.
+.K
+analysis of variance, analysis of covariance, regression
+analysis, experimental design, balanced 
+experiment, missing data, interblock estimate, intra block estimate
+.C
+5.14 5.5
+.N
+CA691211 JB February 15, 1978  2:14 PM
+.X
+1801	4	1801
+1801	5	1801
+1801	5	1801
+1801	5	1801
+1802	5	1801

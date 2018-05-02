@@ -1,0 +1,21 @@
+.I 165
+.T
+NELIAC-A Dialect of ALGOL
+.B
+CACM August, 1960
+.A
+Huskey, H. D.
+Halstead, M. H.
+.N
+CA600801 JB March 20, 1978  9:03 PM
+.X
+123	5	165
+165	5	165
+165	5	165
+165	5	165
+637	5	165
+1	6	165
+123	6	165
+165	6	165
+165	6	165
+196	6	165

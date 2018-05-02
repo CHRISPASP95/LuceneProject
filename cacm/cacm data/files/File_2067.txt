@@ -1,0 +1,19 @@
+.I 2067
+.T
+Comment on Lawler's Multilevel Boolean Minimization
+.B
+CACM April, 1970
+.A
+DeVries, R. C.
+.K
+multilevel logic design, generalized prime implicants,
+minimal forms, minimization, incompletely
+specified functions
+.C
+6.1
+.N
+CA700417 JB February 13, 1978  2:32 PM
+.X
+2067	5	2067
+2067	5	2067
+2067	5	2067

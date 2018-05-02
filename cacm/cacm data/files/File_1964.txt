@@ -1,0 +1,17 @@
+.I 1964
+.T
+Comment on the Working Set Model for Program Behavior
+.B
+CACM November, 1970
+.A
+Bernstein, A.
+.K
+demand paging, working set, paging rate, multiprogramming
+.C
+4.30 4.32
+.N
+CA701115 JB February 9, 1978  4:23 PM
+.X
+1964	5	1964
+1964	5	1964
+1964	5	1964

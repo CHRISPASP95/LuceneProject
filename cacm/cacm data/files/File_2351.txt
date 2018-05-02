@@ -1,0 +1,17 @@
+.I 2351
+.T
+The Optimality of Winograd's Formula
+.B
+CACM May, 1972
+.A
+Harter, R.
+.K
+inner product, Winograd's formula
+.C
+5.14
+.N
+CA720509 JB January 31, 1978  9:38 AM
+.X
+2351	5	2351
+2351	5	2351
+2351	5	2351

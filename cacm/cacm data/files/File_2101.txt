@@ -1,0 +1,20 @@
+.I 2101
+.T
+Least Squares Fit By f(x) = Acos(Bx+C) (Algorithm 376 $E2))
+.B
+CACM February, 1970
+.A
+Spath, H.
+.K
+nonlinear least squares fit
+.C
+5.15
+.N
+CA700214 JB February 14, 1978  9:47 AM
+.X
+2101	4	2101
+2102	4	2101
+1639	5	2101
+2101	5	2101
+2101	5	2101
+2101	5	2101

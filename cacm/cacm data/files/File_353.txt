@@ -1,0 +1,13 @@
+.I 353
+.T
+Logarithm of A Complex Number (Algorithm 48)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610415 JB March 16, 1978  11:53 PM
+.X
+353	5	353
+353	5	353
+353	5	353

@@ -1,0 +1,19 @@
+.I 2504
+.T
+Concerning Music and Computer Composition in Computational Linguistics
+.B
+CACM May, 1973
+.A
+McMorrow, C. H.
+.K
+artificial intelligence, heuristic programming,
+models of cognitive processes, computer music, 
+computer composition,music theory
+.C
+3.44 3.65
+.N
+CA730516 JB January 23, 1978  4:27 PM
+.X
+2504	5	2504
+2504	5	2504
+2504	5	2504

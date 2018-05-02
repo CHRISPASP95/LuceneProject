@@ -1,0 +1,19 @@
+.I 2663
+.T
+A Study of Computer Use in a Graduate School of Business
+.B
+CACM April, 1974
+.A
+Lucas, H. C. Jr.
+Montgomery, D. B.
+Larreche, J. C.
+.K
+education, management, business schools
+.C
+1.50 1.52
+.N
+CA740407 JB January 18, 1978  9:35 AM
+.X
+2663	5	2663
+2663	5	2663
+2663	5	2663

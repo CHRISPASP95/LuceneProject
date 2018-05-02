@@ -1,0 +1,14 @@
+.I 529
+.T
+Regression and Coded Patterns in Data Editing
+.B
+CACM July, 1962
+.A
+Robison, D. E.
+Aroian, L. A.
+.N
+CA620732 JB March 17, 1978  7:42 PM
+.X
+529	5	529
+529	5	529
+529	5	529

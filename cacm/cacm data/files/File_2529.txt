@@ -1,0 +1,21 @@
+.I 2529
+.T
+Binary Pattern Reconstruction from Projections [Z] (Algorithm A445)
+.B
+CACM March, 1973
+.A
+Chang, S.
+.K
+pattern reconstruction, image reconstruction,
+data compression, picture processing 
+.C
+3.63 5.30
+.N
+CA730310 JB January 24, 1978  10:25 AM
+.X
+2142	4	2529
+2529	4	2529
+2231	5	2529
+2529	5	2529
+2529	5	2529
+2529	5	2529

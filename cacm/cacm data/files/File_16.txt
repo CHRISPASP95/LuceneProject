@@ -1,0 +1,15 @@
+.I 16
+.T
+Secant Modification of Newton's Method
+.B
+CACM August, 1958
+.A
+Jeeves, T. A.
+.N
+CA580802 JB March 22, 1978  9:03 PM
+.X
+16	5	16
+16	5	16
+16	5	16
+39	5	16
+16	6	16

@@ -1,0 +1,13 @@
+.I 906
+.T
+Combination in any Order (Algorithm 155)
+.B
+CACM March, 1963
+.A
+Mifsud, C. J.
+.N
+CA630314 JB March 14, 1978  1:33 PM
+.X
+906	5	906
+906	5	906
+906	5	906

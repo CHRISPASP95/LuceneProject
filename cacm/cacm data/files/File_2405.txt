@@ -1,0 +1,17 @@
+.I 2405
+.T
+Linear Systems with Almost Tridiagonal Matrix [F4] (Algorithm A470)
+.B
+CACM December, 1973
+.A
+Kubicek, M.
+.K
+system of linear equations, almost tridiagonal matrix, sparse matrix
+.C
+5.14
+.N
+CA731203 JB January 19, 1978  2:50 PM
+.X
+2405	5	2405
+2405	5	2405
+2405	5	2405

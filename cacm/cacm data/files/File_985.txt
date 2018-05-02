@@ -1,0 +1,11 @@
+.I 985
+.T
+Report on SUBSET ALGOL 60 (IFIP)
+.B
+CACM October, 1964
+.N
+CA641017 JB March 9, 1978  4:33 PM
+.X
+985	5	985
+985	5	985
+985	5	985

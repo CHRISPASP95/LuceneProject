@@ -1,0 +1,13 @@
+.I 455
+.T
+Exponentiation of Series (Algorithm 134)
+.B
+CACM November, 1962
+.A
+Fettis, H. E.
+.N
+CA621106 JB March 17, 1978  6:52 PM
+.X
+455	5	455
+455	5	455
+455	5	455

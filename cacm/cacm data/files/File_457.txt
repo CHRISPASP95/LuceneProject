@@ -1,0 +1,13 @@
+.I 457
+.T
+Quantum Mechanical Integrals Over all Slater-Type Integrals
+.B
+CACM November, 1962
+.A
+Browne, J. C.
+.N
+CA621104 JB March 17, 1978  6:54 PM
+.X
+457	5	457
+457	5	457
+457	5	457

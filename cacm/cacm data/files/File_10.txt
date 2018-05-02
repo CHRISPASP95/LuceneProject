@@ -1,0 +1,11 @@
+.I 10
+.T
+Glossary of Computer Engineering and Programming Terminology
+.B
+CACM September, 1958
+.N
+CA580903 JB March 22, 1978  8:39 PM
+.X
+10	5	10
+10	5	10
+10	5	10

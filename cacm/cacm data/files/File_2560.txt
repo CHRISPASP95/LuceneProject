@@ -1,0 +1,28 @@
+.I 2560
+.T
+A Queuing Model of a Multiprogrammed
+Computer with a Two-Level Storage System
+.W
+The results are presented of an analysis of
+a probabilistic model of a multiprogrammed computer 
+system with a two-level storage system in which there
+is sequential dependency of accesses between the 
+devices.  Expressions are obtained for the long-run probability
+that both the CPU and each of the storage 
+devices are busy.  Some numerical results are given which
+quantify the gains in CPU utilization obtainable 
+by multiprogramming in the presence of this type of storage system.
+.B
+CACM January, 1973
+.A
+Shedler, G. S.
+.K
+multiprogrammed computer system, storage system, hierarchical index sets
+.C
+4.32
+.N
+CA730101 JB January 24, 1978  4:55 PM
+.X
+2560	5	2560
+2560	5	2560
+2560	5	2560

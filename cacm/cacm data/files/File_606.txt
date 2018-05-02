@@ -1,0 +1,14 @@
+.I 606
+.T
+A Method for Eliminating Ambiguity Due
+to Signal Coincidence in Digital Design
+.B
+CACM April, 1962
+.A
+Kaiser, C. J.
+.N
+CA620411 JB March 20, 1978  2:16 PM
+.X
+606	5	606
+606	5	606
+606	5	606

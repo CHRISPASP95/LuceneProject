@@ -1,0 +1,16 @@
+.I 1268
+.T
+Logarithm of a Complex Number (Algorithm 243 [B3])
+.B
+CACM May, 1965
+.A
+Boothroyd, J.
+.N
+CA650502 JB March 7, 1978  3:11 PM
+.X
+1268	5	1268
+1268	5	1268
+1268	5	1268
+1858	5	1268
+1268	6	1268
+1857	6	1268

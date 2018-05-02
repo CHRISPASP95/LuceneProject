@@ -1,0 +1,16 @@
+.I 518
+.T
+Magic Square (Odd Order) (Algorithm 118)
+.B
+CACM August, 1962
+.A
+Collison, D. M.
+.N
+CA620810 JB March 17, 1978  9:45 PM
+.X
+2082	5	518
+518	5	518
+518	5	518
+518	5	518
+1491	6	518
+518	6	518

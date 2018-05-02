@@ -1,0 +1,25 @@
+.I 124
+.T
+An Algorithm for the Assignment Problem
+.W
+The assignment problem is formulated and briefly
+discussed.  An efficient algorithm for its 
+solution is presented in ALGOL code.  An empirical relation
+between solution time and the size of the 
+problem is given, based on extensive experiments
+carried out on a digital computer.
+.B
+CACM November, 1960
+.A
+Silver, R.
+.N
+CA601111 JB March 20, 1978  7:05 PM
+.X
+124	5	124
+124	5	124
+124	5	124
+2133	5	124
+2134	5	124
+124	6	124
+124	6	124
+2134	6	124

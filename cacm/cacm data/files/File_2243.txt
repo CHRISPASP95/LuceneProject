@@ -1,0 +1,17 @@
+.I 2243
+.T
+Product Type Simpson's Integration [D1] (Algorithm A437)
+.B
+CACM December, 1972
+.A
+Boland, W. R.
+.K
+numerical integration, product type quadrature, Simpson's rule
+.C
+5.16
+.N
+CA721212 JB January 27, 1978  9:10 AM
+.X
+2243	5	2243
+2243	5	2243
+2243	5	2243

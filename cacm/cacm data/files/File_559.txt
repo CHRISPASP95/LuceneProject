@@ -1,0 +1,13 @@
+.I 559
+.T
+Solution of Eigenvalue Problems With Approximately Known Eigenvectors
+.B
+CACM July, 1962
+.A
+Appel, K.
+.N
+CA620702 JB March 17, 1978  9:10 PM
+.X
+559	5	559
+559	5	559
+559	5	559

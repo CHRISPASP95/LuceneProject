@@ -1,0 +1,13 @@
+.I 1436
+.T
+Interchange of Two Blocks of Data (Algorithm 284 [K2])
+.B
+CACM May, 1966
+.A
+Fletcher, W.
+.N
+CA660501a JB March 3, 1978  10:21 AM
+.X
+1436	5	1436
+1436	5	1436
+1436	5	1436

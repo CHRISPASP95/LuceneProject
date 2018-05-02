@@ -1,0 +1,13 @@
+.I 732
+.T
+Monte Carlo Inverse (Algorithm 166)
+.B
+CACM September, 1963
+.A
+Rodman,R. D.
+.N
+CA630926 JB March 13, 1978  7:11 PM
+.X
+732	5	732
+732	5	732
+732	5	732

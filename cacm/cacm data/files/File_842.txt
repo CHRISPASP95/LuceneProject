@@ -1,0 +1,13 @@
+.I 842
+.T
+A Posteriori Bounds on a Zero of a Polynomial (Algorithm 174)
+.B
+CACM June, 1963
+.A
+Gibb, A.
+.N
+CA630607 JB March 14, 1978  10:21 AM
+.X
+842	5	842
+842	5	842
+842	5	842

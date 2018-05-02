@@ -1,0 +1,13 @@
+.I 227
+.T
+ROOTFINDER (Algorithm 2)
+.B
+CACM February, 1960
+.A
+Wegstein, J.
+.N
+CA600205 JB March 22, 1978  2:20 PM
+.X
+227	5	227
+227	5	227
+227	5	227

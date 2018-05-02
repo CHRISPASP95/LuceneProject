@@ -1,0 +1,13 @@
+.I 1000
+.T
+Computer Patent Disclosures
+.B
+CACM October, 1964
+.A
+Kates, J. P.
+.N
+CA641002 JB March 9, 1978  4:55 PM
+.X
+1000	5	1000
+1000	5	1000
+1000	5	1000

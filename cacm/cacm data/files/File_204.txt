@@ -1,0 +1,15 @@
+.I 204
+.T
+Proving Theorems by Pattern Recognition I
+.B
+CACM April, 1960
+.A
+Wang, H.
+.N
+CA600407 JB March 22, 1978  1:47 PM
+.X
+204	4	204
+204	5	204
+204	5	204
+204	5	204
+3194	5	204

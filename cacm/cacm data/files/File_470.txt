@@ -1,0 +1,13 @@
+.I 470
+.T
+Summation of Fourier Series (Algorithm 128)
+.B
+CACM October, 1962
+.A
+Wells, M.
+.N
+CA621010 JB March 17, 1978  7:16 PM
+.X
+470	5	470
+470	5	470
+470	5	470

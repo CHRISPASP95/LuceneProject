@@ -1,0 +1,52 @@
+.I 3113
+.T
+Optimal Conversion of Extended-Entry
+Decision Tables with General Cost Criteria
+.W
+A general dynamic programming algorithm for converting
+limited, extended, or mixed entry decision 
+tables to optimal decision trees is presented which can
+take into account rule frequencies or probabilities, 
+minimum time and/or space cost criteria, common action
+sets, compressed rules and ELSE rules, sequencing 
+constraints on condition tests, excludable combinations
+of conditions, certain ambiguities, and interrupted 
+rule masking. 
+.B
+CACM April, 1978
+.A
+Lew, A.
+.K
+Decision table, optimal programs, dynamic programming
+.C
+3.59 4.19 4.29 4.49 5.39 5.42 8.3
+.N
+CA780403 DH February 26, 1979  4:37 PM
+.X
+1684	4	3113
+2053	4	3113
+2220	4	3113
+2273	4	3113
+2453	4	3113
+2598	4	3113
+2598	4	3113
+2691	4	3113
+2726	4	3113
+2726	4	3113
+2845	4	3113
+2856	4	3113
+2856	4	3113
+3033	4	3113
+3113	4	3113
+3113	4	3113
+3113	4	3113
+3113	4	3113
+3113	4	3113
+1354	5	3113
+2263	5	3113
+2598	5	3113
+2691	5	3113
+2856	5	3113
+3113	5	3113
+3113	5	3113
+3113	5	3113

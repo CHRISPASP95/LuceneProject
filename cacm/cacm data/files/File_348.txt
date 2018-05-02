@@ -1,0 +1,13 @@
+.I 348
+.T
+Nth Roots of a Complex Number (Algorithm 53)
+.B
+CACM April, 1961
+.A
+Herndon, J. R.
+.N
+CA610420 JB March 16, 1978  11:47 PM
+.X
+348	5	348
+348	5	348
+348	5	348

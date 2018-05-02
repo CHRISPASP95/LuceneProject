@@ -1,0 +1,11 @@
+.I 147
+.T
+Report on a Conference of University Computing Center Directors
+.B
+CACM October, 1960
+.N
+CA601001 JB March 20, 1978  8:38 PM
+.X
+147	5	147
+147	5	147
+147	5	147

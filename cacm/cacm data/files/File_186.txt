@@ -1,0 +1,13 @@
+.I 186
+.T
+An Algorithm Defining ALGOL Assignment Statements (Addendum)
+.B
+CACM June, 1960
+.A
+Floyd, R. W.
+.N
+CA600604 JB March 20, 1978  9:47 PM
+.X
+186	5	186
+186	5	186
+186	5	186

@@ -1,0 +1,13 @@
+.I 2026
+.T
+Exponential Integral (Algorithm 385 $S13))
+.B
+CACM July, 1970
+.A
+Ng, E. W.
+.N
+CA700711 JB February 10, 1978  4:27 PM
+.X
+2026	5	2026
+2026	5	2026
+2026	5	2026

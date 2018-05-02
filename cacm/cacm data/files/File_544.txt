@@ -1,0 +1,13 @@
+.I 544
+.T
+ Ber or Bei Function (Algorithm 57)
+.B
+CACM July, 1962
+.A
+Relph, A. P.
+.N
+CA620717 JB March 17, 1978  8:21 PM
+.X
+544	5	544
+544	5	544
+544	5	544

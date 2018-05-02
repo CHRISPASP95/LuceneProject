@@ -1,0 +1,13 @@
+.I 646
+.T
+Inverse of a Finite Segment of the Hilbert Matrix (Algorithm 50)
+.B
+CACM January, 1962
+.A
+Randell, B.
+.N
+CA620113 JB March 20, 1978  4:31 PM
+.X
+646	5	646
+646	5	646
+646	5	646

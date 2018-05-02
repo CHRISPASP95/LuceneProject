@@ -1,0 +1,13 @@
+.I 465
+.T
+PERM (Algorithm 115)
+.B
+CACM October, 1962
+.A
+Schrack, G. F.
+.N
+CA621015 JB March 17, 1978  7:12 PM
+.X
+465	5	465
+465	5	465
+465	5	465

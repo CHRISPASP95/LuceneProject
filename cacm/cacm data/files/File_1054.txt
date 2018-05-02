@@ -1,0 +1,13 @@
+.I 1054
+.T
+Gauss-Seidel (Algorithm 220 )
+.B
+CACM June, 1964
+.A
+Batson, A. P.
+.N
+CA640613 JB March 9, 1978  9:28 PM
+.X
+1054	5	1054
+1054	5	1054
+1054	5	1054
